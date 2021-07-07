@@ -1,0 +1,109 @@
+{
+	"code": "RS",
+	"standards": [
+		{
+			"serial": 1,
+
+			"header": "The hospital provides respiratory care services.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Respiratory care services are provided twenty four hours a day, seven days a week."
+				},
+				{
+					"header": "A qualified respiratory therapist with a minimum of bachelor's of science in respiratory care directs the work of the respiratory care therapists and provides the general administration of the respiratory care services department/unit."
+				},
+				{
+					"header": "A qualified physician (e.g., pulmonologist, anesthesiologist, or intensivist) provides the medical supervision on the clinical activities of the respiratory care services department/unit."
+				},
+				{
+					"header": "Personnel providing respiratory services are trained professionals in respiratory care."
+				},
+				{
+					"header": "Clinical staff providing respiratory care services are certified in advanced life support as appropriate to the age of the patients served and are present on site or at least one certified individual is assigned on every shift."
+				}
+			]
+		},
+		{
+			"serial": 2,
+
+			"header": "Policies and procedures guide respiratory care services.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There are policies and procedures to guide respiratory care services including, but are not limited to:",
+
+					"details": [
+						"Use of equipment.",
+						"Pulmonary function testing.",
+						"Coughing and breathing exercise.",
+						"Obtaining arterial blood gasses.",
+						"Mechanical ventilator support.",
+						"Dealing with open cases of Tuberculosis."
+					]
+				},
+				{
+					"header": "Policies and procedures are implemented."
+				}
+			]
+		},
+		{
+			"serial": 3,
+
+			"header": "All equipment and machines in the respiratory care services are operated within manufacturers’ specifications and maintained free of defects.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "All equipment and machines are operated within manufacturers’ specifications."
+				},
+				{
+					"header": "The periodical preventive maintenance is developed and implemented in accordance with manufacturers’ instructions."
+				},
+				{
+					"header": "All maintenance and repair records are maintained for future reference and inspection."
+				}
+			]
+		},
+		{
+			"serial": 4,
+
+			"header": "Each patient’s respiratory care is planned and documented in the medical record.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The plan of care is developed through an evidence-based and collaborative approach among the team members involved."
+				},
+				{
+					"header": "Comprehensive assessment and reassessment are performed for each patient."
+				},
+				{
+					"header": "The plan of care and the response to treatment are documented in the patient’s medical record."
+				}
+			]
+		},
+		{
+			"serial": 5,
+
+			"header": "There is an ongoing competency assessment of the respiratory care staff.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Staff members receive ongoing training and education, as applicable, on the unit’s protocols, policies and procedures."
+				},
+				{
+					"header": "Competencies are assessed and results are documented."
+				}
+			]
+		}
+	]
+}

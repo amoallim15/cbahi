@@ -1,0 +1,18 @@
+{
+	"serial": 10,
+
+	"title": "Operating Room",
+
+	"code": "OR",
+
+	"introduction": "The quality and standard of surgical care in hospitals is an important issue. Despite the significant improvement of the surgical science and technology, the operating rooms continue to be a high risk and in many hospitals a high volume area where strict adherence to the standards of care is essential for better patients safety. Surgeries should be performed in a safe environment by qualified surgeons who have been granted privileges to perform specified surgeries and in accordance with the hospital’s license and scope of services.\n This chapter addresses the following:",
+
+	"concerns": [
+		"Staffing and qualifications of the operating room staff",
+		"Requirements prior to surgery",
+		"Documentation of the surgical procedures",
+		"Day surgery",
+		"Infection control in the operating room",
+		"Post-operative care"
+	]
+}

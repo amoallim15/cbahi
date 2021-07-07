@@ -1,0 +1,17 @@
+{
+	"serial": 26,
+
+	"title": "Management of Information",
+
+	"code": "MOI",
+
+	"introduction": "One of the most valuable resources that the leadership can have is information. Accurate information is necessary for the leadership to support decision making. Information that is trended over time can be evaluated to see if any improvements need to be made or to evaluate the effectiveness of an improvement that has been done. The hospital should have a process to meet the information needs of its clinical and managerial leaders and to compare its performance with other databases when relevant.\n Among the main requirements of this function found in this chapter are:",
+
+	"concerns": [
+		"Information needs assessment",
+		"Information planning",
+		"Data collection and analysis",
+		"Information flow and reporting requirements",
+		"Security, integrity, and confidentiality of information"
+	]
+}

@@ -1,0 +1,127 @@
+{
+	"code": "SC",
+	"standards": [
+		{
+			"serial": 1,
+
+			"header": "The hospital provides social care services.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "A qualified social worker directs social care services provided by the hospital."
+				},
+				{
+					"header": "Social care services are adequately staffed and have all other required resources according to the hospital’s size and scope of services."
+				}
+			]
+		},
+		{
+			"serial": 2,
+
+			"header": "Patients identified at psychosocial risk undergo comprehensive psychosocial assessment.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Psychosocial screening is conducted by qualified hospital staff (e.g., registered nurse) to determine the patient’s need for comprehensive psychosocial assessment by a licensed social worker."
+				},
+				{
+					"header": "The criteria used for psychosocial screening during the initial assessment of patients are developed and approved by a qualified social worker."
+				},
+				{
+					"header": "Psychosocial assessment is preferably completed by a qualified social worker within twenty four hours of referral."
+				},
+				{
+					"header": "The psychosocial assessment is described in a policy and procedure that defines factors facilitating/impeding healthcare progress, including:",
+
+					"details": [
+						"Emotional, social, and psychological factors.",
+						"Home situation.",
+						"Financial factors.",
+						"Noncompliance to treatment.",
+						"Physical/mental disabilities."
+					]
+				},
+				{
+					"header": "The psychosocial screening and assessment findings are documented in the patient’s medical record."
+				}
+			]
+		},
+		{
+			"serial": 3,
+
+			"header": "Patients with psychosocial risk have an appropriate plan that meets their needs.",
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The social worker works collaboratively with clinical staff (physicians, nurses, and other clinical staff) to develop a suitable plan of care that meets the psychosocial needs of the patient and ensures the continuity of care."
+				},
+				{
+					"header": "Patients are reassessed by social worker at regular intervals, their response to the plan of care is monitored, and adjustments are made accordingly."
+				},
+				{
+					"header": "The plan of care is documented in the patient’s medical record as part of multidisciplinary team planning."
+				}
+			]
+		},
+		{
+			"serial": 4,
+
+			"header": "The hospital ensures the provision of effective social care services for inpatients and outpatients.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Social worker helps patients cope with illness, treatment, and recovery."
+				},
+				{
+					"header": "Social worker helps patients subjected to abuse, neglect, or violence."
+				},
+				{
+					"header": "Social worker assists patients and families communicating meaningfully with healthcare teams."
+				},
+				{
+					"header": "Social worker assists patients and families during grief and bereavement."
+				},
+				{
+					"header": "Social worker assists patients in job-related and school concerns."
+				},
+				{
+					"header": "Social worker assists patients to gain access to hospital and other community-based services"
+				},
+				{
+					"header": "including home health care and financial assistance."
+				},
+				{
+					"header": "Social worker participates with the treating team in discharge planning."
+				}
+			]
+		},
+		{
+			"serial": 5,
+
+			"header": "The social worker documents all relevant patient information in the medical record.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The social worker documents relevant information in the patient’s medical record , which include:",
+
+					"details": [
+						"Reason for referral.",
+						"Patient/family assessment and reassessment findings.",
+						"Plan of care including goals and interventions such as counseling, education, and facilitation of resources.",
+						"Evaluation of the plan of care.",
+						"Regular progress notes that include the patient/family understanding, care progress, and needs for different or additional services."
+					]
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,276 @@
+{
+	"code": "MOI",
+	"standards": [
+		{
+			"serial": 1,
+
+			"header": "Hospital leaders ensure the conduction of needs assessment related to information management in the hospital.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital conducts a needs assessment related to information management based on the hospital’s scope of services, complexity of care and affordable resources including technology."
+				},
+				{
+					"header": "The needs assessment involves both clinical and managerial staff."
+				},
+				{
+					"header": "The needs assessment identifies the needs/ requirements of external organizations (e.g., Ministry of Health, accrediting bodies, national research and databases)."
+				},
+				{
+					"header": "Information technology needs are identified and integrated with existing information management processes."
+				},
+				{
+					"header": "Relevant clinical and managerial staff participate in selecting, integrating, and using information management technology."
+				}
+			]
+		},
+		{
+			"serial": 2,
+
+			"header": "The hospital maintains an effective information management system to serve its internal and external users and stakeholders.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital provides adequate resources for an effective information management system."
+				},
+				{
+					"header": "The hospital describes the categorization of the needed information into manual and computerized."
+				},
+				{
+					"header": "Data elements are defined and forms are developed for designated staff to enter the necessary data."
+				},
+				{
+					"header": "Data are collected within predetermined time frames and frequency."
+				},
+				{
+					"header": "There is a process for secure storage of data and information with easy retrieval."
+				},
+				{
+					"header": "MOI.2.6 Data and information are accurately and timely disseminated to the targeted internal and external users."
+				},
+				{
+					"header": "Data and information are disseminated in a format useful for decision making."
+				}
+			]
+		},
+		{
+			"serial": 3,
+
+			"header": "The hospital develops a process for the information management system modifications, updates, and validation.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There is process for documentation, approval, and validation of any modification or update related to the information management system."
+				}
+			]
+		},
+		{
+			"serial": 4,
+
+			"header": "Data collected are transformed into information that is used to support patient care and management decisions.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Aggregate data and information include information requirements for key functions as specified in this manual (e.g., facility management and safety, infection control, clinical data and information, identified hospital-wide indicators, department-specific indicators, physician- specific information)."
+				},
+				{
+					"header": "Aggregate data and information are used for self-comparison over time and benchmarking against similar hospitals as well as best practices."
+				},
+				{
+					"header": "The hospital uses the information to make decisions, strategically plan, identify and prioritize quality improvement projects."
+				}
+			]
+		},
+		{
+			"serial": 5,
+
+			"header": "Hospital leaders as well as users and other staff receive education and training on data management relevant to their roles and responsibilities.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There is an education/training process for decision makers and other relevant staff on the principles of data management."
+				},
+				{
+					"header": "The data management education/training is appropriate to the staff roles and responsibilities within the hospital."
+				},
+				{
+					"header": "The data management education/training includes, but is not limited to, the following:",
+
+					"details": [
+						"Selection and use of indicators (measures) in assessment and improvement of work processes.",
+						"Data collection and analysis.",
+						"Use of data and information for decision-making.",
+						"Data/information confidentiality and security."
+					]
+				}
+			]
+		},
+		{
+			"serial": 6,
+
+			"header": "The hospital has a policy and procedures on how confidentiality, security, and integrity of data and information including the medical records are maintained.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The policy defines data and information confidentiality, security, and integrity."
+				},
+				{
+					"header": "The policy is in compliance with laws and regulations."
+				},
+				{
+					"header": "The hospital defines appropriate levels of security and confidentiality for data and information and provides appropriate confidentiality measures accordingly."
+				},
+				{
+					"header": "Staff access to different categories of information is restricted on a need to know basis."
+				},
+				{
+					"header": "There is an appropriate mechanism for response to requests for access to information."
+				},
+				{
+					"header": "Data and information are safeguarded against loss, destruction, tampering, damage, and unauthorized access or use."
+				},
+				{
+					"header": "There are measures for protecting data and information in the event of a disaster such as flood, fire, loss of power, and abnormal temperature conditions."
+				},
+				{
+					"header": "Staff responsibilities to maintain confidentiality of data and information are defined (e.g., signing a confidentiality agreement)."
+				},
+				{
+					"header": "Information confidentiality and security incidents are reported and acted upon."
+				}
+			]
+		},
+		{
+			"serial": 7,
+
+			"header": "The hospital uses a standardized definitions, abbreviations, and symbols.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital uses standardized and approved definitions."
+				},
+				{
+					"header": "The hospital implements a list of approved and prohibited abbreviations and symbols."
+				},
+				{
+					"header": "The lists are consistent with national standards and professional organizations concerned with patient safety."
+				},
+				{
+					"header": "The lists are developed and approved by the medical staff and other relevant structures (e.g., medical records review committee, pharmacy and therapeutics committee)."
+				},
+				{
+					"header": "The lists are revised periodically (e.g., annually)."
+				}
+			]
+		},
+		{
+			"serial": 8,
+
+			"header": "The hospital has a policy on the retention of data and information.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There is a policy on the retention of data and information that is consistent with relevant laws and regulations."
+				},
+				{
+					"header": "The policy defines the length of time required to retain the data and information."
+				},
+				{
+					"header": "The policy addresses how confidentiality, integrity, and security of the data and information will be maintained during retention."
+				}
+			]
+		},
+		{
+			"serial": 9,
+
+			"header": "The hospital maintains sufficient provisions that ensure the operation of the information system during scheduled or unscheduled (unexpected) downtime.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There are procedures and forms to be used during scheduled or unscheduled (unexpected) downtime."
+				},
+				{
+					"header": "End-users are trained on procedures to follow during interruptions of the information system."
+				},
+				{
+					"header": "Patient information are documented and reported during the downtime (e.g., reporting laboratory results)."
+				},
+				{
+					"header": "The integrity of the system and data entry is verified after the downtime."
+				},
+				{
+					"header": "There is review of the downtime assessment report."
+				},
+				{
+					"header": "The downtime system is regularly tested for effectiveness."
+				}
+			]
+		},
+		{
+			"serial": 10,
+
+			"header": "The hospital implements a process for data backup.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital has a process in place for regular information system data backup and retrieval."
+				}
+			]
+		},
+		{
+			"serial": 11,
+
+			"header": "The hospital uses and contributes to comparative reference databases in accordance with national guidelines.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital contributes to external databases in accordance with national laws and regulations."
+				},
+				{
+					"header": "The hospital uses external reference databases for comparative purposes to identify areas in which performance deviates from expected patterns."
+				}
+			]
+		},
+		{
+			"serial": 12,
+
+			"header": "There is a process for the clinical and administrative staff to obtain information that support safe patient care.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Information resources are available to address clinical and administrative staff needs and support them to maintain and improve their competencies."
+				},
+				{
+					"header": "Information resources support patient care, patient safety, patient education, performance improvement, educational functions for hospital and medical staff, research, and other appropriate functions."
+				},
+				{
+					"header": "Information resources are accessible when needed (e.g., books and journals)."
+				}
+			]
+		}
+	]
+}

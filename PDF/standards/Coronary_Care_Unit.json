@@ -1,0 +1,332 @@
+{
+	"code": "CCU",
+	"standards": [
+		{
+			"serial": 1,
+
+			"header": "Qualified physician is responsible for managing the coronary care unit.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The department head is a physician qualified by appropriate education, training, and experience in managing intensive cardiac care patients/units."
+				},
+				{
+					"header": "The department head takes overall responsibility for the operation of the unit."
+				}
+			]
+		},
+		{
+			"serial": 2,
+
+			"header": "The coronary care unit nurse manager is a qualified registered nurse.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The nurse manager is qualified by education, training, and experience in coronary care units."
+				},
+				{
+					"header": "The nurse manager develops policies and procedures for the unit and collaborates with other departments as needed (e.g., policies and practices related to infection control)."
+				}
+			]
+		},
+		{
+			"serial": 3,
+
+			"header": "Medical and nursing staff working in the coronary care unit have appropriate cardiac life support training.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Medical staff working in coronary care unit are ACLS-certified."
+				},
+				{
+					"header": "Nursing staff working in the coronary care unit are ACLS-certified."
+				}
+			]
+		},
+		{
+			"serial": 4,
+
+			"header": "The coronary care unit is covered by qualified physicians.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The coronary care unit is covered twenty four hours a day, seven days a week by physicians qualified in managing cardiac patients requiring intensive care."
+				}
+			]
+		},
+		{
+			"serial": 5,
+
+			"header": "The coronary care unit has admission and discharge criteria.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The coronary care unit identifies its own population based on age and diagnosis related groups."
+				},
+				{
+					"header": "The admission and discharge criteria are defined in writing."
+				},
+				{
+					"header": "Criteria for admission are based on physiological parameters."
+				},
+				{
+					"header": "The criteria are developed collaboratively between relevant staff."
+				},
+				{
+					"header": "In an open CCU setting, the Most Responsible Physician (MRP) is the admitting consultant, whereas in a closed CCU setting the MRP is the CCU physician/intensivist."
+				}
+			]
+		},
+		{
+			"serial": 6,
+
+			"header": "The coronary care unit has an effective handover process.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There is a documented evidence of handover between physicians at change of shift."
+				},
+				{
+					"header": "There is a documented evidence of handover between nurses at change of shift."
+				},
+				{
+					"header": "There is a documented evidence of handover between the CCU nurse and the unit nurse at the time of transfer to a lower acuity of care."
+				}
+			]
+		},
+		{
+			"serial": 7,
+
+			"header": "Patient care in coronary care unit is provided using a multidisciplinary approach.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There is a multidisciplinary team that includes both CCU as well as non CCU members (CCU physician, CCU nurse, clinical pharmacist, respiratory therapist, dietitian, social worker, physiotherapist, and the consultant of the primary service under which the patient was first admitted)."
+				},
+				{
+					"header": "Medically necessary services are readily available and accessible at all times."
+				},
+				{
+					"header": "Care is provided equally to all CCU patients whether inside the unit or those in other areas of the hospital (e.g., ventilated patients in emergency department)."
+				},
+				{
+					"header": "Care is coordinated amongst the multidisciplinary team members and documented in the patient’s medical record."
+				}
+			]
+		},
+		{
+			"serial": 8,
+
+			"header": "The admission and discharge processes in the coronary care unit are coordinated.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The physician in charge of the coronary care unit together with the most responsible physician jointly make the decision to admit and discharge patients from the unit."
+				},
+				{
+					"header": "A summary of the coronary care stay is written by the physician and made available at the time of discharge from critical care to a lower acuity level."
+				},
+				{
+					"header": "There is a documented evidence of handover between the coronary care physician and the unit physician at the time of transfer to a lower acuity of care."
+				},
+				{
+					"header": "When the patient is discharged from the unit, the coronary care unit physician ensures that the receiving team on the floor is well informed about the patient’s status and ongoing patient needs.",
+
+					"details": [
+						"The patient’s plan of care and medications are written in detail by the physician including how to continue them on the floor.",
+						"Any special care requirements are documented in the patient’s medical record."
+					]
+				}
+			]
+		},
+		{
+			"serial": 9,
+
+			"header": "Nursing staffing plans are available in the coronary care unit.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The nursing staffing plans demonstrate an evidence based nursing to patient ratio."
+				},
+				{
+					"header": "The nursing staffing plans are matching the patient volume and patient acuity."
+				}
+			]
+		},
+		{
+			"serial": 10,
+
+			"header": "Nursing staff in the coronary care unit receive continuous training with competency assessment.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Nursing staff in the coronary care unit receive training and education on the following general and intensive care related needs:",
+
+					"details": [
+						"Assisting physicians in the different procedures performed in the coronary care unit including securing central line access.",
+						"Using pulse oximetry.",
+						"Recognizing critical ECG changes including arrhythmias.",
+						"Obtaining arterial blood gas samples and blood drawing from umbilical catheters.",
+						"Reading central venous pressure (CVP) and swan Ganz monitoring.",
+						"Knowledge of dosage range, side effects and complications of commonly used medications such as high alert medications used in coronary care including vasopressors, narcotics, and controlled medications.",
+						"Infection control principles.",
+						"Blood transfusions.",
+						"Assessing Glasgow Coma Scale (GSC).",
+						"Use of defibrillator.",
+						"Care of patients on ventilators.",
+						"Care of Endo-tracheal tube (ETT).",
+						"Care of patients with tracheostomies.",
+						"Care of the terminally ill and end of life patients."
+					]
+				},
+				{
+					"header": "There is ongoing competency assessment for the nursing staff (e.g., written test, return demonstration)."
+				},
+				{
+					"header": "The competency assessment of the nursing staff is documented."
+				}
+			]
+		},
+		{
+			"serial": 11,
+
+			"header": "The coronary care unit has adequate equipment, supplies, and diagnostic services.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There are isolation rooms with at least one negative pressure room."
+				},
+				{
+					"header": "The following equipment are available:",
+
+					"details": [
+						"Ventilators.",
+						"Suction apparatus.",
+						"Airway sets.",
+						"Crash cart that includes defibrillator, all emergency supplies and medications as appropriate to the age of the patients.",
+						"ECG monitor, pulse oximetry, and vital signs monitor.",
+						"Automated blood pressure monitoring machine.",
+						"Intravenous infusion and blood transfusion pumps.",
+						"At least one invasive monitor."
+					]
+				},
+				{
+					"header": "The availability and functionality of all tools and equipment are checked daily."
+				},
+				{
+					"header": "Equipment are cleaned and disinfected daily and as needed."
+				},
+				{
+					"header": "Portable equipment for safe patient transports are available."
+				},
+				{
+					"header": "Laboratory and imaging services are available to meet the needs of patients in coronary care unit."
+				}
+			]
+		},
+		{
+			"serial": 12,
+
+			"header": "Policies and procedures are available to guide the work in the coronary care unit.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There are policies and procedures for medical and nursing initial assessment and re-assessment requirements, including time frames for completion of initial assessments and frequency of re- assessments."
+				},
+				{
+					"header": "There are policies and procedures for monitoring of patient circulation, respiration, and oxygenation."
+				},
+				{
+					"header": "There are evidence-based criteria for intubation, weaning off ventilator and extubation."
+				},
+				{
+					"header": "There are policies and procedures for handover procedure between staff in between shifts and at discharge to a lower acuity of care."
+				},
+				{
+					"header": "There are policies and procedures for common and high risk procedures that include, but are not limited to, the following:",
+
+					"details": [
+						"Coronary Angiogram.",
+						"Temporary pace maker.",
+						"Permanent pace maker.",
+						"Moderate or deep sedation."
+					]
+				},
+				{
+					"header": "There are policies and procedures for infection control practices including isolation."
+				},
+				{
+					"header": "Policies are collaboratively developed by the appropriate staff."
+				}
+			]
+		},
+		{
+			"serial": 13,
+
+			"header": "The coronary care unit has a process for detection and notification of potential deceased organ donors.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The CCU establishes an effective communication and works collaboratively with the Saudi Center for Organ Transplantation (SCOT)."
+				},
+				{
+					"header": "The CCU uses criteria to identify potential donors based on Saudi Center for Organ Transplantation (SCOT) guidelines."
+				},
+				{
+					"header": "The CCU reports all cases of potential Donation after Circulatory Death (DCD) to SCOT in appropriate time."
+				},
+				{
+					"header": "The CCU reports all cases of potential Donation after Brain Death (DBD) to SCOT in appropriate time."
+				},
+				{
+					"header": "The hospital establishes and uses criteria that support the effectiveness of the donation process (e.g., patient factors, time since perfusion of the tissue stopped, maintenance of viability by appropriate care of the body between death and donation)."
+				}
+			]
+		},
+		{
+			"serial": 14,
+
+			"header": "Infection control standards are strictly implemented and supervised in the coronary care unit.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The coronary care unit environment is maintained clean and neat at all times."
+				},
+				{
+					"header": "Infection control standards are strictly applied in the coronary care unit (e.g., hand hygiene and using of personal protective equipment)."
+				},
+				{
+					"header": "Coronary care unit staff members adopt and implement care bundle for prevention of epidemiologically significant healthcare associated infections."
+				}
+			]
+		}
+	]
+}

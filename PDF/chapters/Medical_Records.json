@@ -1,0 +1,20 @@
+{
+	"serial": 27,
+
+	"title": "Medical Records",
+
+	"code": "MR",
+
+	"introduction": "Medical Records is the backbone of the hospital and are considered one of the important elements in the quality program. The quality of the medical records is essential. Health care providers must be able to have access to information in the medical record in order to provide safe care. Also, this is vital for the patient continuity of care and communication between care providers so that they can find the necessary information for every patient encounter. To ensure appropriate management of medical records, the organization should have processes for access to medical records, entries into medical records, and use of medical records information.\n The medical records standards in this chapter address the following processes and activities:",
+
+	"concerns": [
+		"Medical records department staffing",
+		"Initiation, construction and contents of medical records",
+		"Criteria for medical records documentation",
+		"Coding",
+		"Availability of medical records",
+		"Storage and retention of medical records",
+		"Security, safety, and confidentiality of medical records",
+		"Medical records quality improvement"
+	]
+}

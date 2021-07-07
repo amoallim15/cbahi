@@ -1,0 +1,186 @@
+{
+	"code": "PFE",
+	"standards": [
+		{
+			"serial": 1,
+
+			"header": "Hospital leaders support patient and family education.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital develops policies and procedures to ensure effective patient and family education process."
+				},
+				{
+					"header": "There is an appropriate structure and efficient resources for patient/family education throughout the hospital."
+				},
+				{
+					"header": "According to the size of the hospital and its scope of services, the hospital assigns adequate health educators to cover the needs of patient/family education (e.g., diabetic educator, nurse educator)."
+				},
+				{
+					"header": "The hospital provides different teaching methods for the health education process such as pamphlets, diagrams, models to practice on, videos, or other teaching methods."
+				},
+				{
+					"header": "The job description of the clinical staff (e.g. nurses, physicians, dietitians) reflects their role in patient/family education."
+				},
+				{
+					"header": "Clinical staff and health educators are knowledgeable about their essential role in patient education."
+				},
+				{
+					"header": "There are discussions of patient education efforts in staff meetings as an integral part of the care process."
+				}
+			]
+		},
+		{
+			"serial": 2,
+
+			"header": "The hospital ensures proper communication between the health educator and the patient/family.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Patient/family education is provided in an easy language understandable by the patient/family."
+				},
+				{
+					"header": "Sufficient time is provided to allow the patient to understand the information provided and interact with the health educator."
+				}
+			]
+		},
+		{
+			"serial": 3,
+
+			"header": "Each patient’s educational needs are assessed and planned. ",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Staff conduct educational needs assessment for every patient by:",
+
+					"details": [
+						"Assessing learning needs.",
+						"Assessing literacy skills.",
+						"Assessing caregiver/patient’s readiness and ability to learn.",
+						"Assessing patient’s capability and motivation to provide self-care.",
+						"Assessing caregiver/patient’s appropriate educational materials and methods that meet their learning skills.",
+						"Assessing who will provide care after discharge (caregiver and/or patient)."
+					]
+				},
+				{
+					"header": "Staff use the assessment findings for planning and delivery of education as appropriate to the plan of care."
+				},
+				{
+					"header": "Staff provide the caregiver/patient with educational materials that meet their learning skills (e.g. written and verbal notes, pictures, demonstration)."
+				},
+				{
+					"header": "When the patient is unable/unsuitable to learn (e.g., comatose, child, mentally disabled), education is provided to the family or the caregiver."
+				}
+			]
+		},
+		{
+			"serial": 4,
+
+			"header": "Patients and their families receive education to help them give informed consent, participate in care process, and understand any financial implications of care choices.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Patients and families are educated about informed consent."
+				},
+				{
+					"header": "Patients and families are educated about participation in the care process and decisions."
+				},
+				{
+					"header": "Patients and families are educated about any financial implications of care decisions."
+				}
+			]
+		},
+		{
+			"serial": 5,
+
+			"header": "Patients and their families are given the necessary education and information by clinical staff and health educators as appropriate to their needs.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital provides the patient with the necessary education and information about the primary illness and all possible complications."
+				},
+				{
+					"header": "The hospital provides the patient with the necessary education and information about infection control practices, adding emphasis on basic hand washing."
+				},
+				{
+					"header": "The hospital provides the patient with the necessary education and information about the required treatments and procedures."
+				},
+				{
+					"header": "The hospital provides the patient with the necessary education and information about the appropriate and safe use of the medical equipment or appliances."
+				},
+				{
+					"header": "The hospital provides the patient with the necessary education and information about any surgical procedure needed and its benefits and potential risks."
+				},
+				{
+					"header": "The hospital provides the patient with the necessary education and information about the pre- operative preparations needed and their importance."
+				},
+				{
+					"header": "The hospital provides the patient with the necessary education and information about post- operative care (e.g., breathing exercises, diet, and wound care)."
+				},
+				{
+					"header": "The hospital provides the patient with the necessary education and information about the necessary medications, the frequency, potential side effects, and food-drug interactions."
+				},
+				{
+					"header": "The hospital provides the patient with the necessary education and information about radiological procedures, their benefits, and the potential risks involved."
+				},
+				{
+					"header": "The hospital provides the patient with the necessary education and information about the rational and benefits of any dietary restrictions."
+				},
+				{
+					"header": "The hospital provides the patient with the necessary education and information about the conditions in which the patient needs to seek medical assistance and how to access it if necessary."
+				},
+				{
+					"header": "The hospital ensures that the patient has his follow up clinic appointments."
+				},
+				{
+					"header": "The hospital provides the patient with the necessary education and information about how to carry out activities of daily living."
+				},
+				{
+					"header": "The hospital provides the patient with the necessary education and information about community resources for additional care and how to access emergency services if necessary."
+				},
+				{
+					"header": "The hospital ensures that the patient can always state the name of his most responsible physician."
+				}
+			]
+		},
+		{
+			"serial": 6,
+
+			"header": "The patient/family education is evaluated for effectiveness.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Clinical staff and health educators obtain feedback from the patient and/or family to ensure proper understanding (e.g., demonstrates learning, verbalizes understanding)."
+				}
+			]
+		},
+		{
+			"serial": 7,
+
+			"header": "All patient education activities are documented in the patient's medical record.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The educational needs assessment and planning is documented in the patient's medical record."
+				},
+				{
+					"header": "The patient's response to education is documented in the patient's medical record."
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"serial": 9,
+
+	"title": "Anesthesia Care",
+
+	"code": "AN",
+
+	"introduction": "Although anesthesia is necessary for many procedures, it is important to acknowledge that undergoing anesthesia is not a simple procedure. Patients can have adverse reactions to the anesthesia drugs administered before, during and after surgery. Despite the potential hazards, anesthesia can be relatively safe if proper standards are followed. To decrease the likelihood of anesthesia related complications, the standards in this chapter were designed to address pre-anesthetic assessment performed prior to the administration of sedation or anesthetic; patient monitoring during and after surgery until appropriate recovery; and anesthetic supplies and equipment. Additionally, the standards require that staff be trained in cardiopulmonary resuscitation (CPR) to ensure the availability of a trained staff during normal hours of operation.\n This chapter addresses the following processes:",
+
+	"concerns": [
+		"Anesthesia Staff and their qualifications",
+		"Anesthesia equipment and supplies Pre-anesthesia assessment",
+		"Monitoring of patients receiving anesthesia",
+		"Conscious sedation",
+		"Recovery room"
+	]
+}

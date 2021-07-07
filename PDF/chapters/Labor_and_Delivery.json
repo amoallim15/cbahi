@@ -1,0 +1,19 @@
+{
+	"serial": 15,
+
+	"title": "Labor and Delivery",
+
+	"code": "L-D",
+
+	"introduction": "Most women have normal conception, fetal growth, labor, and birth and require minimal-to-no intervention in the process. Despite this fact, there is a considerable number of pregnant women who present to the hospital seeking help for different reasons, particularly upon the end of their pregnancies. Even in the most developed healthcare systems, labor rooms are considered high risk areas where significant morbidities and mortalities occur for various causes, most of which are preventable if the quality and safety standards were adhered to. In this modern era of medicine, deliveries should be conducted in a safe environment by qualified physicians, nurses and midwives who have been granted privileges to provide such services in accordance with the organization’s license and scope of services.\n This chapter addresses the following:",
+
+	"concerns": [
+		"Staff qualifications and plan",
+		"Policies and procedures",
+		"High risk patients",
+		"Equipment and supplies",
+		"Midwifery and nursing services",
+		"Admission and discharge criteria",
+		"Medical records in obstetrics department"
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"serial": 4,
+
+	"title": "Provision of Care",
+
+	"code": "PC",
+
+	"introduction": "Hospitals vary in the scope of services they provide and thus the types of patients they may effectively serve. The hospital should accept patients for care according to its capability to provide the services that meet the identified patient’s needs.\n Providing optimum care requires careful planning, coordination, and communication. The hospital must provide an appropriate and thorough assessment of each patient, and patient care must be planned and implemented to ensure the best possible outcome. To support the continuity of care, patient assessment and care process must be documented in a completed medical record that is unique for each and every patient. As the care process may need to be provided by multiple providers, a collaborative process should be in place to promote continuity and coordination of care when the patient is referred, transferred, or discharged.\n Important processes and activities addressed in this chapter include the following:",
+
+	"concerns": [
+		"Screening of patients before acceptance for care",
+		"Access to care",
+		"Registration and admission processes",
+		"Scope and content of patient assessment and reassessment",
+		"Plans of care",
+		"Continuity and coordination of care",
+		"Consultations",
+		"High risk and vulnerable patients",
+		"Psychiatric patients",
+		"Patient discharge, transfer and referral within or outside the organization"
+	]
+}

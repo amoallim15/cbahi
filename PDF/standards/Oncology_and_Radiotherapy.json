@@ -1,0 +1,212 @@
+{
+	"code": "ORT",
+	"standards": [
+		{
+			"serial": 1,
+
+			"header": "Qualified physician is responsible for managing the oncology and radiotherapy services.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The individual(s) responsible for the oncology and radiotherapy services is qualified by education, training, and experience in the fields of oncology/radiation oncology."
+				}
+			]
+		},
+		{
+			"serial": 2,
+
+			"header": "The hospital ensures full compliance with the relevant regulations on radiation.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital has a valid license for the provision of radiotherapy services from relevant authorities (King Abdulaziz City for Science and Technology)."
+				}
+			]
+		},
+		{
+			"serial": 3,
+
+			"header": "Oncology and radiotherapy services are provided by qualified staff.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Oncology and radiotherapy services are adequately staffed as follows:",
+
+					"details": [
+						"Oncologists/Radiation oncologists.",
+						"Medical physicists.",
+						"Radiation therapists.",
+						"Mould room technicians.",
+						"Radiation safety officer and supervisor.",
+						"Quality officer."
+					]
+				},
+				{
+					"header": "Staff are trained and qualified in their fields."
+				},
+				{
+					"header": "Clinical staff maintain registration with the Saudi Commission for Health Specialties."
+				}
+			]
+		},
+		{
+			"serial": 4,
+
+			"header": "Qualified nurse manager(s) supervises nursing practices in the oncology and radiotherapy services.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The nurse manager is a registered nurse qualified by education, training, and experience in the field of oncology/radiotherapy."
+				},
+				{
+					"header": "The nurse manager develops and collaborates with other disciplines for developing all relevant policies and procedures including, but are not limited to:",
+
+					"details": [
+						"Chemotherapy administration, side effects, and safety precautions.",
+						"Radiation therapy administration, side effects, and safety precautions.",
+						"Targetedtherapy, immunotherapy and contrast media administration and education.",
+						"Spill management.",
+						"Special radiation techniques (brachytherapy, stereotactic radiotherapy, unsealed sources, other techniques), including preparation and delivery guidelines.",
+						"Extravasations and anaphylaxis management guidelines.",
+						"Radioactive iodine management.",
+						"Dying and end of life care management.",
+						"Bone marrow and stem cell transplant management.",
+						"Management of neutropenia and other related complications of chemo/radiation therapy."
+					]
+				}
+			]
+		},
+		{
+			"serial": 5,
+
+			"header": "Oncology and radiotherapy services are guided and overseen by a multidisciplinary committee.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There is a multidisciplinary committee to guide and oversee oncology and radiotherapy services."
+				},
+				{
+					"header": "The committee meets at least four times a year. The record of the minutes of meetings is maintained."
+				},
+				{
+					"header": "The committee assists in developing and reviewing policies, procedures, safety plan, guidelines and protocols for the provision of a safe patient care."
+				},
+				{
+					"header": "The committee ensures implementation of policies and procedures."
+				}
+			]
+		},
+		{
+			"serial": 6,
+
+			"header": "Oncology and radiotherapy services include a palliative care unit/service.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The unit has policies and procedures, guidelines and protocols for the palliative care including pain management and management of illness/treatment-related symptoms."
+				},
+				{
+					"header": "Staff are well trained on palliative care practices."
+				}
+			]
+		},
+		{
+			"serial": 7,
+
+			"header": "There is a safety plan to ensure the safety of oncology and radiotherapy services.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There is a written safety plan that includes:",
+
+					"details": [
+						"Periodic inspection, maintenance and calibration of the linear accelerator andother radiation equipment.",
+						"Guidelines on how to inspect and monitor the medical equipment.",
+						"Management of nuclear material used for therapeutic and diagnostic purposes, especially in regard to its handling, storing, and transportation."
+					]
+				},
+				{
+					"header": "The safety plan is implemented and audited for effectiveness."
+				}
+			]
+		},
+		{
+			"serial": 8,
+
+			"header": "Oncology and radiotherapy services implement admission and discharge criteria.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There are admission and discharge criteria for patients receiving oncology and radiotherapy services."
+				},
+				{
+					"header": "The criteria are collaboratively developed by physicians and nursing staff."
+				}
+			]
+		},
+		{
+			"serial": 9,
+
+			"header": "The nurse manager ensures the competency of the nursing staff.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The nursing staff receive training and education that are necessary for the provision of effective and safe care including, but are not limited to:",
+
+					"details": [
+						"Central and peripheral venous access device.",
+						"Care of tracheostomies.",
+						"Chest tube management.",
+						"Advanced medication administration, including targeted therapy, chemotherapy, immunotherapy, and hormonal therapy.",
+						"Line management including extravasations. Radiation side effects management.",
+						"Assisting and preparing for lumber puncture.",
+						"Assisting in intrathecal administration of chemotherapy.",
+						"Infection control, including hazardous material and blood spill.",
+						"lood transfusion.",
+						"Use of defibrillator."
+					]
+				},
+				{
+					"header": "Nursing staff competencies are assessed and are documented."
+				}
+			]
+		},
+		{
+			"serial": 10,
+
+			"header": "Appropriate documentation is maintained for quality control activities of the oncology and radiotherapy services.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Quality records are maintained, which include:",
+
+					"details": [
+						"Periodic inspection, maintenance and calibration of the linear accelerator and other radiation equipment.",
+						"Records of the isotopes used in treatment that include its energy, calibration, and disposal.",
+						"Records of the radiation dosimetry and staff radiation exposure for the past twelve months."
+					]
+				}
+			]
+		}
+	]
+}

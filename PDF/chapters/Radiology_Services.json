@@ -1,0 +1,18 @@
+{
+	"serial": 18,
+
+	"title": "Radiology Services",
+
+	"code": "RD",
+
+	"introduction": "The Standards in this chapter concerning radiology services in hospitals are meant to help advance the practice of radiology and improve the quality of service to patients. They promote the safe and effective use of diagnostic and therapeutic radiology by describing specific standards of staffing, qualifications, training, skills and techniques. All medical centers using x-ray equipment, from a simple dental unit to a specialized radiological center performing complex radiological image, will benefit from adopting a quality improvement program as detailed in this chapter. An established program will monitor the imaging process from start to finish and reveal potential problems that may otherwise go unrecognized.\n This chapter addresses the following:",
+
+	"concerns": [
+		"Staff qualifications, plan and availability",
+		"Equipment and supplies",
+		"Results reporting including critical results",
+		"Policies and procedures related to radiology services",
+		"Safety plan",
+		"Interventional radiology"
+	]
+}

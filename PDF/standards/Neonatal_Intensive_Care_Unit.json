@@ -1,0 +1,301 @@
+{
+	"code": "NICU",
+	"standards": [
+		{
+			"serial": 1,
+
+			"header": "Qualified physician is responsible for managing the neonatal intensive care unit.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The department head is a qualified Pediatrician with experience in neonatology (for level 1 and 2 NICU) and certified neonatologist (for level3 NICU)."
+				},
+				{
+					"header": "The department head takes the overall responsibility for the operation of the unit."
+				}
+			]
+		},
+		{
+			"serial": 2,
+
+			"header": "The neonatal intensive care unit nurse manager is a qualified registered nurse.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The nurse manager is qualified by education, training, and experience in neonatal intensive care."
+				},
+				{
+					"header": "The nurse manager develops and collaborates with NICU physicians and other departments as needed for developing policies and procedures for the unit (e.g., policies and practices related to infection control)."
+				}
+			]
+		},
+		{
+			"serial": 3,
+
+			"header": "Medical and nursing staff working in the neonatal intensive care unit have the appropriate cardiac life support training.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Medical staff working in neonatal intensive care unit are certified in Neonatal Resuscitation Program (NRP)."
+				},
+				{
+					"header": "Nursing staff working in the neonatal intensive care unit are certified in Neonatal Resuscitation Program (NRP)."
+				}
+			]
+		},
+		{
+			"serial": 4,
+
+			"header": "The neonatal intensive care unit is covered by qualified physicians.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The neonatal intensive care unit is covered twenty four hours a day, seven days a week by qualified neonatal intensive care physicians."
+				},
+				{
+					"header": "For a Level 3 unit, there is certified neonatologist to cover the unit during the on call hours."
+				}
+			]
+		},
+		{
+			"serial": 5,
+
+			"header": "The neonatal intensive care unit has admission and discharge criteria.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The neonatal intensive care unit identifies its own population based on age and diagnosis related groups."
+				},
+				{
+					"header": "The admission and discharge criteria are defined in writing."
+				},
+				{
+					"header": "Criteria for admission are based on physiological parameters."
+				},
+				{
+					"header": "The criteria are developed collaboratively between relevant staff."
+				}
+			]
+		},
+		{
+			"serial": 6,
+
+			"header": "Patient care in the neonatal intensive care unit is coordinated.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There is a documented evidence of handover between physicians at change of shift."
+				},
+				{
+					"header": "There is a documented evidence of handover between nurses at change of shift."
+				},
+				{
+					"header": "There is a documented evidence of handover between neonatal intensive care nurse and unit nurse at the time of transfer to a lower acuity of care."
+				}
+			]
+		},
+		{
+			"serial": 7,
+
+			"header": "Patient care in the neonatal intensive care unit is provided using a multidisciplinary approach.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The multidisciplinary team includes both NICU as well as non NICU members. This includes but not is limited to: NICU physician, NICU nurse, clinical pharmacist, respiratory therapist, and dietitian."
+				},
+				{
+					"header": "Medically necessary services are readily available and accessible at all times."
+				},
+				{
+					"header": "Care is coordinated amongst the multidisciplinary team members and documented in the patient’s medical record."
+				}
+			]
+		},
+		{
+			"serial": 8,
+
+			"header": "The admission and discharge processes in the neonatal intensive care unit are coordinated.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "A summary of the neonatal intensive care stay is written by the NICU physician and made available at the time of discharge from critical care to a lower acuity level."
+				},
+				{
+					"header": "There is documented evidence of handover between the neonatal intensive care physician and the unit physician at the time of transfer to a lower acuity of care."
+				},
+				{
+					"header": "When the patient is discharged from the unit, the neonatal intensive care unit physician ensures that the receiving team is well informed about the patient’s status and ongoing patient needs.",
+					
+					"details": [
+						"The patient’s plan of care and medications are written in detail by the physician including how to continue them on the floor.",
+						"Any special care requirements are documented in the medical record."
+					]
+				}
+			]
+		},
+		{
+			"serial": 9,
+
+			"header": "Nursing staffing plans are available in the neonatal intensive care unit.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The nursing staffing plans demonstrate an evidence based nursing to patient ratio."
+				},
+				{
+					"header": "The nursing staffing plans are matching the patient volume and patient acuity."
+				}
+			]
+		},
+		{
+			"serial": 10,
+
+			"header": "Nursing staff in the neonatal intensive care unit receive continuous training with competency assessment.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Nursing staff in the NICU intensive care unit receive training and education on the following general and intensive care related needs:",
+
+					"details": [
+						"Assisting physicians in the different procedures performed in the neonatal intensive care unit including securing central lines access.",
+						"Using pulse oximetry.",
+						"Recognizing critical ECG changes including arrhythmias.",
+						"Assisting physician in placing central lines or arterial lines and /or umbilical arterial/venous lines.",
+						"Obtaining arterial blood gas samples and blood drawing from umbilical catheters.",
+						"Knowledgeofdosagerange,sideeffectsandcomplicationsofcommonlyused medications such as surfactant and high alert medications used in neonatal care including vasopressors, narcotics, and controlled medications.",
+						"Infection control principles.",
+						"Blood transfusion and exchange transfusion.",
+						"Sarnat and Thompson Scoring.",
+						"Use of the defibrillator.",
+						"Care of patients on ventilators.",
+						"Care of endo-tracheal tube (ETT).",
+						"Care of patients with tracheostomies.",
+						"Care of the terminally ill and end of life patients.",
+						"Care of patient in incubator."
+					]
+				},
+				{
+					"header": "There is ongoing competency assessment for the nursing staff (e.g., written test, return demonstration)."
+				},
+				{
+					"header": "The competency assessment of the nursing staff is documented."
+				}
+			]
+		},
+		{
+			"serial": 11,
+
+			"header": "The neonatal intensive care unit has adequate equipment, supplies, and diagnostic services.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There are isolation rooms with at least one negative pressure room."
+				},
+				{
+					"header": "The following equipment are available:",
+
+					"details": [
+						"Ventilators.",
+						"Suction apparatus.",
+						"Airway sets.",
+						"Crash cart that includes defibrillator, all emergency supplies, and medications as appropriate to neonates.",
+						"uction apparatus.",
+						"Infant resuscitator.",
+						"Incubators.",
+						"Portable incubator with portable ventilator.",
+						"ECG monitor, pulse oximetry, and vital signs monitor.",
+						"Automated blood pressure monitoring machine.",
+						"Intravenous infusion and blood transfusion pumps."
+					]
+				},
+				{
+					"header": "The availability and functionality of all tools and equipment are checked daily."
+				},
+				{
+					"header": "Equipment are cleaned and disinfected daily and as needed."
+				},
+				{
+					"header": "Portable equipment for safe patient transports are available."
+				},
+				{
+					"header": "Laboratory and imaging services are available to meet the needs of patients receiving neonatal intensive care."
+				}
+			]
+		},
+		{
+			"serial": 12,
+
+			"header": "Policies and procedures are available to guide the work in the neonatal intensive care unit.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There are policies and procedures for medical and nursing initial assessment and re-assessment requirements, including time frames for completion of initial assessments and frequency of re- assessments."
+				},
+				{
+					"header": "There are policies and procedures for monitoring of patient circulation, respiration, and oxygenation."
+				},
+				{
+					"header": "There are evidence-based criteria for intubation, weaning off ventilator and extubation."
+				},
+				{
+					"header": "There are policies and procedures for handover procedure between staff in between shifts and at discharge to a lower acuity of care."
+				},
+				{
+					"header": "There are policies and procedures for infection control practices including isolation."
+				},
+				{
+					"header": "There are policies and procedures for the use of neonatal Total Parenteral Nutrition (TPN) for more sick patients."
+				},
+				{
+					"header": "There are policies and procedures for dealing with ethical issues (e.g., NoCodepolicy, endoflife issues, and organ donation)."
+				},
+				{
+					"header": "Policies are collaboratively developed by the appropriate staff."
+				}
+			]
+		},
+		{
+			"serial": 13,
+
+			"header": "Infection control standards are strictly implemented and supervised in the neonatal intensive care unit.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The neonatal intensive care unit environment is maintained clean and neat at all times."
+				},
+				{
+					"header": "Infection control standards are strictly applied in the neonatal intensive care unit (e.g., hand hygiene and use of personal protective equipment)."
+				},
+				{
+					"header": "Neonatal intensive care unit staff members adopt and implement care bundle for prevention of epidemiologically significant healthcare associated infections."
+				}
+			]
+		}
+	]
+}

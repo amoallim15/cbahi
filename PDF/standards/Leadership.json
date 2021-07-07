@@ -1,0 +1,847 @@
+{
+	"code": "LD",
+	"standards": [
+		{
+			"serial": 1,
+
+			"header": "The hospital has an effective governing body.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There is a governing body that fulfills its main roles for mission and strategy setting as well as performance evaluation and oversight on the hospital processes and outcomes."
+				},
+				{
+					"header": "The governing body has its organization, membership, roles and responsibilities, meetings procedure, performance evaluation, and committees defined in a written bylaws or a similar document."
+				},
+				{
+					"header": "The governing body’s responsibilities reflect its ultimate accountability for the quality of care and patient safety, and include the following:",
+
+					"details": [
+						"Working together with the senior management and hospital leaders to create and regularly review the hospital’s mission, vision, and values.",
+						"Appointing a qualified hospital director.",
+						"Evaluating on a regular basis the performance of the hospital director.",
+						"Ensuring that the hospital has an effective organizational structure displayed in an organizational chart that shows the titles (or names) and the reporting relationships.",
+						"Approving the scope of services provided by the hospital.",
+						"Approving the hospital strategic and operational plans.",
+						"Approving the hospital-wide policies and procedures.",
+						"Monitoring, evaluating, and continuously improving the outcome of the quality and patient safety plans and programs.",
+						"Approving the medical staff bylaws.",
+						"Approving the annual budget of the hospital.",
+						"Ensuring the provision of adequate resources (e.g. manpower, financial resources, and medical supplies).",
+						"Defining and approving delegations of authority."
+					]
+				}
+			]
+		},
+		{
+			"serial": 2,
+
+			"header": "A qualified hospital director is responsible for managing the hospital.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital director is qualified in healthcare management by education, training or experience."
+				},
+				{
+					"header": "The hospital director has a good command of the English language."
+				},
+				{
+					"header": "The hospital director ensures the hospital’s compliance with all relevant laws and regulations."
+				},
+				{
+					"header": "The hospital director ensures the recruitment and selection of competent and skilled hospital staff."
+				},
+				{
+					"header": "The hospital director is accountable to the governing body for the clinical performance and professional conduct of the hospital staff."
+				},
+				{
+					"header": "The hospital director ensures the implementation of the policies set by the governing body."
+				},
+				{
+					"header": "The hospital director participates actively in supporting the safety of patients, staff and visitors (e.g. through leadership safety rounds, review of reported incidents)."
+				},
+				{
+					"header": "The hospital director identifies and works closely with other hospital leaders, collectively constituting the hospital leadership group."
+				},
+				{
+					"header": "The hospital director ensures appropriate response to reports or enquiries from relevant authorities including accreditation agencies."
+				},
+				{
+					"header": "The hospital director ensures the availability of adequate resources (e.g. human resources, equipment, supplies, and medications)."
+				},
+				{
+					"header": "The hospital director ensures all physical properties are kept in a good state of repair and operating conditions."
+				},
+				{
+					"header": "The hospital director ensures the efficient utilization of all resources."
+				}
+			]
+		},
+		{
+			"serial": 3,
+
+			"header": "Hospital leaders ensure the hospital is in compliance with relevant laws and regulations.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Hospital leaders identify all relevant laws and regulations."
+				},
+				{
+					"header": "Hospital leaders ensure compliance with all relevant laws and regulations (e.g., laws and regulations related to recruitment, professional staff licensure and registration, waste management, food management, infection control, medications management, patient rights, radiation safety, and physical environment)."
+				}
+			]
+		},
+		{
+			"serial": 4,
+
+			"header": "Hospital leaders work collaboratively to develop the hospital’s scope of services.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Hospital leaders identify the scope of services provided by the hospital."
+				},
+				{
+					"header": "The scope of services includes the range of services offered by the hospital (e.g., children hospital, maternity hospital, or general hospital)."
+				},
+				{
+					"header": "The scope of services includes the targeted age groups."
+				},
+				{
+					"header": "The scope of services includes the number of patients seen annually."
+				},
+				{
+					"header": "The scope of services includes the principal diagnostics and therapeutic modalities used in the hospital."
+				},
+				{
+					"header": "The scope of services is approved by the governing body."
+				}
+			]
+		},
+		{
+			"serial": 5,
+
+			"header": "A structure is in place for the hospital leaders to communicate and collaborate in order to fulfill the hospital’s mission and plans.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Hospital leaders form an executive management body (e.g., an executive management committee), led by the hospital director and includes the medical director, the nursing director, the quality director, selected heads of the departments, and other senior staff members as required."
+				},
+				{
+					"header": "Hospital leaders are qualified in healthcare management by education, training, or experience."
+				},
+				{
+					"header": "Hospital leaders have specific responsibilities as outlined in a current job description."
+				},
+				{
+					"header": "Functions and meetings of the hospital leaders are outlined in specific terms of reference."
+				},
+				{
+					"header": "Hospital leaders meet regularly (at least ten times per year) to evaluate the progress of the overall strategic plan , the quality and safety of care provided to patients, and all other clinical and non-clinical issues related to the hospital work."
+				},
+				{
+					"header": "Discussions, decisions and actions taken by the hospital leaders are documented in a formal meeting minutes."
+				}
+			]
+		},
+		{
+			"serial": 6,
+
+			"header": "The hospital administrative work and day to day operations are consistent and organized.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital work is guided by a manual that contains all important hospital-wide guiding administrative policies and principles."
+				},
+				{
+					"header": "The contents of the manual are communicated with and made accessible to the hospital staff."
+				},
+				{
+					"header": "Contents of this manual reflect the general organization of the hospital work and include, but are not limited to, the following:",
+
+					"details": [
+						"A brief general description of the hospital. Vision, mission and values. Organizational chart.",
+						"Scope and organization of services. Standing meetings and committees.",
+						"Staff code of conduct and ethics. Conflict of interest. Admission/Discharge/Referral. Visiting times.",
+						"Smoking policy. Parking."
+					]
+				}
+			]
+		},
+		{
+			"serial": 7,
+
+			"header": "The hospital work, planning, and goals setting are guided by a clear vision and mission.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital has a clearly stated vision and mission statements."
+				},
+				{
+					"header": "The vision and mission are communicated to the hospital staff."
+				},
+				{
+					"header": "The vision and mission are displayed to patients, visitors, and the wider community."
+				},
+				{
+					"header": "The mission reflects the scope of services provided by the hospital and the health needs of the population served."
+				},
+				{
+					"header": "The mission and vision are regularly reviewed and modified as appropriate."
+				}
+			]
+		},
+		{
+			"serial": 8,
+
+			"header": "The hospital work, planning, and goals setting are guided by a set of values and professional code of conduct.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Hospital leaders collaboratively develop the hospital's set of values and the code of conduct."
+				},
+				{
+					"header": "The professional code of conduct describes the hospital’s expectations of the staff regarding their behavior and communication with each other and with their patients and other external customers."
+				},
+				{
+					"header": "The professional code of conduct includes a process to handle inappropriate behaviors of the hospital staff."
+				},
+				{
+					"header": "The professional code of conduct includes a process to resolve conflicts among staff andbetween staff and external customers."
+				}
+			]
+		},
+		{
+			"serial": 9,
+
+			"header": "Hospital leaders work collaboratively to establish medical and non- medical hospital-wide committees that support integration of services and communication amongst staff.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There is a policy and procedure that addresses the formation of hospital-wide committees, conduct and communication amongst the committee members, committee’s recommendations approval process, and annual review of accomplishments."
+				},
+				{
+					"header": "Medical committees provide oversight on specific areas of responsibilities that include:",
+
+					"details": [
+						"Pharmacy and therapeutics.",
+						" Morbidity and mortality.",
+						" Infection control.",
+						"Cardio pulmonary resuscitation.",
+						"Credentialing and privileging.",
+						"Operating room.",
+						"Tissue review.",
+						"Blood utilization review.",
+						"Quality and patient safety.",
+						"Medical records review.",
+						"Patient rights.",
+						"Utilization review."
+					]
+				},
+				{
+					"header": "Each committee has terms of reference that define:",
+
+					"details": [
+						"Committee functions.",
+						"Chairperson and members with their titles.",
+						"Quorum.",
+						"How often the committee is expected to meet (at least quarterly unless otherwise specified in this manual).",
+						"Mechanism of disagreement resolution including when to resort for voting and members that are not allowed to vote.",
+						"Distribution of the minutes to the executive management."
+					]
+				},
+				{
+					"header": "There is an annual review of each committee’s accomplishments and non-resolved issues submitted by the committee chair to the executive management."
+				},
+				{
+					"header": "Feedback from the annual review is studied by the committee and recommendations are implemented."
+				}
+			]
+		},
+		{
+			"serial": 10,
+
+			"header": "Hospital leaders drive effectively the quality improvement initiatives in the hospital.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Hospital leaders are familiar with the basic concepts and tools used in continuous quality improvement, such as:",
+
+					"details": [
+						"Basic data analysis and interpretation of quality reports.",
+						"Basic tools used in quality management (e.g., PDCA cycle).",
+						"Root cause analysis."
+					]
+				},
+				{
+					"header": "Hospital leaders participate actively in quality improvement plans and projects."
+				},
+				{
+					"header": "Information about the quality and performance of the services offered (including the accreditation status) are communicated to the staff, governing body, public, community, and other customers in an appropriate format."
+				}
+			]
+		},
+		{
+			"serial": 11,
+
+			"header": "Hospital leaders consider the community input during planning for health care needs of the population.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Hospital leaders identify the relevant community leaders (e.g., members of the regional council, members of municipalities, patient’s rights advocates, civil defense, health related commissions and councils, other society organizations and representatives)."
+				},
+				{
+					"header": "Local community leaders participate in planning for the current and future health care needs of the population (e.g., planning for health-relevant demographic changes, public health issues, groups with special needs)."
+				},
+				{
+					"header": "Hospital leaders plan with the community leaders to provide services related to health education and health promotion for patients and the wider community."
+				}
+			]
+		},
+		{
+			"serial": 12,
+
+			"header": "Hospital leaders work collaboratively to develop an effective planning process.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The planning process includes soliciting inputs from patients and staff (e.g. feedback from patient satisfaction surveys and patients/staff complaints)."
+				},
+				{
+					"header": "The planning process is consistent with the hospital’s mission and strategic directions."
+				},
+				{
+					"header": "The planning process considers cultural and religious needs of the local community."
+				},
+				{
+					"header": "The planning considers environmental and financial factors and is consistent with the hospital’s mission and strategic direction."
+				},
+				{
+					"header": "The planning process ensures coordination and integration of services throughout the hospital."
+				},
+				{
+					"header": "The planning process ensures efficient use of different resources through regular evaluation by hospital leaders against plans and budgets."
+				},
+				{
+					"header": "The planning process considers the upgrade or replacement of buildings, equipment, and other resources."
+				}
+			]
+		},
+		{
+			"serial": 13,
+
+			"header": "Hospital leaders work collaboratively to develop an effective budgeting process.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital has a finance director who is qualified by education and experience."
+				},
+				{
+					"header": "Hospital leaders work together to address both the capital and the operating budgets."
+				},
+				{
+					"header": "The budgeting process addresses the manpower in addition to other financial assets."
+				},
+				{
+					"header": "The budgeting process allocates resources to all patient care units based on the scope and complexity of care, aiming to ensure a safe, efficient process."
+				},
+				{
+					"header": "The hospital’s budget is approved by the governing body."
+				}
+			]
+		},
+		{
+			"serial": 14,
+
+			"header": "Hospital leaders work collaboratively to ensure the provision of a safe and quality care.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Hospital leaders encourage the use of research, evidence, and best practice information to develop and improve patient care services."
+				},
+				{
+					"header": "Hospital leaders work collaboratively to develop and execute plans, policies, and procedures related to the patient care."
+				},
+				{
+					"header": "Hospital leaders work collaboratively to solve challenges, conflicts, and problems affecting the patient care."
+				}
+			]
+		},
+		{
+			"serial": 15,
+
+			"header": "Hospital leaders work collaboratively to develop the hospital strategic plan.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Hospital leaders work together to develop a strategic plan that is guided by the mission, vision, and values."
+				},
+				{
+					"header": "The strategic plan is based on comprehensive evaluation of the internal and external environmental factors (e.g., SWOT analysis, PEST analysis)."
+				},
+				{
+					"header": "The strategic plan addresses all clinical and non-clinical services and programs."
+				},
+				{
+					"header": "The strategic plan spans over a period of 3 - 5 years and is reviewed on a regular basis."
+				},
+				{
+					"header": "The strategic plan includes the broad goals and objectives required to fulfill the hospital’s mission."
+				},
+				{
+					"header": "Goals and objectives are translated into operational plans with defined projects, clearly delineated responsibilities, and time frames."
+				},
+				{
+					"header": "Resources required for executing the operational plans are properly allocated."
+				},
+				{
+					"header": "Operational plans are implemented and closely monitored for progress toward achieving the goals and objectives.",
+
+					"details": [
+						"Key performance indicators are developed for each operational plan.",
+						"Key performance indicators are reviewed regularly and corrective actions are taken when required."
+					]
+				},
+				{
+					"header": "Heads of departments develop annual departmental plans in line with the hospital’s strategic plan."
+				},
+				{
+					"header": "The strategic plan is communicated to relevant staff."
+				},
+				{
+					"header": "The strategic plan is approved by the governing body."
+				}
+			]
+		},
+		{
+			"serial": 16,
+
+			"header": "Hospital leaders work collaboratively to plan for staffing needs, recruitment, and selection.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Hospital leaders work together to develop a hospital-wide staffing plan."
+				},
+				{
+					"header": "The staffing plan defines the total number and categories of staff required by all departments and their qualifications."
+				},
+				{
+					"header": "The staffing plan ensures the services provided by staff meet the health care needs of the patients."
+				},
+				{
+					"header": "The staffing plan is consistent with the hospital strategic plan."
+				},
+				{
+					"header": "The staffing plan is reviewed at least annually."
+				},
+				{
+					"header": "Hospital leaders ensure a uniform and fair process for recruitment and hiring of new staff members."
+				},
+				{
+					"header": "Heads of departments participate in the selection of new staff."
+				}
+			]
+		},
+		{
+			"serial": 17,
+
+			"header": "The hospital has a process for delegation of function and authority.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There is a policy and procedure that guides the process for delegation of function and authority between two qualified peers."
+				},
+				{
+					"header": "The process of delegation is consistent with other relevant hospital policies."
+				}
+			]
+		},
+		{
+			"serial": 18,
+
+			"header": "Hospital leaders ensure an effective and efficient internal and external communication.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital implements a policy that outlines the process, including roles and responsibilities, for communication between the different departments, both vertical and horizontal."
+				},
+				{
+					"header": "Departmental staff meetings are held on a regular basis and minutes are documented."
+				},
+				{
+					"header": "Hospital-wide policies are properly communicated to all relevant staff."
+				},
+				{
+					"header": "The hospital utilizes one or more of professional communication tools (e.g., intra-net, bulletin boards, periodic reports, newsletters, and website)."
+				},
+				{
+					"header": "The hospital implements a policy that outlines the process, roles and responsibilities for handling all incoming requests from other hospitals and external organizations."
+				},
+				{
+					"header": "The response to the incoming requests is timely and informative."
+				}
+			]
+		},
+		{
+			"serial": 19,
+
+			"header": "Initiation of a new process or changing of an existing one is systematic and consistent throughout the hospital.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "All customers of a new or modified process are identified."
+				},
+				{
+					"header": "Customers’ needs and feedback are addressed when designing a new process (e.g., new procedure, new practice guideline) or changing an existing one."
+				},
+				{
+					"header": "Hospital leaders ensure that the initiation of a new process or the changing of an existing one is always based on evidence, research, and best practice."
+				},
+				{
+					"header": "Hospital leaders assess new or modified processes for risk and safety issues."
+				},
+				{
+					"header": "Whenever applicable, new or modified processes undergo pilot testing before their routine use."
+				},
+				{
+					"header": "Hospital leaders regularly evaluate new or modified processes through process and outcome indicators to ensure an optimal performance."
+				},
+				{
+					"header": "Hospital leaders ensure the provision of staff training on new or modified processes."
+				}
+			]
+		},
+		{
+			"serial": 20,
+
+			"header": "The hospital has a policy for controlling the development and maintenance of policies and procedures for key functions and processes.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There is a unique identification for each policy with title, number, and dates of issue and revision."
+				},
+				{
+					"header": "Policies are developed, approved, revised, and terminated by authorized individuals."
+				},
+				{
+					"header": "Policies are dated and are current."
+				},
+				{
+					"header": "Policies are revised according to a defined revision due date (every 2-3 years, or when required)."
+				},
+				{
+					"header": "Policies are communicated to staff and are always accessible."
+				},
+				{
+					"header": "A process is in place to ensure that new or updated policies are appropriately communicated to relevant staff."
+				},
+				{
+					"header": "A process is in place to ensure that policies are always implemented."
+				},
+				{
+					"header": "A process is in place to ensure that only the last updated versions of policies and other documents (e.g., organizational plans) are available for use in the hospital."
+				}
+			]
+		},
+		{
+			"serial": 21,
+
+			"header": "Hospital leaders ensure the overseeing of contracts for clinical and administrative services.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Policies and procedures are in place to ensure the quality and safety of all contracted services."
+				},
+				{
+					"header": "Policies and procedures indicate how to track and monitor all contracted services for quality and safety (within the hospital premises and off-site)."
+				},
+				{
+					"header": "Hospital leaders ensure that the contracts clearly state the services to be provided by the contracted entity."
+				},
+				{
+					"header": "Hospital leaders and other heads of departments participate in the selection, monitoring, and management of contracted services."
+				},
+				{
+					"header": "Hospital leaders ensure that contracted services and providers both meet applicable laws and regulations."
+				},
+				{
+					"header": "Hospital leaders ensure the services provided are consistent with the hospital’s quality and safety standards."
+				},
+				{
+					"header": "The quality of services provided is always considered by hospital leaders before contract renewal."
+				},
+				{
+					"header": "The process for contracts oversight is documented."
+				}
+			]
+		},
+		{
+			"serial": 22,
+
+			"header": "Hospital leaders ensure coordination of care during off duty hours.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital has a qualified duty manager with a clear job description to coordinate the care during off duty hours."
+				},
+				{
+					"header": " The duty manager has the resources required to function (e.g., efficient office space, information on vacant and occupied beds, authority to allocate beds between different specialties, authority to accept referrals from other hospitals)."
+				}
+			]
+		},
+		{
+			"serial": 23,
+
+			"header": "Hospital Leaders ensure there is a system for the safe management of medical supplies and devices.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Hospital leaders and relevant heads of departments identify all medical supplies and devices that are essential for the provision of a safe quality care."
+				},
+				{
+					"header": "Suppliers of medical supplies and devices are qualified and carefully selected and evaluated."
+				},
+				{
+					"header": "Medical supplies and devices are stored safely and in accordance with manufacturer's recommendations."
+				},
+				{
+					"header": "Medical supplies and devices are protected against theft, damage, contamination, or deterioration."
+				},
+				{
+					"header": "Hospital leaders conduct regular inspections to ensure the safety of medical supplies and devices (e.g., storage conditions, integrity, contamination, expiration)."
+				},
+				{
+					"header": "Hospital leaders respond to any adverse effects resulting from the use of medical supplies and devices through prompt investigation and the use of recurrence prevention measures."
+				},
+				{
+					"header": "Hospital leaders ensure the reporting of adverse effects resulting from the use of medical supplies and devices to the relevant regulatory authorities."
+				},
+				{
+					"header": "The hospital has a process for safe segregation and disposal of expired, damaged, or contaminated medical supplies and devices."
+				},
+				{
+					"header": "The hospital has a process to retrieve dispensed supplies and devices when recalled or discontinued by the manufacturer or relevant regulatory authorities for safety reasons."
+				}
+			]
+		},
+		{
+			"serial": 24,
+
+			"header": "Hospital leaders work collaboratively to optimize the flow of patients.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Hospital leaders address all variations contributing to waits, delays, and cancellations that impact smooth and timely flow of patients through hospital departments."
+				},
+				{
+					"header": "Hospital leaders implement strategies to maximize the efficiency of the flow of patients."
+				}
+			]
+		},
+		{
+			"serial": 25,
+
+			"header": "Each clinical and administrative department is directed by a qualified individual.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Each department has an assigned department head."
+				},
+				{
+					"header": "Qualifications, experience, and training of the appointed department head match the services provided by the department."
+				},
+				{
+					"header": "When the department head is appointed on a part-time basis (e.g., a small hospital or a hospital that is part of a corporate chain), the department head:",
+
+					"details": [
+						"Ensures that work flow and patient safety are not compromised during his absence.",
+						"Ensures that the department functions are well managed through regular scheduled visits.",
+						"Provides guidance as well as continued assessment of the individual in charge of the department during his absence.",
+						"The frequency and duration of the visits must be documented in the contract."
+					]
+				}
+			]
+		},
+		{
+			"serial": 26,
+
+			"header": "The department head develops an organizational chart for the department.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Each department has an organizational chart that clearly displays all sections/divisions within the department, titles (or names), lines of authority, accountability, and reporting relationships."
+				},
+				{
+					"header": "The organizational chart is signed by the department head and approved by the hospital management."
+				},
+				{
+					"header": "The organizational chart is communicated to the staff working in the department."
+				}
+			]
+		},
+		{
+			"serial": 27,
+
+			"header": "The department head addresses all issues related to the customers of the department.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The department head identifies all internal and external customers of the department (patients, families, visitors, staff, suppliers, and contractors)."
+				},
+				{
+					"header": "Whenever required, there is written agreement or verbal understanding between the department and other clinical departments and/or external customers, explaining the expectations of each party."
+				},
+				{
+					"header": "The department head has a mechanism for identifying and handling customers’ needs and feedbacks (e.g., responding to complaints, satisfaction surveys)."
+				}
+			]
+		},
+		{
+			"serial": 28,
+
+			"header": "The department head develops and maintains the mission of the department and its scope of services.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The department head develops a written mission for the department that is consistent with the hospital’s mission."
+				},
+				{
+					"header": "The department head provides a written scope of services provided by the department that is consistent with the hospital’s scope of services."
+				},
+				{
+					"header": "The department head ensures coordination and integration of services within the department and with other departments."
+				}
+			]
+		},
+		{
+			"serial": 29,
+
+			"header": "The department head ensures the work of the department is guided by a clear set of departmental policies and procedures.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The department head develops and maintains a manual for all relevant departmental policies and procedures."
+				},
+				{
+					"header": "The department head collaborates with other department heads to develop multidisciplinary policies and procedures."
+				},
+				{
+					"header": "The department head ensures and oversees the communication of policies and procedures to relevant staff and their implementation."
+				}
+			]
+		},
+		{
+			"serial": 30,
+
+			"header": "The department head ensures sufficient resources and staffing are available for the delivery of safe and quality service.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The department head defines and requests the resources required by the department for a safe and quality service (e.g., space, equipment, supplies, staffing, and other resources)."
+				},
+				{
+					"header": "The department head provides a written departmental staffing plan that defines the number, type, and qualifications required for each position to fulfill the department’s responsibilities."
+				},
+				{
+					"header": "The department head defines the qualifications- education, training, experience, license, and any other relevant certification- required by all categories of staff in the department."
+				},
+				{
+					"header": "The department head ensures the provision of orientation, training, and continuing education for the staff working in the department."
+				},
+				{
+					"header": "The department head monitors the performance of the staff."
+				}
+			]
+		},
+		{
+			"serial": 31,
+
+			"header": "The department head ensures performance measurement and improvement of the outcomes of the department.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Performance measurement and improvement are consistent with the hospital wide quality improvement, patient safety, and risk management plans."
+				},
+				{
+					"header": "Performance measurement and improvement are based on the important processes and priorities of the department."
+				},
+				{
+					"header": "The department head selects and monitors the appropriate performance indicators (e.g., two indicators at a time)."
+				},
+				{
+					"header": "Performance measurement and improvement involve regular data collection and analysis and appropriate improvement actions/projects."
+				},
+				{
+					"header": "The department interacts with other departments/committees to promote the quality improvement efforts when needed."
+				},
+				{
+					"header": "Results of performance measurement and improvement are reported periodically to the hospital leadership (e.g., the executive management committee or the quality improvement committee) and shared with staff, departments, and committees as applicable."
+				},
+				{
+					"header": "Staff members participate in quality improvement and patient safety activities and receive training on quality assessment and improvement."
+				}
+			]
+		}
+	]
+}

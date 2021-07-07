@@ -1,0 +1,23 @@
+<div class="ap-facility-header">
+	<div class="card-block">
+		<a ui-sref="home.facility({id: '{{o._id}}'})">
+			<h5 class="card-title">{{ o.name }}</h5>
+			<h6 lang="ar" class="card-subtitle text-muted">{{ o.name_ar }}</h6>
+		</a>
+	</div>
+	<hr class="clearfix" />
+	<div class="ap-image"><span>facility image</span></div>
+	<div class="card-block">
+		<div class="m-b-1">
+			<span class="fa fa-map-marker"></span>
+			<span>{{o.region}}</span>, 
+			<span class="fa fa-plane text-muted"></span>
+			<small class="text-muted">{{ o.nearestAirport }}</small>
+		</div>
+		<div class="m-b-1">
+			<small class="text-muted">status: </small><span class="tag tag-success" ng-class="statusClass('{{o.status}}')">{{o.status}}</span>
+		</div>
+		<!-- <small class="text-muted">implementation progress: {{o.percentage}}%</small>
+		<progress class="progress progress-info" value="{{o.percentage}}" max="100">{{o.percentage}}</progress> -->
+	</div>
+</div>

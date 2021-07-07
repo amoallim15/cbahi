@@ -1,0 +1,574 @@
+{
+	"code": "MS",
+	"standards": [
+		{
+			"serial": 1,
+
+			"header": "The organization, functions, and responsibilities of the medical staff are documented and communicated to all medical staff members.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital has medical staff bylaws that govern the organization, functions, and responsibilities of the medical staff."
+				},
+				{
+					"header": "Medical staff bylaws are approved by the governing body."
+				},
+				{
+					"header": "Medical staff bylaws are consistent with acceptable medical staff practices and laws and regulations."
+				},
+				{
+					"header": "Medical staff bylaws describe the organizational structure of the medical staff and the reporting relationships, including all medical departments and committees."
+				},
+				{
+					"header": "Medical staff bylaws address:",
+
+					"details": [
+						"The medical staff ranking and the qualifications required for each rank.",
+						"Categories of the medical staff membership (e.g., full time, part time, and locum).",
+						"Roles and responsibilities of the medical staff members.",
+						"Appointment, promotion, and reappointment of medical staff members.",
+						"The process for verification of the medical staff credentials.",
+						"Grantingandmaintainingclinicalprivileges,includingtemporaryprivileges(e.g.,for locums and emergency situations).",
+						"Disciplinaryproceduresformedicalstaffmembers,includingcorrectiveactionsand appeals."
+					]
+				},
+				{
+					"header": "Medical staff bylaws describe the acceptable standards of patient care and professional conduct, including:",
+
+					"details": [
+						"Admission, referral, transfer, and discharge processes.",
+						"Documentation in medical records.",
+						"The conduct of care expected for all levels of medical staff (e.g., daily rounds).",
+						"The professional conduct (e.g., handling ethical issues) of the medical staff."
+					]
+				},
+				{
+					"header": "The medical director and heads of medical departments ensure the medical staff bylaws are made accessible and communicated to all members of the medical staff."
+				},
+				{
+					"header": "The medical director and heads of medical departments enforce the medical staff bylaws along with relevant rules and regulations."
+				}
+			]
+		},
+		{
+			"serial": 2,
+
+			"header": "A qualified medical director is responsible for managing the medical staff and medical services.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The medical director is a board certified physician or equivalent, qualified in healthcare management by education, training or experience."
+				},
+				{
+					"header": "The medical director is responsible and accountable for the clinical performance of the medical staff, the quality of care they provide, as well as their professional conduct."
+				},
+				{
+					"header": "The medical director recommends to the hospital director the appointment of the heads of clinical departments."
+				},
+				{
+					"header": "The medical director has a current written job description that clearly describes his managerial roles and responsibilities."
+				}
+			]
+		},
+		{
+			"serial": 3,
+
+			"header": "The hospital has an effective process that supports the professional communication and coordination of care amongst medical staff.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There is a medical executive committee or equivalent, chaired by medical director and includes the heads of clinical departments, to ensure that they work together to coordinate the provision of care."
+				},
+				{
+					"header": "The medical executive committee holds regular formal meetings (at least monthly)."
+				},
+				{
+					"header": "The medical executive committee reviews and approves policies and procedures related to clinical departments."
+				},
+				{
+					"header": "The medical executive committee reviews all relevant reports of other hospital committees for prioritizing the services needed and guiding the credentialing and privileging process."
+				}
+			]
+		},
+		{
+			"serial": 4,
+
+			"header": "Each clinical department is directed by a qualified individual.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The department head is board certified or equivalent in his field and qualified in healthcare management by education, training or experience."
+				},
+				{
+					"header": "The department head has a written job description that clearly describes his role and responsibilities."
+				},
+				{
+					"header": "Responsibilities of the department head include:",
+
+					"details": [
+						"Defining medical staff qualifications required for the provision of effective and safe patient care.",
+						"Recommending the need for further training/certification of a medical staff member.",
+						"Monitoring admissions to ensure that the diagnostic and therapeutic interventions are within the staff capabilities and the available hospital resources.",
+						"Ensuring that medical staff members work within the clinical privileges granted to them.",
+						"Developing a written scope of services for the department."
+					]
+				},
+				{
+					"header": "The department head has an ongoing method of peer review (e.g., peer review committee) to evaluate care provided as well as the performance of the medical staff.",
+
+					"details": [
+						"The department head regularly assesses important functions that include appropriateness of admissions, appropriateness and effectiveness of care, training and educational needs, length of stay, and appropriate utilization of resources.",
+						"The department head defines criteria or indicators for selecting cases that must be referred for peer review.",
+						"The activities of the peer review process are utilized as part of the physician’s performance evaluation.",
+						"The department head shares the findings of the peer review with the medical director and works closely to improve and correct any deficiencies."
+					]
+				}
+			]
+		},
+		{
+			"serial": 5,
+
+			"header": "The credentialing and privileging of the medical staff is based on an informed group decision.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital has a credentialing and privileging committee chaired by the medical director or a designee."
+				},
+				{
+					"header": "The credentialing and privileging committee provides oversight on the credentialing and privileging processes."
+				},
+				{
+					"header": "The credentialing and privileging committee ensures that only qualified physicians and dentists are appointed and granted privileges."
+				},
+				{
+					"header": "Applicants for initial appointment submit a complete set of documents required for the credentialing and privileging process , including:",
+
+					"details": [
+						"Curriculum vitae, detailing the professional history of the applicant.",
+						"Education, training, certificates, courses, experience, published research, andother relevant credentials.",
+						"List of references.",
+						"List of the privileges requested for approval."
+					]
+				}
+			]
+		},
+		{
+			"serial": 6,
+
+			"header": "The hospital has clearly defined and documented processes used to credential, appoint, and grant clinical privileges to medical staff.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "All members of the medical staff must be registered with the Saudi Commission for Health Specialties before allowed to work independently."
+				},
+				{
+					"header": "The hospital has a documented process for appointment, reappointment and granting of clinical privileges to all categories of medical staff."
+				},
+				{
+					"header": "Medical staff appointment, reappointment and granting of privileges are in accordance with relevant laws and regulations."
+				},
+				{
+					"header": "Medical staff appointment, reappointment and granting of privileges are based on:",
+
+					"details": [
+						"Evaluation of the verified credentials (license, education, training, and experience).",
+						"Evaluation of the mental and physical health and capabilities.",
+						"Competency, actual performance and outcomes of care.",
+						"Category of the medical staff as stated in the professional registration with the Saudi Commission for Health Specialties (e.g., consultant, specialist)."
+					]
+				},
+				{
+					"header": "Appointment, reappointment and granting of privileges are recommended by the medical staff leaders (medical director, heads of clinical departments, credentialing and privileging committee, and senior medical staff members) and approved by the governing body, either directly or by appropriate delegation."
+				},
+				{
+					"header": "The hospital has a process in place for appeals against credentialing or privileging decisions."
+				}
+			]
+		},
+		{
+			"serial": 7,
+
+			"header": "Medical staff members have current delineated clinical privileges.",
+
+			"tags": ["ESR"],
+
+			"details": [
+				{
+					"header": "Medical staff members are allowed to practice only within the privileges granted by the credentialing and privileging committee."
+				},
+				{
+					"header": "Clinical privileges are reviewed and updated every two years and as needed."
+				},
+				{
+					"header": "The hospital identifies the circumstances under which temporary or emergency privileges are granted."
+				},
+				{
+					"header": "Temporary or emergency privileges are not granted for more than 90 days and are not renewable."
+				},
+				{
+					"header": "When a new privilege is requested by a medical staff member, the relevant credentials are verified and evaluated prior to approval."
+				}
+			]
+		},
+		{
+			"serial": 8,
+
+			"header": "The performance of the medical staff members is evaluated on an ongoing basis to ensure competency.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The department head together with the medical director evaluate the performance and competency of medical staff members at least annually and when indicated by the findings of performance improvement activities."
+				},
+				{
+					"header": "The hospital identifies the circumstances under which an unplanned review of the performance of a medical staff member may be initiated."
+				},
+				{
+					"header": "The performance evaluation includes, but is not limited to, the following:",
+
+					"details": [
+						"Assessment of patients.",
+						"Adverse events.",
+						"Moderate and deep sedation.",
+						"Quality of medical records.",
+						"Medication errors.",
+						"Sentinel events.",
+						"Outcome of high-risk procedures and surgeries.",
+						"Morbidities and mortalities.",
+						"Blood and blood product usage.",
+						"Discrepancies between pre and post-operative pathological diagnoses.",
+						"Appropriateness of admissions from the emergency room and outpatient department."
+					]
+				}
+			]
+		},
+		{
+			"serial": 9,
+
+			"header": "Medical staff leaders make use of the data and information resulting from the medical staff performance review.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The data and information resulting from the medical staff performance review are used to:",
+
+					"details": [
+						"Provide feedback and counseling to the medical staff regarding their performance.",
+						"Recommend plans for improvement.",
+						"Amend clinical privileges as necessary, by expansion or limitation, a period of counseling and oversight, or other appropriate action.",
+						"Make informed decisions regarding reappointment.",
+						"Recommend training and continuous education as needed."
+					]
+				},
+				{
+					"header": "The outcomes of the medical staff performance evaluation and actions taken are documented in the physician’s credentials file."
+				}
+			]
+		},
+		{
+			"serial": 10,
+
+			"header": "Medical staff leaders support the hospital-wide quality improvement, patient safety, and risk management plans.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Heads of clinical departments together with the medical director work closely with other hospital leaders through formal meetings to support the implementation of the hospital-wide quality improvement, patient safety, and risk management plans."
+				},
+				{
+					"header": "Data and information resulting from the medical staff performance review are used to continuously improve the quality and safety by :",
+
+					"details": [
+						"Studying and minimizing variances in the processes.",
+						"Taking actions to avoid preventable medical errors and adverse events.",
+						"Recommending equipment needed in specified areas."
+					]
+				},
+				{
+					"header": "Heads of clinical departments together with the medical director work closely with the quality management director/risk manager in handling incidents including near misses and sentinel events.",
+
+					"details": [
+						"Root cause analysis is properly conducted.",
+						"Emphasis is on improving systems.",
+						"Corrective actions are documented."
+					]
+				}
+			]
+		},
+		{
+			"serial": 11,
+
+			"header": "Heads of clinical departments review mortality and morbidity cases.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Heads of clinical departments conduct mortality and morbidity meetings on a monthly basis to review all cases of mortality and significant morbidity."
+				},
+				{
+					"header": "Mortality and morbidity meetings are documented and attendance is considered essential."
+				},
+				{
+					"header": "The departmental mortality and morbidity meetings should focus on scientific discussion, improvement and prevention, with a non-punitive intent."
+				},
+				{
+					"header": "Heads of clinical departments work with the medical director to select cases to be referred to the hospital mortality and morbidity committee."
+				},
+				{
+					"header": "Heads of clinical departments send regularly mortality and morbidity findings to the medical director and the quality director."
+				}
+			]
+		},
+		{
+			"serial": 12,
+
+			"header": "The hospital has a mortality and morbidity committee.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There is a mortality and morbidity committee that is chaired by the medical director or a designee."
+				},
+				{
+					"header": "The mortality and morbidity committee reviews mortalities in the hospital and the unusual or unexpected adverse outcomes of care."
+				},
+				{
+					"header": "The mortality and morbidity committee receives cases for review from various sources (e.g., referral from the clinical departments, patient complaints, and the medical director)."
+				},
+				{
+					"header": "The mortality and morbidity committee evaluates cases for effectiveness, timeliness and appropriateness of care."
+				},
+				{
+					"header": "The mortality and morbidity findings are regularly forwarded to the medical director and the quality director."
+				},
+				{
+					"header": "The mortality and morbidity committee recommends actions for improvement and evaluates their effectiveness."
+				}
+			]
+		},
+		{
+			"serial": 13,
+
+			"header": "The hospital has a medical records review committee.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There is a medical records review committee with members representing the medical staff, the nursing staff and other professionals privileged to write in the medical record."
+				},
+				{
+					"header": "The medical records review committee oversees and monitors the documentation in medical records for quality, completeness, and timeliness."
+				},
+				{
+					"header": "The medical records review committee regularly reviews a sample (e.g., 5% on a quarterly basis) of the medical records of discharged and in-patients for:",
+
+					"details": [
+						"History and physical examination.",
+						"Assessment upon admission.",
+						"Progress notes.",
+						"Plan of care.",
+						"Operative reports.",
+						"Histopathology reports.",
+						"Laboratory results.",
+						"Radiology reports.",
+						"Discharge summary."
+					]
+				},
+				{
+					"header": "The medical records review committee recommends actions for improvement and evaluates their effectiveness."
+				}
+			]
+		},
+		{
+			"serial": 14,
+
+			"header": "The hospital has a utilization review committee.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There is a utilization review committee that is chaired by the medical director or a designee with representatives from relevant services such as medical staff, nursing staff, admission office and social services."
+				},
+				{
+					"header": "The utilization review committee assesses the medical necessity of the services furnished by the hospital and the medical staff members to patients. This includes, but is not limited to, the following:",
+
+					"details": [
+						"Appropriateness of admissions.",
+						"Appropriateness and quality of care.",
+						"Length of stay.",
+						"Drug usage.",
+						"Efficiency in using various hospital resources (e.g., overutilization or underutilization)."
+					]
+				},
+				{
+					"header": "The utilization review committee recommends actions for improvement and evaluates their effectiveness."
+				}
+			]
+		},
+		{
+			"serial": 15,
+
+			"header": "The hospital has a blood utilization committee.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There is a blood utilization committee that is chaired by the medical director or a designee with representatives from relevant services such as medical staff, nursing staff and blood bank."
+				},
+				{
+					"header": "The blood utilization committee ensures the optimal use of blood and blood products by establishing Indications/triggers for the transfusion of blood, blood components and blood derivatives."
+				},
+				{
+					"header": "The blood utilization committee approves all policies and procedures that involve the ordering and administration of blood and blood products, including:",
+
+					"details": [
+						"Handling of blood outside the laboratory.",
+						"Use of blood warmers and infusion devices.",
+						"Venous access.",
+						"Addition of fluids and drugs other than 0.9%NaCL.",
+						"Bedside Identification of the blood product and the intended recipient.",
+						"Monitoring of patient during and after blood administration."
+					]
+				},
+				{
+					"header": "The blood utilization committee ensures the optimal utilization of therapeutic phlebotomy and apheresis services."
+				},
+				{
+					"header": "The blood utilization committee monitors practices related to blood ordering and blood administration."
+				},
+				{
+					"header": "The blood utilization committee recommends actions for improvement and evaluates their effectiveness."
+				}
+			]
+		},
+		{
+			"serial": 16,
+
+			"header": "The hospital has a tissue review committee.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There is a tissue review committee that conducts analysis and review of tissues removed during surgeries and procedures."
+				},
+				{
+					"header": "The tissue review committee ensures there is a hospital policy that governs how to obtain and handle specimens and tissues."
+				},
+				{
+					"header": "The tissue review committee monitors the following:",
+
+					"details": [
+						"The collection and transportation of specimens to the laboratory.",
+						"The accuracy and completeness of histopathology forms (e.g., site of biopsy, number of biopsies, clinical history, previous biopsies).",
+						"The accuracy of fine needle aspirations.",
+						"The accuracy of frozen section specimens."
+					]
+				},
+				{
+					"header": "The tissue review committee defines and approves the list of specimens exempted from submission to surgical pathology or microscopic examination."
+				},
+				{
+					"header": "The tissue review committee reviews the appropriateness of all surgical procedures performed in the hospital, correlating pre- and post-operative surgical diagnoses with pathological findings."
+				},
+				{
+					"header": "The tissue review committee recommends actions for improvement and evaluates their effectiveness."
+				}
+			]
+		},
+		{
+			"serial": 17,
+
+			"header": "The hospital has an operating room committee.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There is an operating room committee with representatives from relevant services such as medical staff, nursing staff, operating room staff, infection control, and safety personnel."
+				},
+				{
+					"header": "The operating room committee approves all policies required for proper conduct of the work in the operating room including, but are not limited to, the following:",
+
+					"details": [
+						"Infection control measures.",
+						"Supply of equipment and disposables."
+					]
+				},
+				{
+					"header": "The operating room committee develops a code of ethical conduct in the operating room to protect patient privacy and dignity."
+				},
+				{
+					"header": "The operating room committee monitors performance in the operating room including cancellation rate and makes improvements accordingly."
+				}
+			]
+		},
+		{
+			"serial": 18,
+
+			"header": "The hospital has a cardiopulmonary resuscitation committee.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There is a cardiopulmonary resuscitation committee with representatives from relevant services such as medical staff, nursing staff, intensive care staff and emergency staff."
+				},
+				{
+					"header": "The cardiopulmonary resuscitation committee ensures there is an effective system to handle all cases requiring cardiopulmonary resuscitation at all times."
+				},
+				{
+					"header": "The cardiopulmonary resuscitation committee ensures that the cardiopulmonary resuscitation team members have cardiac life support training as appropriate to the patient population served by the hospital."
+				},
+				{
+					"header": "The cardiopulmonary resuscitation committee discusses all codes in the hospital, recommends actions for improvement, and evaluates those actions for effectiveness."
+				},
+				{
+					"header": "A summary of the cardiopulmonary resuscitation committee’s discussions is forwarded to the medical director and the quality director."
+				}
+			]
+		},
+		{
+			"serial": 19,
+
+			"header": "The hospital has a pharmacy and therapeutics committee.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There is a pharmacy and therapeutics committee with representatives from relevant services involved in drug prescribing, ordering, dispensing, administering, as well as patient monitoring processes."
+				},
+				{
+					"header": "The pharmacy and therapeutics committee provides oversight of the hospital formulary and medications use."
+				},
+				{
+					"header": "The pharmacy and therapeutics committee meets on a regular basis (at least quarterly)."
+				},
+				{
+					"header": "The pharmacy and therapeutics committee recommends actions for improvement and evaluates their effectiveness."
+				}
+			]
+		}
+	]
+}

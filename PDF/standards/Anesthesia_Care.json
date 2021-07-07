@@ -1,0 +1,427 @@
+{
+	"code": "AN",
+	"standards": [
+		{
+			"serial": 1,
+
+			"header": "Qualified anesthesiologist is responsible for managing anesthesia services in the hospital.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The head of the department of anesthesia is a qualified anesthesiologist by education, training, and experience."
+				},
+				{
+					"header": "The head of the department of anesthesia supervises the development and implementation of policies and procedures related to anesthesia practices throughout the hospital."
+				},
+				{
+					"header": "The head of the department of anesthesia enforces the implementation of infection control guidelines inside the operating and recovery rooms."
+				}
+			]
+		},
+		{
+			"serial": 2,
+
+			"header": "Anesthesia staff members have the appropriate qualifications.",
+
+			"tags": ["ESR"],
+
+			"details": [
+				{
+					"header": "Qualified anesthesiologists provide anesthesia services."
+				},
+				{
+					"header": "Qualified anesthesiologist is present inside the operating room throughout the operation."
+				},
+				{
+					"header": "Anesthesia consultant administers and supervises anesthesia for major/specialized operations or high risk patients, including:",
+
+					"details": [
+						"Pediatricoperations.",
+						"Cardio-pulmonary operations.",
+						"Neurosurgery operations.",
+						"Transplant operations."
+					]
+				},
+				{
+					"header": "Anesthesia staff are certified in advanced life support as appropriate to the patient’s age."
+				}
+			]
+		},
+		{
+			"serial": 3,
+
+			"header": "Policies and procedures guide the provision of anesthesia care.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Policies and procedures include, but are not limited to, the following:",
+
+					"details": [
+						"Staff responsibilities in the provision of anesthesia care.",
+						"Pre-anesthesia and pre-induction assessments.",
+						"Intra-operative monitoring of anesthetized patients.",
+						"Safe handling and storage of anesthetic medications/ agents."
+					]
+				},
+				{
+					"header": "Policies are collaboratively developed with other relevant disciplines (e.g., surgery, nursing, and laboratory)."
+				}
+			]
+		},
+		{
+			"serial": 4,
+
+			"header": "The provision of anesthesia care is guided by the required equipment and anesthesia products.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There is a multifunctional anesthesia machine and all other equipment required to meet the needs of patients, including equipment and tools required for difficult intubation."
+				},
+				{
+					"header": "Anesthesia machines are regularly checked and maintained as evidenced by a readily accessible record of preventive maintenance."
+				}
+			]
+		},
+		{
+			"serial": 5,
+
+			"header": "Sufficient information is communicated to the patient prior to administration of anesthesia to help making an informed decision.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Informed consent for anesthesia is obtained from the patient/family after explaining the anesthesia plan, risks, benefits, and alternatives."
+				},
+				{
+					"header": "The consent process is documented and witnessed."
+				}
+			]
+		},
+		{
+			"serial": 6,
+
+			"header": "Pre-anesthesia assessment and anesthesia planning are conducted for each patient prior to any inpatient or outpatient surgery/procedure, by an individual qualified to administer anesthesia.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The pre-anesthesia assessment should be completed and dated in less than thirty days prior to the scheduled surgery/procedure date. A review and update of the patient’s current condition is documented in the medical record before conducting the procedure."
+				},
+				{
+					"header": "The pre-anesthesia assessment includes:",
+
+					"details": [
+						"Patient interview and physical examination, including airway assessment and limited intra-vascular access.",
+						"Medical history including anesthesia, drug and allergy history.",
+						"Other additional pre-anesthesia evaluation if applicable and as required in accordance with the standard practice prior to administering anesthesia (e.g., stress tests or additional specialist consultations).",
+						"Notation of anesthesia risk according to established standards of practice (ASA classification).",
+						"Anesthetic plan and discussion of the risks and benefits.",
+						"Documentation of an informed consent.",
+						"Appropriate pre-medication and prophylactic antibiotic orders (if indicated)."
+					]
+				},
+				{
+					"header": "The anesthesiologist reassesses the patient immediately prior to induction of anesthesia focusing on the physiologic stability and readiness of the patient for anesthesia. Findings are documented in the patient’s medical record."
+				}
+			]
+		},
+		{
+			"serial": 7,
+
+			"header": "There is an anesthesia record for documentation of planned anesthesia care.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The planned anesthesia care is documented in anesthesia record for each patient during anesthesia. The following information must be documented:",
+
+					"details": [
+						"Age, sex, weight, height, and pre-operative vital signs.",
+						"The anesthetic agent.",
+						"The dosage, time, and route of administration of all medications and anesthetic agents used.",
+						"The techniques used to administer the anesthesia.",
+						"If blood is used, the amount of blood, rationale for administration, and the time given.",
+						"Investigations carried out e.g. blood glucose, blood gases.",
+						"Unusual events or complications.",
+						"The patient’s status at the end of the procedure.",
+						"Intravenous fluids given.",
+						"The anesthesiologist and anesthesia assistant(s)."
+					]
+				}
+			]
+		},
+		{
+			"serial": 8,
+
+			"header": "The patient’s physiological status is continuously monitored and documented during anesthesia.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There is a policy and procedure for monitoring of patients during anesthesia (type and frequency)."
+				},
+				{
+					"header": "The patient’s physiological status is continuously monitored and documented during anesthesia."
+				}
+			]
+		},
+		{
+			"serial": 9,
+
+			"header": "Post-anesthesia patients are safely transported to the recovery room.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Patients transported to the recovery room shall be accompanied by a qualified member of the anesthesia care team."
+				},
+				{
+					"header": "The patient shall be continually evaluated and treated during the transport with monitoring and support appropriate to the patient’s condition."
+				},
+				{
+					"header": "Upon arrival to the recovery room, the patient is properly handed over and re-evaluated."
+				},
+				{
+					"header": "The patient’s status and time of arrival to the recovery room are documented."
+				}
+			]
+		},
+		{
+			"serial": 10,
+
+			"header": "Qualified staff members provide post-anesthesia care in the recovery room.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Qualified anesthesiologist is in charge of the recovery room at all times."
+				},
+				{
+					"header": "Qualified staff members provide post-anesthesia care in the recovery room."
+				}
+			]
+		},
+		{
+			"serial": 11,
+
+			"header": "Post-anesthesia patients are continuously monitored and managed in the recovery room.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "A policy defines the monitoring requirements for patients during post-anesthesia phase."
+				},
+				{
+					"header": "There is a recovery from anesthesia record for documentation of monitoring findings and services provided in the recovery room."
+				}
+			]
+		},
+		{
+			"serial": 12,
+
+			"header": "Patients are safely discharged from the recovery room.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There are written criteria for the discharge of patients from the recovery room."
+				},
+				{
+					"header": "Staff in the recovery room are familiar with the discharge criteria."
+				},
+				{
+					"header": "Patients are discharged from the recovery room when the discharge criteria are met."
+				},
+				{
+					"header": "Patients are discharged from the recovery room by a qualified anesthesiologist or another qualified individual."
+				},
+				{
+					"header": "Time of discharge from the recovery room and the handover process to unit staff are documented."
+				}
+			]
+		},
+		{
+			"serial": 13,
+
+			"header": "Moderate and deep sedation/analgesia are performed only in areas identified in a hospital policy.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital identifies in a policy where moderate and deep sedation/analgesia are performed."
+				},
+				{
+					"header": "The areas where moderate and deep sedation/analgesia are performed have adequate equipment and supplies that include at a minimum:",
+
+					"details": [
+						"Wall suction or suction machine.",
+						"Oxygen source.",
+						"Pulse oximetry.",
+						"Automated blood pressure monitor or means of taking blood pressure.",
+						"ECG Monitor.",
+						"Crash cart with defibrillator, medications, IV access, and intubation equipment that is appropriate to the age of the patient."
+					]
+				}
+			]
+		},
+		{
+			"serial": 14,
+
+			"header": "There are policies and procedures for moderate and deep sedation/analgesia in the hospital.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Policies are collaboratively developed and approved by the head of anesthesia in collaboration with relevant disciplines."
+				},
+				{
+					"header": "Policies for moderate and deep sedation/analgesia identify the permissible medications, dosage, route of administration, reversal agents and pediatric considerations."
+				},
+				{
+					"header": "Moderate and deep sedation/analgesia is only used for patients having short diagnostic or therapeutic procedures."
+				}
+			]
+		},
+		{
+			"serial": 15,
+
+			"header": "Qualified staff perform moderate and deep sedation/analgesia.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Physicians who perform moderate and deep sedation/analgesia have competency-based privileges granted to perform moderate and deep sedation/analgesia."
+				},
+				{
+					"header": "Clinical staff who participate in caring for patients receiving moderate or deep sedation are certified in advanced life support as appropriate to the age of the patients served."
+				},
+				{
+					"header": "Clinical staff who participate in conducting sedation must successfully complete a proper education/training on moderate and deep sedation."
+				}
+			]
+		},
+		{
+			"serial": 16,
+
+			"header": "Patients going for procedures under moderate or deep sedation are properly prepared.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Informed consent is obtained after the physician educates the patient regarding the risk and benefits of the sedation and the consent is signed by the patient, guardian, or next of kin if the patient is unable to sign."
+				},
+				{
+					"header": "An intravenous access is inserted and maintained until the patient is fully recovered."
+				}
+			]
+		},
+		{
+			"serial": 17,
+
+			"header": "A pre-moderate and deep sedation/analgesia assessment is completed by a qualified physician.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The pre-sedation assessment is performed by a qualified physician and includes:",
+
+					"details": [
+						"History and physical examination.",
+						"History of medication allergy and adverse experience with sedation and analgesia as well as with anesthesia.",
+						"History of systemic illness or major organ impairment.",
+						"Verification of the patient (NPO) status.",
+						"American Society of Anesthesiologists (ASA) physical status class.",
+						"Vital signs.",
+						"Age and weight.",
+						"ECG findings."
+					]
+				},
+				{
+					"header": "The pre-sedation assessment is documented in the patient’s medical record."
+				}
+			]
+		},
+		{
+			"serial": 18,
+
+			"header": "Patients are continuously monitored during and after moderate and deep sedation/analgesia.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Patients are monitored during and after moderate and deep sedation/analgesia, including the following parameters:",
+
+					"details": [
+						"Vital signs.",
+						"Oxygen saturation.",
+						"Skin color.",
+						"Level of consciousness/response to stimuli.",
+						"ECG findings."
+					]
+				},
+				{
+					"header": "Patient monitoring is continued during the recovery period until the patient is stable and adequate function is restored."
+				},
+				{
+					"header": "Findings of monitoring are documented in the patient’s medical record."
+				},
+				{
+					"header": "The patient is always attended by a physician and nurse during and immediately after procedures involving moderate and deep sedation/analgesia."
+				}
+			]
+		},
+		{
+			"serial": 19,
+
+			"header": "Patients who have received moderate or deep sedation are safely discharged.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There are written criteria for the discharge of patients recovered from moderate or deep sedation."
+				},
+				{
+					"header": "Patients are discharged when the criteria are met."
+				},
+				{
+					"header": "When patients are transferred back to the unit:",
+
+					"details": [
+						"Patients are discharged to the unit by a qualified physician.",
+						"The physician writes a follow up instructions for the nurses."
+					]
+				},
+				{
+					"header": "When patients are directly discharged home:",
+
+					"details": [
+						"The physician writes a discharge order.",
+						"Patients are discharged in the company of a responsible adult who assumes responsibility and is capable of taking care of the patient.",
+						"Patient/family education and follow-up care instructions are provided prior to discharge."
+					]
+				}
+			]
+		}
+	]
+}

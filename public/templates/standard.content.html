@@ -1,0 +1,23 @@
+<div id="standards" class="ap-standard-content" aria-multiselectable="true">
+	<div id="{{o.code}}-{{o.serial}}-heading" class="panel-heading">
+		<h5>
+			<span ng-bind="o.tags" class="tag tag-warning"></span>
+			<span class="ap-num" ng-bind="o.code + ' ' + o.serial + '. '"></span>
+			<a data-toggle="collapse" href="#{{o.code}}-{{o.serial}}" aria-expanded="{{o.serial == 1? true: 'false'}}"" aria-controls="{{o.code}}-{{o.serial}}" data-parent="#standards" onclick="return false" class="{{o.serial == 1? '': 'collapsed'}}" ng-bind="o.header"></a>
+		</h5>
+	</div>
+	<div id="{{o.code}}-{{o.serial}}" class="collapse {{o.serial == 1? 'in': ''}} panel-collapse" aria-labelledby="{{o.code}}-{{o.serial}}-heading">
+		<ul>
+			<li ng-repeat="v in o.details">
+				<span class="ap-num" ng-bind="o.code + ' ' + o.serial + '.' + v.serial + '. '"></span>
+				<p ng-bind="v.header"></p>
+				<ul>
+					<li ng-repeat="j in v.details">
+						<span ng-bind="o.code + ' ' + o.serial + '.' + v.serial + '.' + ($index + 1) +'. '"></span>
+						<p ng-bind="j.header"></p>
+					</li>
+				</ul>
+			</li>
+		</ul>
+	</div>
+</div>

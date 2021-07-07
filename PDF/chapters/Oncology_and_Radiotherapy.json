@@ -1,0 +1,16 @@
+{
+	"serial": 20,
+
+	"title": "Oncology and Radiotherapy",
+
+	"code": "ORT",
+
+	"introduction": "Medical and radiation oncology is a high risk service that requires adherence to certain requirements to be safe, efficient, and effective. When the hospital provides medical and radiation oncology, the unit should be staffed with qualified individuals. Additionally, policies and procedures should guide staff for appropriate medical and radiation oncology care.\n This chapter addresses the following:",
+
+	"concerns": [
+		"Staff qualifications",
+		"Safety plan",
+		"Admission and discharge criteria",
+		"Policies and procedures"
+	]
+}

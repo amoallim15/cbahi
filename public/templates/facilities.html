@@ -1,0 +1,27 @@
+
+<div class="ap-search m-b-3">
+	<div class="container-fluid ap-title">
+		<div class="row">
+			<div class="col-xs-10 offset-xs-1">
+				<h1 class="text-xs-center">~ Coming Soon ~</h1>
+			</div>
+		</div>
+	</div>
+	<div class="container-fluid m-t-2">
+		<div class="row">
+			<div class="col-md-10 offset-md-1">
+				<div class="row ap-facilities-row">
+					<div class="ap-facility-col col-sm-6 col-md-4" ng-repeat="o in sr.facilities">
+						<div ng-include class="card" src="'templates/facility-header.html'"></div>
+					</div>
+				</div>
+				<nav>
+					<ul class="pager">
+						<li ng-class="dirClass(-1)"><a href="#" ng-click="pagination(-1)">Previous</a></li>
+						<li ng-class="dirClass(+1)"><a href="#" ng-click="pagination(+1)">Next</a></li>
+					</ul>
+				</nav>
+			</div>
+		</div>
+	</div>
+</div>

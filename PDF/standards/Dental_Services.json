@@ -1,0 +1,159 @@
+{
+	"code": "DN",
+	"standards": [
+		{
+			"serial": 1,
+
+			"header": "Qualified dentist directs the dental services.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The head of the dental department is a dentist qualified by education, training, and experience."
+				}
+			]
+		},
+		{
+			"serial": 2,
+
+			"header": "Dental department staff members have appropriate qualifications.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Dentists perform dental treatments and procedures within their approved privileges."
+				},
+				{
+					"header": "Qualified dental technicians are available as needed."
+				},
+				{
+					"header": "There is one dental assistant per chair."
+				}
+			]
+		},
+		{
+			"serial": 3,
+
+			"header": "Education is provided to the patient and family.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Patients are educated and informed about the nature of the problem."
+				},
+				{
+					"header": "Patients are educated and informed about treatments and procedures required."
+				},
+				{
+					"header": "Patients are educated and informed about time needed to complete the course of treatment."
+				},
+				{
+					"header": "Where applicable, patients are educated and informed about cost of services."
+				}
+			]
+		},
+		{
+			"serial": 4,
+
+			"header": "Each patient’s dental care is planned and documented in the medical record.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Comprehensive assessment is performed for each patient to include:",
+
+					"details": [
+						"History of allergic reactions.",
+						"Chronic illnesses (e.g., congenital heart disease, rheumatic heart and diabetes).",
+						"Infectious diseases.",
+						"Hematological diseases (e.g., hemophilia).",
+						"Chief complaints.",
+						"The need for antibiotic prophylaxis.",
+						"Radiological procedures needed.",
+						"Treatment plan including procedure(s) to be performed.",
+						"Dose of local anesthesia, the tooth treated and the material used."
+					]
+				},
+				{
+					"header": "The assessment findings and the treatment plan are documented in the patient’s medical record."
+				}
+			]
+		},
+		{
+			"serial": 5,
+
+			"header": "The dental department adopts the hospital wide policies and procedures as applicable.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Informed consent is obtained for all high-risk procedures."
+				},
+				{
+					"header": "General anesthesia and moderate or deep sedation are performed safely and according to the hospital’s related policies and procedures."
+				}
+			]
+		},
+		{
+			"serial": 6,
+
+			"header": "Infection control guidelines are strictly implemented in the dental department.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There are infection control guidelines that include, but are not limited to:",
+
+					"details": [
+						"Using gloves and masks for each case.",
+						"Wearing protective eyewear.",
+						"Providing eye protection for patients.",
+						"Cleaning surfaces of working area between patients.",
+						"Maintaining updated evidence-based disinfection and sterilization practices.",
+						"Implementing the hospital infection control plan, policies and procedures as outlined in the “Infection Control” chapter of this manual."
+					]
+				},
+				{
+					"header": "The infection control guidelines are strictly implemented."
+				}
+			]
+		},
+		{
+			"serial": 7,
+
+			"header": "Safety rules are applied in the dental laboratory.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Fire detection and abatement equipment are available."
+				},
+				{
+					"header": "Fire blankets are available."
+				},
+				{
+					"header": "Cautionary signs are posted."
+				},
+				{
+					"header": "A hooded exhaust is available in the casting area."
+				},
+				{
+					"header": "Oxygen cylinders are safely stored."
+				},
+				{
+					"header": "Fumes are safely evacuated."
+				},
+				{
+					"header": "Eye wash station is available."
+				}
+			]
+		}
+	]
+}

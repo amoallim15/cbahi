@@ -1,0 +1,434 @@
+{
+	"code": "HR",
+	"standards": [
+		{
+			"serial": 1,
+
+			"header": "The hospital has human resources department/unit.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The human resources department is well staffed and equipped to match the size and needs of the hospital."
+				},
+				{
+					"header": "The head of the human resources department is qualified in managing human resources by education, training, or experience."
+				},
+				{
+					"header": "Policies and procedures manual guides the work of human resources department.",
+
+					"details": [
+						"The manual includes items related to recruitment, hiring, resignation, termination, grievance and complaints, leaves, new employee orientation, on job training, and performance appraisal.",
+						"The manual is made accessible and communicated to all staff members.",
+						"Policies and procedures contained in the manual are implemented."
+					]
+				}
+			] 
+		},
+		{
+			"serial": 2,
+
+			"header": "Heads of departments, in collaboration with the human resources department, develop, implement, and monitor departmental staffing plans.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Each department has a written staffing plan, developed in collaboration with the human resources department, to fulfill its part of the hospital’s mission."
+				},
+				{
+					"header": "The departmental staffing plan defines the number, type, and qualifications of staff required for each department and their job responsibilities."
+				},
+				{
+					"header": "The staffing plans are reviewed and updated at least annually and as needed."
+				},
+				{
+					"header": "The staffing plans are monitored to identify deficiencies and take improvement actions accordingly."
+				}
+			] 
+		},
+		{
+			"serial": 3,
+
+			"header": "All categories of staff have clearly written job descriptions.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There is a policy that describes a standardized format for job description."
+				},
+				{
+					"header": "The job description is used when selecting employees for hire, performance evaluation, internal promotion, and transfer."
+				},
+				{
+					"header": "All job descriptions are revised at least every three years and as needed."
+				},
+				{
+					"header": "The job description defines the required knowledge, skills, and attitude to perform the job responsibilities."
+				},
+				{
+					"header": "The job description clearly defines the roles and responsibilities."
+				},
+				{
+					"header": "The job description specifies the reporting relationships."
+				},
+				{
+					"header": "The job description is discussed with and signed by the staff member on hiring and is kept in thepersonnel file."
+				}
+			] 
+		},
+		{
+			"serial": 4,
+
+			"header": "The hospital maintains personnel files for all employees.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital has a policy guiding the initiation, management, content update, and retention time and disposal of personnel files."
+				},
+				{
+					"header": "Personnel files are complete and updated."
+				},
+				{
+					"header": "Personnel files are kept confidential and only those who are authorized can access them."
+				},
+				{
+					"header": "Personnel files contain the following minimum items:",
+
+					"details": [
+						"Qualifications; including current licensure, certification, or registration, if applicable.",
+						"Current job description.",
+						"References.",
+						"Orientation, continuing education, and training records.",
+						"Performance evaluations.",
+						"Records of leave and sickness.",
+						"Disciplinary actions, if any.",
+						"Other documents as required by relevant laws and regulations."
+					]
+				}
+			] 
+		},
+		{
+			"serial": 5,
+
+			"header": "The hospital has a process for proper credentialing of staff members licensed to provide patient care.",
+
+			"tags": ["ESR"],
+
+			"details": [
+				{
+					"header": "The hospital has a written policy describing the process used for the verification of credentials."
+				},
+				{
+					"header": "The hospital gathers, verifies, and evaluates the credentials (license, education, training, certification and experience) of those medical staff, nursing staff, and other health professionals licensed to provide patient care."
+				},
+				{
+					"header": "Credentials are verified from the original source."
+				},
+				{
+					"header": "Job responsibilities and clinical work assignments/ privileges are based on the evaluation of the verified credentials."
+				},
+				{
+					"header": "The hospital ensures the registration of all healthcare professionals with the Saudi Commission for Health Specialties."
+				},
+				{
+					"header": "Staff licensed to provide patient care must always have and maintain a valid license to practice only within their profession."
+				},
+				{
+					"header": "The hospital maintains an updated record of the current professional license, certificate, or registration, when required by laws, regulations, or by the hospital for every medical staff, nursing staff and other healthcare professionals."
+				},
+				{
+					"header": "When verification of credentials is conducted through a third party, the hospital must request for a confirmatory documentation."
+				},
+				{
+					"header": "Verification process applies to all clinical staff categories (full time, part time, visitor, and locum)."
+				}
+			] 
+		},
+		{
+			"serial": 6,
+
+			"header": "New employees go through a general hospital orientation program before allowed to work independently.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "New employees, contract workers, students, and volunteers go through a general orientation program that provides the relevant initial training and information on the following:",
+
+					"details": [
+						"Hospital mission, vision, values, and organizational chart.",
+						"Roleofstaffmembersinallprogramsrelatedtofacilitymanagementandsafety(e.g., fire, safety, disasters, hazardous materials, utilities, and equipment failures).",
+						"General information on infection control.",
+						"General information on the paging and telephone system.",
+						"General information on staff evaluation process.",
+						"Definition of adverse and sentinel events along with the process of reporting.",
+						"Hospital policy on abuse and neglect of children and adults.",
+						"Hospital policy on credentialing and privileging.",
+						"General information about staff health program.",
+						"General information about important local cultural and social themes.",
+						"General information about the hospital-wide quality, patient safety, and risk management plans.",
+						"Ethical conduct and expected professional communication with patients and colleagues.",
+						"Patient rights."
+					]
+				},
+				{
+					"header": "The hospital provides all new employees with an “Employee Manual” or equivalent that contains a summary of the general orientation program as well as other relevant important information."
+				},
+				{
+					"header": "The general orientation program is conducted before working independently."
+				},
+				{
+					"header": "The general orientation program is documented in the employee’s personnel file."
+				}
+			] 
+		},
+		{
+			"serial": 7,
+
+			"header": "New employees go through a departmental and job orientation program before allowed to work independently.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The departmental and job orientation program is defined in a departmental policy and includes the following:",
+
+					"details": [
+						"Departmental policies and procedures.",
+						"Specific job responsibilities within the department as outlined in the job description.",
+						"Safe operation of equipment and medical devices including troubleshooting and malfunctions reporting.",
+						"Clarification on all topics provided in the general orientation as needed."
+					]
+				},
+				{
+					"header": "Additional orientation is provided upon changing the job description or introducing a new technology or equipment."
+				},
+				{
+					"header": "The departmental orientation is conducted by the head of the department or the immediate supervisor."
+				},
+				{
+					"header": "An evidence of attending the departmental and job orientation program is signed by the new employee and documented in the personnel file."
+				}
+			] 
+		},
+		{
+			"serial": 8,
+
+			"header": "The hospital has a process for initial evaluation of the competency and conduct of the new employees.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital has a process described in a policy or other document for initial evaluation of the competency of the new employees."
+				},
+				{
+					"header": "All new employees go through a probationary period for competency evaluation. During this period, clinical staff can only work under direct supervision."
+				},
+				{
+					"header": "Competency evaluation during the probationary period is a structured process that aims to assess and review the employee’s knowledge, performance, capability, conduct, and suitability for the role."
+				},
+				{
+					"header": "The competency evaluation is documented in the personnel file."
+				}
+			] 
+		},
+		{
+			"serial": 9,
+
+			"header": "The hospital has a process for the regular evaluation of staff performance.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There is a policy describing the process used in the regular evaluation of staff performance."
+				},
+				{
+					"header": "The performance evaluation is based on objective criteria and is linked with the job description."
+				},
+				{
+					"header": "The performance evaluation is a two-way process conducted at least annually."
+				},
+				{
+					"header": "The outcome of the performance evaluation is used to set objectives for performance improvement and professional development."
+				},
+				{
+					"header": "The performance evaluation is signed by both the employee and the supervisor and is documented in the personnel file."
+				}
+			] 
+		},
+		{
+			"serial": 10,
+
+			"header": "The hospital identifies the staff training and educational needs.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital has a process in place for identification of the training and educational needs of the different categories of hospital staff."
+				},
+				{
+					"header": "The training and educational needs are identified based on objective criteria that include, but are not limited to, the following:",
+
+					"details": [
+						"The hospital mission, vision and scope of services.",
+						"Individual staff member’s education and training history.",
+						"Information from quality assessment and improvement activities.",
+						"Needs generated by advancements made in the medical and healthcare management fields.",
+						"Findings from department performance appraisals of individuals.",
+						"Findings from peer review activities.",
+						"Findings from the hospital’s technology and safety management programs.",
+						"Findings from infection control activities."
+					]
+				}
+			] 
+		},
+		{
+			"serial": 11,
+
+			"header": "The hospital supports continuing education for all staff members.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There is a policy describing the structure and the process used in the continuing education of all categories of staff."
+				},
+				{
+					"header": "The hospital grants financial support and time off for staff to attend educational activities."
+				},
+				{
+					"header": "The hospital has an educational program with an ongoing schedule of educational activities and training based on the hospital needs."
+				},
+				{
+					"header": "The department head recommends and evaluates the educational and training activities required to maintain staff competencies to provide care. This process is linked to performance improvement and documented in the personnel file."
+				}
+			] 
+		},
+		{
+			"serial": 12,
+
+			"header": "Staff members providing direct patient care are trained on cardiopulmonary resuscitation.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "All staff members who provide direct patient care (medical staff, nursing staff, and other healthcare professionals) maintain a valid certification in basic cardiac life support (BCLS) and certification is renewed every two years."
+				},
+				{
+					"header": "The hospital identifies and provides training for other staff categories in areas related to advanced cardiac life support (ACLS), neonatal resuscitation program (NRP), pediatric advanced life support (PALS), and advanced trauma life support (ATLS). Examples include, but are not limited to:",
+
+					"details": [
+						"Physicians and nurses working in critical care areas must maintain additional certification in ACLS, PALS and NRP as appropriate to the patients’ age groups.",
+						"Internal medicine physicians must maintain additional certification in ACLS.",
+						"Emergency department physicians must maintain additional certification in ACLS, PALS and ATLS.",
+						"Pediatricians must maintain additional certification in PALS and NRP."
+					]
+				}
+			] 
+		},
+		{
+			"serial": 13,
+
+			"header": "The hospital has a program that addresses staff health and safety.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital has a staff health and safety program that is consistent with laws and regulations and covers all staff members."
+				},
+				{
+					"header": "The program is based on assessment and where necessary, reduction of occupational health and safety risks."
+				},
+				{
+					"header": "The program is coordinated with the hospital’s quality, safety, risk management, and infection control programs."
+				},
+				{
+					"header": "The program includes, but is not limited to, the following:",
+
+					"details": [
+						"Pre-employment medical evaluation of new employees.",
+						"Response to the health problems of the employees through direct treatment (e.g., a staff clinic) or referral.",
+						"Periodic medical evaluation of staff members.",
+						"Screening for exposure and/or immunity to infectious diseases.",
+						"Staff preventive immunizations.",
+						"Management of exposure to blood borne pathogens and other work-related conditions.",
+						"Measures to reduce occupational exposures and hazards, including the use of protective equipment and clothing, stress management, and ergonomics.",
+						"Staff education on the risks within the hospital environment as well as on their specific job-related hazards (e.g., lifting techniques, safe use of medical devices, and detecting, assessing, and reporting risks).",
+						"Documentation and management of staff incidents (e.g., injuries or illnesses, taking corrective actions, and setting measures in place to prevent recurrences).",
+						"There is appropriate record keeping and management (e.g., employee health records that are filed separately)."
+					]
+				}
+			] 
+		},
+		{
+			"serial": 14,
+
+			"header": "The hospital has a process for handling staff complaints and dissatisfaction.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital has a policy for handling staff complaints and dissatisfaction."
+				},
+				{
+					"header": "Staff members are aware of the procedure to be followed to bring forward a complaint or a dissatisfaction issue."
+				},
+				{
+					"header": "The hospital takes actions for addressing the complaints and dissatisfaction in a fair, objective, and timely manner."
+				}
+			] 
+		},
+		{
+			"serial": 15,
+
+			"header": "The hospital develops and implements strategies for retaining qualified staff.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital has a process for recognition and reward of distinguished staff."
+				},
+				{
+					"header": "The hospital provides opportunities for professional development and promotion."
+				},
+				{
+					"header": "The hospital carries out human resources policies in a fair and consistent way without discrimination."
+				},
+				{
+					"header": "The hospital carries out exit interviews for resigning staff and uses the resulting information to make decisions about improving human resources processes."
+				}
+			] 
+		},
+		{
+			"serial": 16,
+
+			"header": "The hospital conducts staff satisfaction surveys on an ongoing basis.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "A staff satisfaction survey is conducted at least once per year."
+				},
+				{
+					"header": "Data are aggregated and analyzed."
+				},
+				{
+					"header": "Actions are taken to address areas for improvement."
+				}
+			] 
+		}
+	]
+}

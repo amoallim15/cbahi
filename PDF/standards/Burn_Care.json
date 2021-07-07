@@ -1,0 +1,225 @@
+{
+	"code": "BC",
+	"standards": [
+		{
+			"serial": 1,
+
+			"header": "Qualified director is responsible for managing the clinical services in the burn care unit.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The clinical services in the burn care unit are led by a qualified plastic surgeon with interest/ experience in burn care."
+				}
+			]
+		},
+		{
+			"serial": 2,
+
+			"header": "The burn unit is covered by qualified medical staff.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The care is provided by consultant burn care five days a week during working hours."
+				},
+				{
+					"header": "The care is supplemented by sufficient qualified surgeons twenty four hours a day, seven days a week (plastic surgeon or general surgeon who has completed initial stage training in plastic surgery)."
+				},
+				{
+					"header": "The unit has access to consultant burn care twenty four hours a day, seven days a week."
+				}
+			]
+		},
+		{
+			"serial": 3,
+
+			"header": "Clinical staff members have appropriate qualifications.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Clinical staff members in the burn care unit are qualified in the care of burn patients."
+				},
+				{
+					"header": "Clinical staff who participate in providing care for burn patients are certified in advanced life support for the different age groups."
+				},
+				{
+					"header": "On every shift, clinical staff are present on site or at least one certified professional is assigned for the burn unit."
+				}
+			]
+		},
+		{
+			"serial": 4,
+
+			"header": "Qualified nurse manager is responsible for supervising nursing services in the burn unit.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The nurse manager in charge of the burn unit is a qualified registered nurse with training, education, or experience in burn care."
+				}
+			]
+		},
+		{
+			"serial": 5,
+
+			"header": "The burn unit has adequate nursing coverage.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Nursing staffing plan is based on patient volume and patient acuity and ensures adequate coverage twenty four hours a day, seven days a week."
+				}
+			]
+		},
+		{
+			"serial": 6,
+
+			"header": "The burn unit has admission and discharge criteria.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The burn unit has admission and discharge criteria consistent with evidence-based practice."
+				},
+				{
+					"header": "The criteria are collaboratively developed by the unit medical and nursing staff."
+				},
+				{
+					"header": "The admission and discharge criteria are implemented."
+				}
+			]
+		},
+		{
+			"serial": 7,
+
+			"header": "Services provided in the burn unit are coordinated with other services to meet the needs of patients.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Medical services are readily available and accessible including, but are not limited to:",
+
+					"details": [
+						"Critical care services.",
+						"Anesthesia services.",
+						"Social services.",
+						"Pharmaceutical care.",
+						"Physiotherapy services."
+					]
+				},
+				{
+					"header": "Care is coordinated with the different disciplines participating in the plan of care."
+				}
+			]
+		},
+		{
+			"serial": 8,
+
+			"header": "Policies, procedures, guidelines, and protocols guide the care in the burn unit. BC.8.1 There are policies, procedures, protocols and guidelines covering, but are not limited to:",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Inhalation injury."
+				},
+				{
+					"header": "Varying degrees/types of burns. BC.8.1.3 Infections."
+				},
+				{
+					"header": "Use of skin or synthetic grafts."
+				}
+			]
+		},
+		{
+			"serial": 9,
+
+			"header": "Policies and procedures guide all practices relating to infection control in the burn unit.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There are policies and procedures to guide all practices relating to infection control and this includes, but is not limited to:",
+
+					"details": [
+						"Separation of cases.",
+						"Use of masks, gowns and gloves.",
+						"Cleaning and disinfecting all equipment and tools.",
+						"Visitor restrictions.",
+						"Aseptic dressing change.",
+						"Care of skin graft.",
+						"Transport of patients into and out of the unit.",
+						"Burn bath management."
+					]
+				},
+				{
+					"header": "The burn Policies and procedures relating to infection control are implemented as evidenced in the daily care unit is under positive pressure with High Efficiency Particulate Air (HEPA) filters."
+				},
+				{
+					"header": "practice and the patient’s medical record."
+				}
+			]
+		},
+		{
+			"serial": 10,
+
+			"header": "The burn care unit has all necessary equipment and supplies for the provision of safe care.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The burn care unit has the necessary equipment, supplies, and medications including, but are not limited to:",
+
+					"details": [
+						"Crash Cart.",
+						"Automated blood pressure monitoring machines.",
+						"Cardiac monitors.",
+						"Suction machines.",
+						"Pulse oximeters.",
+						"Intravenous infusion pumps and syringes.",
+						"Ventilators.",
+						"Blood warmers.",
+						"Glucometers."
+					]
+				}
+			]
+		},
+		{
+			"serial": 11,
+
+			"header": "Nursing staff in the burn care unit receive continuous training with competency assessment.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": " Nursing staff in the burn care unit receive training and education that include , but is not limited to the following:",
+
+					"details": [
+						"Use of pulse oximetry.",
+						"Principles of infection control.",
+						"Use of the defibrillator.",
+						"Knowledge of the dosage, side effects, and complications of commonly used high alert medications."
+					]
+				},
+				{
+					"header": "There is ongoing competency assessment for the nursing staff (e.g., written test, return demonstration)."
+				},
+				{
+					"header": "The competency assessment of the nursing staff is documented."
+				}
+			]
+		}
+	]
+}

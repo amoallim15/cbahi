@@ -1,0 +1,23 @@
+{
+	"serial": 29,
+
+	"title": "Medication Management",
+
+	"code": "MM",
+
+	"introduction": "Medication management is an important part of the preventive, curative and palliative treatment of many diseases and conditions that are dealt with by healthcare professionals in hospitals. Medication safety is becoming a priority in all safety programs because the magnitude of harm that can be caused by wrong medication or wrong dose is great and many sentinel events occurring in hospitals today are actually medications-related. To eliminate any potential harm that could be caused by medications, hospitals need to develop their own medication management systems that fulfill two important components: effectiveness and safety.\n This chapter outlines the requirements for the following processes and activities related to medication management:",
+
+	"concerns": [
+		"Staff planning and qualifications",
+		"Staff education",
+		"Selection and procuring of medications",
+		"Storage",
+		"Ordering",
+		"Preparing and dispensing",
+		"Administration",
+		"Monitoring and evaluation",
+		"Using evidence-based practices to develop safe medication management processes",
+		"Reducing variations, errors and misuse",
+		"Reporting of medication errors"
+	]
+}

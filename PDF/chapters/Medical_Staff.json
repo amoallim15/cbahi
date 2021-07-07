@@ -1,0 +1,18 @@
+{
+	"serial": 3,
+
+	"title": "Medical Staff",
+
+	"code": "MS",
+
+	"introduction": "A hospital's medical staff, the group of physicians and dentists licensed to practice medicine and prescribe medications, plays a critical role in assuring quality care and improving patients' outcomes in the hospital. The standards in this chapter define the medical staff leaders’ roles and responsibilities in credentialing, privileging, bylaws development, committees and departments’ management, as well as performance improvement.\n A good hospital should always have a clear structure of its medical staff, including departments, divisions, and medical committees. The medical director is responsible for the organization and conduct of the medical staff, and is viewed as the critical link between the governing board, the hospital director, and the medical staff. The medical director must be a physician and must have his or her duties clearly defined in writing.\n Important processes and activities addressed in this chapter include the following:",
+
+	"concerns": [
+		"Medical staff leaders’ roles and responsibilities",
+		"Medical staff evaluation, credentialing and privileging",
+		"Medical staff committees",
+		"Medical staff bylaws",
+		"Medical staff collaboration with other disciplines",
+		"Medical staff competency assessment"
+	]
+}

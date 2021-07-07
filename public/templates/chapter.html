@@ -1,0 +1,13 @@
+<div class="ap-chapter">
+	<h3 ng-bind="ch.title"></h3>
+	<hr />
+	<p ng-bind="ch.introduction"></p>
+	<ul>
+		<li ng-repeat="q in ch.concerns" ng-bind="q.header"></li>
+	</ul>
+	<div id="standards" class="list-group ap-stn-list" aria-multiselectable="true">
+		<div class="list-group-item ap-stn-item panel panel-default" ng-repeat="o in ch.standards">
+			<div ng-include src="'templates/standard.content.html'"></div>
+		</div>
+	</div>
+</div>

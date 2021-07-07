@@ -1,0 +1,1248 @@
+{
+	"code": "FMS",
+	"standards": [
+		{
+			"serial": 1,
+
+			"header": "Hospital Leaders establish and support a facility management and safety program.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The facility management and safety program includes the following written and approved plans:",
+
+					"details": [
+						"Safety of the Building.",
+						"Security.",
+						"Hazardous materials and waste disposal.",
+						"External emergency. Internal emergency. Fire Safety.",
+						"Medical equipment. Utility System."
+					]
+				},
+				{
+					"header": "Hospital leaders support the facility management and safety program to acquire the necessary equipment."
+				},
+				{
+					"header": "The program includes regular inspection, testing, and maintenance of all the operating components of the program."
+				},
+				{
+					"header": "The program has a budget for the necessary upgrading or replacement as identified by monitoring data or to meet applicable laws and regulations."
+				},
+				{
+					"header": "There is an orientation program conducted for new hires on the facility management and safety plans."
+				}
+			]
+		},
+		{
+			"serial": 2,
+
+			"header": "There is a qualified individual(s) responsible for directing and coordinating the facility management and safety program.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital has a facility management and safety program director who directs and coordinates all aspects of the facility management and safety program."
+				},
+				{
+					"header": "The program director is qualified by education (e.g., bachelor’s degree in engineering science), training, and experience in healthcare facility management and safety."
+				},
+				{
+					"header": "The program director is assisted by qualified staff (e.g., safety officer) as required, according to the size and complexity of the hospital services."
+				},
+				{
+					"header": "The program director provides ongoing consultation to all departments."
+				},
+				{
+					"header": "Each department has an assigned \"liaison safety officer\" to liaise all safety issues within the department."
+				}
+			]
+		},
+		{
+			"serial": 3,
+
+			"header": "There is a multidisciplinary safety committee that provides oversight of the facility management and safety program.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The committee's membership consists of representatives from relevant departments such as safety, security, housekeeping, infection control, risk management, biomedical engineering, laboratory, medical staff (E.R), nursing, radiation safety, maintenance, and quality management."
+				},
+				{
+					"header": "The safety committee provides oversight of the facility management and safety program."
+				},
+				{
+					"header": "Safety committee meets at least ten times per year on a monthly schedule. Minutes are documented to be approved by the hospital leadership."
+				},
+				{
+					"header": "The safety committee, through a multidisciplinary team, conducts quarterly and as needed facility safety tours to identify risks and hazards related to the facility and physical plants as well as evaluation of staff knowledge."
+				},
+				{
+					"header": "The committee uses the resulting information for corrective and preventive actions, planning, and budgeting of long-term upgrading and replacement."
+				}
+			]
+		},
+		{
+			"serial": 4,
+
+			"header": "The hospital is in compliance with applicable laws and regulations.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital has a valid Saudi Civil Defense license."
+				},
+				{
+					"header": "The hospital has a valid Saudi Civil Defense report and action plan as applicable."
+				},
+				{
+					"header": "Hospital leaders ensure compliance with applicable building and environmental protection standards, laws, and regulations (e.g., MOMRA's hospital building requirements, Saudi building code, discharges to drainage systems, safe disposal of waste)."
+				}
+			]
+		},
+		{
+			"serial": 5,
+
+			"header": "The hospital ensures safety and security of staff and patients during construction, renovation, or demolition projects.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital implements a policy for safety and security of patients, staff and visitors during construction, renovation, or demolition that includes:",
+
+					"details": [
+						"Safety and security instructions.",
+						"Education of contractors.",
+						"Proper isolation of construction and renovation sites.",
+						"How to eliminate the risks of fire and spread of dust.",
+						"Penalties incurred on contractors for violating the policy.",
+						"Safety rounds on construction/renovation sites by facility management and safety and infection control staff."
+					]
+				},
+				{
+					"header": "A work permit is signed by the construction team and posted in the construction, renovation, or demolition sites."
+				}
+			]
+		},
+		{
+			"serial": 6,
+
+			"header": "Warning and directive signs are posted inside the hospital as appropriate.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There are warning signs posted as appropriate in the hospital and include:",
+
+					"details": [
+						"Signs for the radioactive materials including warning signs for pregnant women.",
+						"Signs for wet floors during cleaning.",
+						"No smoking signs.",
+						"Signs and warning lights for x-ray room(s).",
+						"Signs to restrict cellular phones in sensitive areas as appropriate, e.g. MRI or critical care units."
+					]
+				},
+				{
+					"header": "There are directive signs posted as appropriate in the hospital and include:",
+
+					"details": [
+						"Signs indicating the hospital name and main entrances/exits.",
+						"Directional signs.",
+						"Signs to direct staff and patients to the different services in the hospital.",
+						"Fire exit signs.",
+						"Signs to identify floor level at staircases and in front of elevators.",
+						"Signs to instruct staff, patients, and visitors in restricted areas.",
+						"MRI patient safety measures and steel restriction signs.",
+						"Signs for populations with special needs."
+					]
+				}
+			]
+		},
+		{
+			"serial": 7,
+
+			"header": "The hospital is equipped for vulnerable individuals and others with special needs.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital is equipped with special parking spots."
+				},
+				{
+					"header": "The hospital is equipped with wheel chairs and relevant ramps are in all elevated areas."
+				},
+				{
+					"header": "The hospital is equipped with handrails in the corridors and stairs."
+				},
+				{
+					"header": "The hospital is child safe in the public areas (tamper free outlets, no sharp ends)."
+				}
+			]
+		},
+		{
+			"serial": 8,
+
+			"header": "Safety measures and equipment are applied where needed in the hospital to ensure safety of patients and staff.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The patients bathrooms and showers are provided with the following safety measures:",
+
+					"details": [
+						"Non-slipping floors’ surfaces.",
+						"Bars to support patients.",
+						"Bell or a system to call for help.",
+						"Lock system that allows opening from outside."
+					]
+				},
+				{
+					"header": "The kitchen has safety equipment that include:",
+
+					"details": [
+						"Eye wash stations.",
+						"Fire blankets.",
+						"First aid kit.",
+						"Fire Extinguishers.",
+						"Emergency shut off valve for liquid propane gas.",
+						"Emergency shower."
+					]
+				},
+				{
+					"header": "The laundry has safety equipment that include:",
+
+					"details": [
+						"Eye wash stations.",
+						"Fire blankets.",
+						"First aid kit.",
+						"Fire Extinguishers.",
+						"Emergency shower."
+					]
+				},
+				{
+					"header": "The Laboratory has safety equipment that include:",
+
+					"details": [
+						"Eye wash stations.",
+						"Fire blankets.",
+						"First aid kit.",
+						"Fire extinguishers.",
+						"Emergency shower.",
+						"Fire resistant safety cabinets for laboratory chemicals."
+					]
+				}
+			]
+		},
+		{
+			"serial": 9,
+
+			"header": "The hospital ensures that all its occupants are safe from radiation hazards.",
+
+			"tags": ["ESR"],
+
+			"details": [
+				{
+					"header": "The hospital has a radiation safety policy and procedure and it is implemented."
+				},
+				{
+					"header": "All radio-active materials are clearly labeled and safely and securely stored."
+				},
+				{
+					"header": "The hospital has the relevant valid license(s) from King Abdulaziz City for Science and Technology."
+				},
+				{
+					"header": "Staff handling nuclear materials are qualified and certified by King Abdul-Aziz City for Science and Technology."
+				},
+				{
+					"header": "There is a valid shielding certificate of the x-ray room(s) including regular test to ensure permissible radiation levels."
+				},
+				{
+					"header": "Lead aprons and gonad/thyroid shields are available to cover patients and staff needs and are annually tested according to a hospital-wide inventory."
+				},
+				{
+					"header": "Personal radiation dosimeters (TLD cards) are available, tested every 3 months, and actions taken when test results exceed permissible levels."
+				}
+			]
+		},
+		{
+			"serial": 10,
+
+			"header": "Patients and staff are protected from unnecessary exposure to laser beams in areas where it is used.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There are laser warning signs at all areas where the laser is used."
+				},
+				{
+					"header": "Laser is performed in rooms that do not have refractive surfaces such as glass and mirrors."
+				},
+				{
+					"header": "Staff working or assisting in laser procedures are provided with protective eye goggles appropriate to the wavelength used."
+				},
+				{
+					"header": "Laser safety manuals are available for the concerned staff."
+				}
+			]
+		},
+		{
+			"serial": 11,
+
+			"header": "The hospital environment is secure for patients, visitors, and staff.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There are identification badges for the following staff categories:",
+
+					"details": [
+						"Hospital staff.",
+						"Temporary employees.",
+						"Contractor staff."
+					]
+				},
+				{
+					"header": "Security personnel or alternative security systems are utilized to restrict access to sensitive areas that include, but are not limited to, the following:",
+
+					"details": [
+						"Delivery room.",
+						"Neonatal intensive care unit.",
+						"Nursery.",
+						"Female wards.",
+						"Operating room.",
+						"Central sterilization service department.",
+						"Morgue.",
+						"Medical records.",
+						"Hospital roof.",
+						"Medical equipment and goods stores including pharmacy narcotic vault."
+					]
+				},
+				{
+					"header": "There are policies and procedures for the following:",
+
+					"details": [
+						"Preventing children and neonates abduction.",
+						"Lost and found items.",
+						"Safe keeping of patient belongings.",
+						"Involvement of police in cases of trauma, motor vehicle accidents, and medico-legal incidents.",
+						"Incidents of violence (violence code).",
+						"Women and childhood abuse."
+					]
+				},
+				{
+					"header": "Staff are trained on response to all security alerts."
+				}
+			]
+		},
+		{
+			"serial": 12,
+
+			"header": "The hospital has a mechanism to deal with a bomb threat.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There is a written policy on how to deal with a bomb threat in the hospital which includes:",
+
+					"details": [
+						"Defining the code or alert.",
+						"Defining the role of the person receiving threat alerts.",
+						"Defining the response team including the individual responsible for announcing the emergency status and contacting the local authorities.",
+						"Defining the duties and the responsibilities of all staff involved and their action cards.",
+						"The command center location.",
+						"Defining the steps to be taken during the bomb threat."
+					]
+				},
+				{
+					"header": "Staff are trained on response to bomb threat alerts."
+				}
+			]
+		},
+		{
+			"serial": 13,
+
+			"header": "The hospital has qualified individuals assigned to maintain security.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The number of security personnel is proportional to the size of the hospital, number of entrances, and the availability of supporting security systems."
+				},
+				{
+					"header": "The security personnel have written job descriptions."
+				},
+				{
+					"header": "The security personnel receive orientation about:",
+
+					"details": [
+						"Scope of work and job description.",
+						"Emergency codes.",
+						"Fire safety."
+					]
+				},
+				{
+					"header": "The security personnel roles are clearly defined for the following:",
+
+					"details": [
+						"External disaster plan.",
+						"Internal disaster plan.",
+						"No smoking policy."
+					]
+				},
+				{
+					"header": "The security personnel have a dress code."
+				},
+				{
+					"header": "The security personnel conduct hospital wide security rounds and significant findings are documented."
+				}
+			]
+		},
+		{
+			"serial": 14,
+
+			"header": "The hospital ensures safe management of hazardous materials.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There is a written hazardous materials plan that includes the following:",
+
+					"details": [
+						"Appropriate handling, storing, transporting, and disposing of hazardous materials.",
+						"Education and training on signs and symptoms of exposure to hazardous materials and the appropriate treatment according to Material Safety Data Sheets (MSDS)."
+					]
+				},
+				{
+					"header": "Each department has a current list of hazardous materials used in the department. The list covers:",
+
+					"details": [
+						"Purpose of use.",
+						"The responsible person.",
+						"Permitted quantity."
+					]
+				},
+				{
+					"header": "Each department dealing with hazardous materials has Material Safety Data Sheets (MSDS) relevant to its current list of hazardous materials."
+				},
+				{
+					"header": "Each department using hazardous materials has proper personal protective equipment (PPE) and spill kits to handle any spill or exposure."
+				},
+				{
+					"header": "All hazardous materials are labeled clearly and this includes:",
+
+					"details": [
+						"Anti-neoplastic drugs.",
+						"Radioactive materials.",
+						"Corrosives, acids, and toxic materials.",
+						"Hazardous gases and vapors.",
+						"Anesthetic gases.",
+						"Flammable liquids."
+					]
+				},
+				{
+					"header": "Any leak, spill, or exposure to any hazardous material is reported."
+				}
+			]
+		},
+		{
+			"serial": 15,
+
+			"header": "The hospital implements a waste management plan.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital has a waste management plan that includes handling, storing, transporting, and disposing all kinds of waste (e.g., clinical waste, radioactive waste, and hazardous gases)."
+				},
+				{
+					"header": "The plan is implemented."
+				},
+				{
+					"header": "Staff (including contractors’ staff) are trained on dealing with hazardous waste."
+				}
+			]
+		},
+		{
+			"serial": 16,
+
+			"header": "The hospital ensures preparedness for external disasters.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital has a plan to deal with potential external disasters. The plan includes:",
+
+					"details": [
+						"Identification of all potential external emergencies and disasters.",
+						"Names and titles of all staff to be called including their contact numbers and action cards.",
+						"Duties and responsibilities of hospital leaders.",
+						"The triage areas, their locations, and triage action cards.",
+						"The individual responsible for announcing the emergency state and contacting the local authority.",
+						"The control room location and the person in charge.",
+						"The total number of beds that can be evacuated.",
+						"The role of the security personnel.",
+						"The role of each department in the hospital."
+					]
+				},
+				{
+					"header": "The hospital conducts an external disaster drill at least annually."
+				},
+				{
+					"header": "The hospital ensures the availability of ambulances and medical supplies and equipment required in case of external disasters (e.g., medical bags, drugs and mobile monitors)."
+				},
+				{
+					"header": "There is an orientation on the external disaster plan for new hires with an annual update for all staff."
+				}
+			]
+		},
+		{
+			"serial": 17,
+
+			"header": "The hospital ensures preparedness for internal disasters.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital has a plan to deal with potential internal disasters. The plan includes:",
+
+					"details": [
+						"Names and titles of all staff to be called in case of internal disaster, their contact numbers, and action cards.",
+						"The control room location and the position of the individual in charge.",
+						"The duties and responsibilities of hospital leaders.",
+						"The procedure for relocation of patients.",
+						"The individual responsible for announcing the emergency state and contacting local authority.",
+						"Individual(s) authorized to deal with the electricity supply and medical gas system and to shut them off as needed in case of fire or explosions in the hospital.",
+						"The meeting point for the staff in case of horizontal evacuations (assembly points) inside the building.",
+						"The meeting point for the full evacuation (holding area) outside the building.",
+						"The evacuation procedure for patients, visitors, and employees."
+					]
+				},
+				{
+					"header": "Every department has a specific internal disaster plan that addresses departmental actions in case internal disasters."
+				},
+				{
+					"header": "There are evacuation maps posted hospital wide indicating locations of:",
+
+					"details": [
+						"You are here.",
+						"Fire extinguishers.",
+						"Fire hose reel/cabinets.",
+						"Fire blankets.",
+						"Escape routes.",
+						"Assembly points.",
+						"Fire exits.",
+						"Call points break glass/pull station.",
+						"Medical gas isolation valves."
+					]
+				}
+			]
+		},
+		{
+			"serial": 18,
+
+			"header": "The hospital has a system for scheduling and conducting fire drills regularly.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Fire drills are scheduled and conducted regularly in all departments."
+				},
+				{
+					"header": "Fire drills are conducted during different shifts to test:",
+
+					"details": [
+						"Using Rescue, Alarm, Confine, Extinguish/Evacuate (RACE) procedure.",
+						"Using Pull, Aim, Squeeze, Sweep (PASS) procedure.",
+						"The ability to contain the fire when it starts.",
+						"Staff performance in the event of fire.",
+						"Evacuation procedures.",
+						"Whether the oxygen and electricity supplies were shut off at the right time."
+					]
+				},
+				{
+					"header": "All staff participate in the fire drills."
+				},
+				{
+					"header": "All fire drills’ results and corrective actions are documented and integrated into the quality improvement program."
+				},
+				{
+					"header": "A full fire drill is conducted for the internal disaster plan once a year and this drill is evaluated."
+				}
+			]
+		},
+		{
+			"serial": 19,
+
+			"header": "The hospital supports fire prevention.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital ensures procuring materials like curtains and drapes that are fire retardant."
+				},
+				{
+					"header": "The hospital ensures separating all dangerous materials or flammables from heat generating areas."
+				},
+				{
+					"header": "The hospital ensures installing fire rated walls as appropriate, especially in high risk areas like the laboratory, electrical rooms, and kitchen."
+				},
+				{
+					"header": "The hospital ensures installing fire stop materials to seal penetrations as appropriate (especially in technical rooms, electrical rooms, and escape routes)."
+				},
+				{
+					"header": "The hospital ensures developing and scheduling staff training programs on the use of fire extinguishers."
+				}
+			]
+		},
+		{
+			"serial": 20,
+
+			"header": "Fire extinguishers are available in the hospital and are properly distributed.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The fire extinguishers are adequate in number as per civil defense guidelines."
+				},
+				{
+					"header": "The fire extinguishers are appropriately distributed throughout the hospital."
+				},
+				{
+					"header": "The fire extinguishers are appropriately positioned as per civil defense guidelines."
+				},
+				{
+					"header": "The fire extinguishers are inspected monthly to assess functionality."
+				}
+			]
+		},
+		{
+			"serial": 21,
+
+			"header": "The hospital has an effective fire alarm system.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There is a fire alarm system that is functioning and regularly inspected as per civil defense guidelines."
+				},
+				{
+					"header": "The fire alarm system testing results are documented."
+				},
+				{
+					"header": "The fire alarm system has preventive maintenance."
+				},
+				{
+					"header": "The elevators are connected to the fire alarm system."
+				}
+			]
+		},
+		{
+			"serial": 22,
+
+			"header": "The hospital has a fire suppression system available in the required area(s).",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital has a functional sprinkler system.  "
+				},
+				{
+					"header": "The hospital has clean agent suppression system."
+				},
+				{
+					"header": "The hospital has wet chemical system."
+				},
+				{
+					"header": "The hospital has stand pipes and hose system."
+				}
+			]
+		},
+		{
+			"serial": 23,
+
+			"header": "There are fire exits that are properly located in the hospital.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Fire exits are available and are properly located in the hospital."
+				},
+				{
+					"header": "Fire exits are not locked."
+				},
+				{
+					"header": "Fire exits are not obstructed."
+				},
+				{
+					"header": "Fire exits have panic hard ware."
+				},
+				{
+					"header": "Fire exits are fire resistant."
+				},
+				{
+					"header": "Fire exits are clearly marked with illuminated exit sign."
+				}
+			]
+		},
+		{
+			"serial": 24,
+
+			"header": "The hospital and its occupants are safe from fire and smoke.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital implements a strict “No Smoking” policy."
+				},
+				{
+					"header": "There are no obstructions to exits, fire extinguishers, fire alarm boxes, emergency blankets, safety showers, and eye wash stations."
+				},
+				{
+					"header": "Emergency lighting is adequate for safe evacuation of the hospital."
+				},
+				{
+					"header": "Storage areas are properly and safely organized:",
+
+					"details": [
+						"Shelves and racks are sturdy and in good condition.",
+						"No items stored directly on the floor (a minimum of ten centimeters is left to manage spills).",
+						"Items should be stacked on a flat base.",
+						"Heavier objects are close to the floor and lighter/smaller objects are higher.",
+						"Items are not stacked so high to block sprinklers or come in contact with overhead lights or pipes (a minimum distance of fifty centimeters from ceiling level)."
+					]
+				},
+				{
+					"header": "Fire rated doors are available according to the hospital zones with no separation between walls and ceiling to prevent smoke spread between rooms and areas."
+				}
+			]
+		},
+		{
+			"serial": 25,
+
+			"header": "The hospital has a biomedical equipment plan to ensure that the medical equipment are regularly monitored, maintained, and ready for use.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital has adequate number of qualified biomedical staff."
+				},
+				{
+					"header": "There is a written biomedical equipment plan that covers the following:",
+
+					"details": [
+						"A comprehensive inventory of medical equipment with their corresponding locations.",
+						"Preventive maintenance program that conforms with the manufacturer’s instructions.",
+						"The program specifies, for each equipment, the frequency of checks, methods of checks, acceptance criteria, and actions to be taken in the event of unsatisfactory results.",
+						"The program includes the process for investigation and follow-up of equipment failure that addresses reporting of failure, immediate remedial actions, assessment of the failure effect on reported results and services (needs alignment), and requalification of the equipment.",
+						"Electrical safety testing for patient related equipment.",
+						"History record for the maintenance schedule, failure incidence, and repairs done."
+					]
+				},
+				{
+					"header": "Technical service manuals for all equipment are available at the biomedical workshops."
+				},
+				{
+					"header": "Operator manuals are available at all departments using the equipment."
+				},
+				{
+					"header": "The hospital ensures that all maintenance works are conducted by qualified and trained staff."
+				},
+				{
+					"header": "Equipment maintenance and repairs are documented to help in the decision making for replacement."
+				},
+				{
+					"header": "Investigation procedures conform to manufacturer’s instructions."
+				},
+				{
+					"header": "There is an equipment recall system that is implemented."
+				},
+				{
+					"header": "Each department has a back-up or alternative for each critical equipment to cover for prolonged downtime."
+				},
+				{
+					"header": "Preventative Maintenance data are used for upgrading/replacing of equipment."
+				}
+			]
+		},
+		{
+			"serial": 26,
+
+			"header": "The hospital has policies and procedures that support the medical equipment management program.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There is a policy to perform inspection on all new equipment for conformity before commissioning including those brought for \"demos\"."
+				},
+				{
+					"header": "There is a written policy for tagging medical equipment as follows:",
+
+					"details": [
+						"Preventive maintenance with testing date and due date.",
+						"Inventory number.",
+						"Removal from service.",
+						"Electrical safety check."
+					]
+				},
+				{
+					"header": "There is a policy for removal of equipment from service."
+				},
+				{
+					"header": "There is a policy to address agent or contractor repairs."
+				},
+				{
+					"header": "There is a policy to eliminate the use of extension cords."
+				},
+				{
+					"header": "There is a policy to restrict the use of cellular phones in the intensive care units, operating room, and cardiology units, as needed."
+				}
+			]
+		},
+		{
+			"serial": 27,
+
+			"header": "Hospital staff are trained on safe operation of medical equipment.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Hospital staff are trained to operate safely all medical equipment."
+				},
+				{
+					"header": "The training includes physicians, nurses, and paramedics."
+				},
+				{
+					"header": "The training considers the following:",
+
+					"details": [
+						"New equipment.",
+						"Staff transferred from a department to another.",
+						"New staff hired.",
+						"Recurrent misuse of equipment."
+					]
+				}
+			]
+		},
+		{
+			"serial": 28,
+
+			"header": "The hospital has a utility system management plan.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital has adequate number of qualified staff to manage the utility system."
+				},
+				{
+					"header": "There is a utility system management plan that includes management of failure or interruption of the following utilities:",
+
+					"details": [
+						"Normal power.",
+						"Emergency power, cases of no power at sockets at critical areas, and lamp failure at critical areas.",
+						"Elevators.",
+						"Water supply.",
+						"Reverse osmosis plant.",
+						"Air-conditioning fan coil unit (FCU) at patient rooms.",
+						"Air-conditioning air handling unit (AHU) at operating rooms.",
+						"Medical gas system.",
+						"Sewer lines.",
+						"Boiler.",
+						"Telephone service (Public Address Exchange - PABX).",
+						"Intercom, nurse call, and overhead paging.",
+						"Fire alarm."
+					]
+				},
+				{
+					"header": "The utility system management plan includes description of necessary hospital programs to:",
+
+					"details": [
+						"Acquire necessary equipment.",
+						"Upgrade equipment.",
+						"Upgrade physical condition of the building."
+					]
+				},
+				{
+					"header": "Emergency plans are tested in simulation at least once a year and the test results are evaluated."
+				},
+				{
+					"header": "The utility system plan ensures the availability of the following:",
+
+					"details": [
+						"Technical utility drawings that show the distribution lines for all utilities and how to control them centrally and peripherally so that lines can be controlled as required in case of emergency.",
+						"Statistical data produced by the maintenance management system as an indicator to evaluate performance of the systems, suggest improvements and upgrade as required."
+					]
+				}
+			]
+		},
+		{
+			"serial": 29,
+
+			"header": "The hospital implements a preventive maintenance plan.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There is a preventive maintenance plan that covers at least the following:",
+
+					"details": [
+						"Electrical system.",
+						"Elevators.",
+						"Refrigerators/Freezers.",
+						"Air conditioning system.",
+						"Medical gas system.",
+						"Medical suction.",
+						"Domestic water system, including water pumps and fire hydrants.",
+						"Fire water system, including fire pumps.",
+						"Boilers.",
+						"Plumbing.",
+						"Low current and communication system.",
+						"Pavement and ground.",
+						"Hospital building and ancillaries."
+					]
+				},
+				{
+					"header": "The hospital ensures all maintenance works are conducted by qualified and trained staff."
+				}
+			]
+		},
+		{
+			"serial": 30,
+
+			"header": "The hospital ensures electrical safety.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The electrical outlets are identified for:",
+
+					"details": [
+						"Voltage (110/220).",
+						"Source (essential/prime)."
+					]
+				},
+				{
+					"header": "Thermal inspection of circuit breakers is annually conducted for:",
+
+					"details": [
+						"Operating Room.",
+						"Laboratory.",
+						"Critical care units.",
+						"Alarm system.",
+						"Blood storage.",
+						"Medical gas system."
+					]
+				},
+				{
+					"header": "There is an earthing system in the roof top and sockets used for medical equipment."
+				}
+			]
+		},
+		{
+			"serial": 31,
+
+			"header": "The hospital ensures that emergency power covers the critical areas in case of failure.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital has an emergency power that covers at least the following critical areas:",
+
+					"details": [
+						"Operating room.",
+						"Labor and delivery.",
+						"Critical care units.",
+						"Alarm system.",
+						"Fire pumps.",
+						"Blood storage.",
+						"Medical gas system.",
+						"Refrigerators in the pharmacy, laboratory, medical store, and kitchen.",
+						"Elevators.",
+						"Escape routes/corridors.",
+						"Morgue.",
+						"Medications stores.",
+						"Emergency room."
+					]
+				},
+				{
+					"header": "The hospital ensures the readiness of its emergency power generator(s).",
+
+					"details": [
+						"The hospital maintains its generator(s) on a periodic basis.",
+						"The maintenance results are documented.",
+						"The hospital performs weekly test without load for ten minutes.",
+						"The hospital performs monthly on load test for thirty minutes.",
+						"The hospital performs full load test every three years on external load.",
+						"The hospital generator starts normally without load for ten minutes."
+					]
+				}
+			]
+		},
+		{
+			"serial": 32,
+
+			"header": "The hospital ensures proper maintenance of the medical gas system.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The medical gas system is regularly tested for:",
+
+					"details": [
+						"Pressure.",
+						"Leaks.",
+						"Functionality of valves, alarms, pressure gauge, and switches."
+					]
+				},
+				{
+					"header": "There is a policy and procedure that ensures effective use of medical gas system. Areas covered include, but are not limited to, the following:",
+
+					"details": [
+						"The procedures to follow for taking any part of the system offline.",
+						"Commissioning and testing new branching or modifications.",
+						"The procedure for ordering and filling liquid oxygen.",
+						"Documenting all repairs/alterations/tests/filling logs/consumption."
+					]
+				},
+				{
+					"header": "Compressed medical air is regularly tested for humidity and purity."
+				},
+				{
+					"header": "The central medical gas station is in a safe and secure place."
+				},
+				{
+					"header": "The outlets of medical gases in patient care areas are clearly marked with the type of gas and have different connections according to the gas type."
+				},
+				{
+					"header": "All medical gas pipes are clearly marked and labeled for the contents and direction of gas flow."
+				},
+				{
+					"header": "In case of gas pipe repairs or new extensions, outlets are tested for the type of gas to ensure the correct type is delivered through the new pipe. Results of testing are recorded and maintained with engineering and the unit manager."
+				},
+				{
+					"header": "The hospital keeps standby oxygen and medical air cylinders enough for forty eight hours of average consumption."
+				},
+				{
+					"header": "The gas cylinders are regularly tested for gas type, amount, and any leaks."
+				},
+				{
+					"header": "Emergency shutoff valves area vailable in all units and are clearly marked with areas/rooms affected."
+				},
+				{
+					"header": "The hospital has adequate medical gases outlets in the patient care areas as appropriate and these outlets are to be error proof medical gas outlets- preferred to be in accordance with DIN standards related to gases piping, outlets and valves."
+				},
+				{
+					"header": "The hospital dedicates the responsibility of the closure of shut off valves to well-trained individual(s) available in the unit concerned."
+				}
+			]
+		},
+		{
+			"serial": 33,
+
+			"header": "The hospital has a documented system for handling the various types of compressed gasses.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There is a policy on how to handle various types of compressed gasses, which includes:",
+
+					"details": [
+						"Storing them in a well-ventilated area.",
+						"Positioning them upright the wall and secured by a chain.",
+						"Separating any flammables from oxidizing gases."
+					]
+				},
+				{
+					"header": "Exhausts of the following gases are extended to the roof and identified:",
+
+					"details": [
+						"Laboratory safety cabinet gases of a certain classes.",
+						"Central vacuum gases.",
+						"Scavenger gases of certain types.",
+						"Bone marrow transplantation (BMT) laboratory gases."
+					]
+				}
+			]
+		},
+		{
+			"serial": 34,
+
+			"header": "There is a periodic preventive maintenance plan for heating, ventilating, and air- conditioning.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There is a periodic preventive maintenance (PPM) plan for heating, ventilating, and air- conditioning (HVAC) that is supported by trained and specialized staff/contractor."
+				},
+				{
+					"header": "The HVAC maintenance records are maintained."
+				},
+				{
+					"header": "The HVAC is maintained to control the air quality by:",
+
+					"details": [
+						"Cleaning /replacement of filters.",
+						"Cleaning of diffuser.",
+						"Cleaning of ducts."
+					]
+				},
+				{
+					"header": "HEPA filters are monitored on a monthly basis and the results are documented."
+				},
+				{
+					"header": "Air change per hour is maintained as per national and international guidelines (e.g., American Society of Heating, Refrigerating & Air-Conditioning Engineers, ASHRAE)."
+				}
+			]
+		},
+		{
+			"serial": 35,
+
+			"header": "The hospital ensures proper air flows (positive, negative, balanced) in the required locations.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Appropriate air flows (positive, negative, balanced) are established and monitored in operating room(s)."
+				},
+				{
+					"header": "Appropriate air flows (positive, negative, balanced) are established and monitored in labor and delivery."
+				},
+				{
+					"header": "Appropriate air flows (positive, negative, balanced) are established and monitored in isolation room(s)."
+				},
+				{
+					"header": "Appropriate air flows (positive, negative, balanced) are established and monitored in critical care unit(s)."
+				},
+				{
+					"header": "Appropriate air flows (positive, negative, balanced) are established and monitored in clean and dirty utility."
+				},
+				{
+					"header": "Appropriate air flows (positive, negative, balanced) are established and monitored in janitorial closet."
+				},
+				{
+					"header": "Appropriate air flows (positive, negative, balanced) are established and monitored in the laboratory."
+				},
+				{
+					"header": "Appropriate air flows (positive, negative, balanced) are established and monitored in triage and trauma management areas."
+				},
+				{
+					"header": "Appropriate air flows (positive, negative, balanced) are established and monitored in the central sterilization and supply department."
+				}
+			]
+		},
+		{
+			"serial": 36,
+
+			"header": "The hospital provides appropriate control of temperature and humidity in the required locations.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Temperature and humidity are controlled and regularly monitored in operating and recovery room(s)."
+				},
+				{
+					"header": "Temperature and humidity are controlled and regularly monitored in nursery."
+				},
+				{
+					"header": "Temperature and humidity are controlled and regularly monitored in critical care unit(s)."
+				},
+				{
+					"header": "Temperature and humidity are controlled and regularly monitored in sterile storage supply."
+				},
+				{
+					"header": "Temperature and humidity are controlled and regularly monitored inpatient rooms."
+				}
+			]
+		},
+		{
+			"serial": 37,
+
+			"header": "The hospital has a periodic preventive maintenance plan for the water system.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There is a periodic preventive maintenance plan (PPM) for the water system that is supported by trained and specialized staff/contractor."
+				},
+				{
+					"header": "The PPM records are maintained for the following:",
+
+					"details": [
+						"Water is available twenty four hours a day, seven days a week.",
+						"The incoming water supply is checked regularly for at least: chemicals (once every six months) and bacteria (monthly), and results are monitored."
+					]
+				}
+			]
+		},
+		{
+			"serial": 38,
+
+			"header": "The hospital ensures safe sewage handling and disposal.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Sewage handling and disposal is safely conducted in an efficient and sanitary manner according to professional codes of practice."
+				}
+			]
+		},
+		{
+			"serial": 39,
+
+			"header": "The hospital maintains the kitchen and laundry equipment in good working condition.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Laundry equipment are regularly inspected and tested."
+				},
+				{
+					"header": "Results of inspection and testing of kitchen equipment are documented as follows:",
+
+					"details": [
+						"Hoods’ fans are in good operating condition and free from grease.",
+						"Hood filters are cleaned weekly and no cooking is done with missing filters.",
+						"Cold room temperature is monitored.",
+						"Kitchen and pantry microwaves, stoves, and ovens are at least annually tested and maintained."
+					]
+				}
+			]
+		}
+	]
+}

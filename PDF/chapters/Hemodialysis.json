@@ -1,0 +1,19 @@
+{
+	"serial": 16,
+
+	"title": "Hemodialysis",
+
+	"code": "HM",
+
+	"introduction": "The standards in this chapter focus on a hospital-based dialysis unit. Physicians and allied health professionals are expected to understand and participate in the assessment and improvement of the quality of care delivered to patients in end-stage renal disease (ESRD) treatment centers and units. The dialysis unit must meet specified safety and quality standards as defined in this chapter in order to ensure safe care to patients already presenting with immune-compromised state.\n This chapter addresses the following:",
+
+	"concerns": [
+		"Staff qualifications",
+		"Policies and procedures to follow in the dialysis unit",
+		"Plan of care for patients on dialysis",
+		"Water management",
+		"Infection control",
+		"Nursing competencies",
+		"Equipment and machines"
+	]
+}

@@ -1,0 +1,19 @@
+{
+	"serial": 31,
+
+	"title": "Facility Management and Safety",
+
+	"code": "FMS",
+
+	"introduction": "A safe, functional and effective environment for patients, staff, and other individuals is crucial to prevent or minimize risks in the environment of care. The hospital leadership has to provide all necessary support and resources to improve safety in the work place in alignment with the regulatory requirements.\n The hospital must have plans for managing the safety of the environment and must implement these plans. The hospital must collect and analyze data to determine the effectiveness of the plans and facilitate continuous quality improvement.\n Staff must also be educated on their responsibilities. Education must commence at orientation and continues on a regular basis thereafter.\n Important aspects of the facility management and safety addressed in this chapter include the following:",
+
+	"concerns": [
+		"Facility safety",
+		"Security",
+		"Fire safety",
+		"Emergency preparation and plans",
+		"Hazardous materials",
+		"Medical equipment",
+		"Utilities"
+	]
+}

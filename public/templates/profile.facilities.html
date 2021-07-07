@@ -1,0 +1,30 @@
+<div class="row m-b-1">
+	<div class="col-md-12">
+		<h4>Facilities</h4>
+		<hr class="clearfix m-b-1"></hr>
+		<div class="card card-header">
+			<a ui-sref="home.profile.addFacility">Add Facility</a>
+		</div>
+	</div>
+</div>
+<div class="row ap-facilities-row">
+	<div class="col-md-6 ap-facility-col" ng-repeat="o in pr.facilities">
+		<div class="card">
+		 	<div class="card-header">
+				<a class="card-link" ui-sref="home.profile.editFacility({ id: o._id })">Edit</a>
+				<a class="card-link" ng-show="admin()" ui-sref="home.profile.accreditFacility({ id: o._id })">Accredit</a>
+				<a href="#" class="card-link" ng-click="requestDelete($index)">
+					<span class="alert-danger" ng-show="!isDeleted($index)">Request Delete</span>
+					<span class="alert-info" ng-show="isDeleted($index)">UnRequest Delete</span>
+				</a>
+			</div>
+			<div ng-include src="'templates/facility-header.html'"></div>
+		</div>
+	</div>
+</div>
+<nav>
+	<ul class="pager">
+	<li ng-class="dirClass(-1)"><a href="#" ng-click="pagination(-1)">Previous</a></li>
+	<li ng-class="dirClass(+1)"><a href="#" ng-click="pagination(+1)">Next</a></li>
+	</ul>
+</nav>

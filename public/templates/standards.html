@@ -1,0 +1,47 @@
+
+<div class="ap-standards m-b-3">
+	<div class="container-fluid ap-title">
+		<div class="row">
+			<div class="col-xs-10 offset-xs-1">
+				<h1 ng-show="showTitle()">Accreditation Standards</h1>
+				<h1 ng-show="!showTitle()"><span ng-bind="title"></span>&nbsp;(<b ng-bind="code"></b>)</h1>
+			</div>
+		</div>
+	</div>
+	<div class="container-fluid">
+		<div class="row">
+			<div class="col-md-3 col-xs-10 offset-xs-1 ap-list m-b-3">
+				<div class="text-xs-center m-b-1 hidden-md-up">
+					<a data-toggle="collapse" href="#stn-list" aria-expanded="true" aria-controls="stn-list">Show/Hide Standards List</a>
+				</div>
+				<div class="list-group ap-chapters collapse out" id="stn-list">
+					<a ng-class="chClass({{o.serial}}, '{{o.code}}')" class="list-group-item" ng-repeat="o in chapters" ui-sref=".chapter({ id: '{{o.serial}}' })">
+						<span class="tag tag-pill pull-xs-right" style="background-color: #{{o.color}}">{{o.standards}}</span>
+						<span>{{o.title}}</span>
+					</a>
+				</div>
+			</div>
+			<div class="col-md-7 col-xs-10 offset-md-0 offset-xs-1">
+				<div ui-view class="m-b-3">
+					<h3>Standards Development Process</h3>
+					<hr />
+					<p>
+						A standard is a statement of excellence, or an explicit predetermined expectation that defines the key functions, activities, processes and structures required for healthcare facilities to assure the provision of safe and quality care and services.
+						Standards are developed by peer experts in the field and it’s against the standards that conformity of the healthcare facility is evaluated. Simply stated, the standard describes a healthcare facility’s acceptable performance level. Within this context, there should be no confusion between accreditation standards and licensure standards. When applied to licensure of an individual practitioner or organization, the standard is usually set at a minimal level designed to protect public health and safety. Accreditation standards, on the other hand, are designed as optimal and achievable which, when met, would lead to a high quality level in a system. Broadly speaking, CBAHI standards -as well as all other relevant accrediting agencies- are of three major types depending on which area they are addressing. Structure standards address the system’s inputs, such as the hospital beds available, the manpower, the design of the hospital building, the availability of personal protective equipment for health workers, such as gloves and masks, and the availability of equipment and supplies, such as microscopes and laboratory reagents. Process standards address the clinical and administrative activities or interventions carried out within the hospital in the care of patients or in the management of the hospital or its staff. Examples include patient assessment, patient education, medication administration, and alike. Outcome standards look at the assessment of the benefits of an intervention and whether the expected purpose of the activity was achieved. They provide information about whether predicted outcomes are being realized. Examples of outcome indicators include mortality rates, foreign object retained after surgery, air embolism, blood incompatibility, pressure ulcers, falls, vascular catheter- associated infection, catheter-associated urinary tract infection, and manifestations of poor glycemic control.
+						<br>
+						CBAHI standards set expectations for hospital performance that are reasonable, attainable, measurable and therefore, surveyable. Standards were built to serve as the basis of an objective evaluation process that can help health care facilities measure, assess and improve performance. CBAHI is striving to be a nationally recognized symbol of excellence, respected throughout the industry and by other relevant authorities as an assurance that accredited healthcare facilities meet rigorous standards of quality and operational integrity that emphasize consumer protection and patient engagement. To this end, the process of standards development at CBAHI follows a long and robust methodology to ensure that our standards are correct, evidence-based, relevant and clear. As with previous editions, this current manual contains standards of quality and patient safety that were constructed to be descriptive in nature and department-oriented. The first draft of CBAHI standards are developed by specialized task forces, focus groups, and standards development committees that utilize input from a variety of sources, including:
+					</p>
+					<ul>
+						<li>The standards set by the professional scientific societies, locally and internationally. Scientific literature review and research studies.</li>
+						<li>Relevant laws, rules, and regulations.</li>
+						<li>National (or international) emerging issues related to healthcare quality and patient safety. Input from health care professionals, providers, and patients.</li>
+						<li>Panels of experts and consensus on the so called “best practices”, given the current state of knowledge and technology.</li>
+					</ul>
+					<p>
+						The process of standards development can last up to 18 months or more before an initial draft is produced. The draft standards are then distributed nationally for review and made available for comment on the standards Field Review page of the CBAHI website.Based on the feedback received from the field review, the draft standards may be revised and again reviewed by the relevant experts and technical committees. The draft standards are finally approved by the Standards Development Committee and provided to the Board for comments and remarks before submission to the Saudi Health Council for approval. Thereafter, standards are provided in paper and electronic formats and distributed to all hospitals and e-version is made available on CBAHI website. To comply with the guidelines of the International Society for Quality in Healthcare (ISQua), six months period is allowed for publishing the standards before they are effective. Once the standards are in effect, ongoing feedback is sought for the purpose of continuous improvement.The survey process is then tailored as needed to address the new standards, and surveyors are educated about how to assess compliance with the standards.
+					</p>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>

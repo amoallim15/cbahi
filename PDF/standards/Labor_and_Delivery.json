@@ -1,0 +1,220 @@
+{
+	"code": "L-D",
+	"standards": [
+		{
+			"serial": 1,
+
+			"header": "Qualified physician is responsible for managing the obstetrics department.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The head of the obstetrics department is an obstetrician qualified by education, training, and experience."
+				},
+				{
+					"header": "The head of the obstetrics department supervises the development and implementation of policies and procedures related to gynecology and obstetrics practices."
+				},
+				{
+					"header": "The head of the obstetrics department enforces the implementation of infection control guidelines inside the operating and recovery rooms."
+				}
+			]
+		},
+		{
+			"serial": 2,
+
+			"header": "The obstetrics department has adequate medical coverage by qualified medical staff.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "A qualified obstetrician is physically present in the delivery room twenty four hours a day, seven days a week."
+				},
+				{
+					"header": "Obstetricians are certified in advanced life support in obstetrics (ALSO) or at least one certified obstetrician is assigned on every shift."
+				},
+				{
+					"header": "A qualified pediatrician/neonatologist attends all caesarean section deliveries."
+				},
+				{
+					"header": "Pediatricians' rosters identify the physician to be called in emergencies."
+				},
+				{
+					"header": "Pediatricians are certified in neonatal resuscitation program (NRP)."
+				}
+			]
+		},
+		{
+			"serial": 3,
+
+			"header": "Qualified nurse manager supervises midwifery and nursing services in the obstetrics department.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The nurse manager in charge of the obstetrics department is a qualified registered nurse with education, training and experience in obstetrics."
+				},
+				{
+					"header": "The nurse manager ensures the competency of the midwives and nursing staff."
+				}
+			]
+		},
+		{
+			"serial": 4,
+
+			"header": "The obstetrics department has adequate coverage by qualified midwifery and nursing staff.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Nursing staffing plan is based on patient volume and patient acuity and ensures adequate coverage twenty four hours a day, seven days a week."
+				},
+				{
+					"header": "Nurses working in the obstetrics department have adequate experience in obstetrics."
+				},
+				{
+					"header": "Nurses working in the obstetrics department are certified in neonatal resuscitation program or at least one certified nurse is assigned on every shift."
+				},
+				{
+					"header": "Midwives are registered and are qualified by education, training, and experience in labor and delivery."
+				}
+			]
+		},
+		{
+			"serial": 5,
+
+			"header": "The obstetrics department has admission and discharge criteria.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The obstetrics department implements specific criteria for admission and discharge."
+				},
+				{
+					"header": "The criteria are collaboratively developed by obstetricians and other relevant departments."
+				},
+				{
+					"header": "The criteria are based on the gestational age of mothers, department's design, and available resources."
+				}
+			]
+		},
+		{
+			"serial": 6,
+
+			"header": "Policies and procedures guide the care of women in labor.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There are limited to, policies and procedures to guide the care of women in labor including, but are not the following:",
+
+					"details": [
+						"Assessment and re-assessment of women in labor, including immediate postpartum care and criteria for discharge from delivery room.",
+						"Management of Ante-partum and post-partum hemorrhage.",
+						"Augmentation of labor and the use of oxytocin.",
+						"Use of partogram for woman in labor.",
+						"Caesarian section, repeated caesarian section, and emergency hysterectomy.",
+						"Management of fetal distress.",
+						"The use of sedation.",
+						"The use of cardio-tocography.",
+						"The use of episiotomy.",
+						"Induction of labor.",
+						"Pain relief and regional anesthesia.",
+						"Management of hypertensive disorders of pregnancy.",
+						"Management of the diabetic patient in labor and postpartum.",
+						"Suppression of pre-term labor.",
+						"Management of multiple births.",
+						"Management of abnormal positions and presentations.",
+						"Instrumental vaginal delivery.",
+						"Management of premature rupture of membranes.",
+						"Management of un-booked deliveries.",
+						"Neonatal identification and the immediate assessment and resuscitation of the new born.",
+						"Infection control measures in labor and postpartum.",
+						"Breast feading."
+					]
+				},
+				{
+					"header": "The policies and procedures are collaboratively developed by obstetricians, pediatricians, anesthesiologists, delivery room nurses and midwives, and other staff as needed."
+				}
+			]
+		},
+		{
+			"serial": 7,
+
+			"header": "The obstetrics department has adequate resources that support the provision of safe care.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The obstetrics department has equipment, medications, and tools that meet the needs of patients, including:",
+
+					"details": [
+						"Cardio-tocography machines (at least one capable of simultaneous recording of twin fetal hearts).",
+						"Automated blood pressure monitoring machines.",
+						"Pulse oximetry.",
+						"Appropriate delivery bed.",
+						"Intravenous infusion pumps.",
+						"Adequate light source appropriate for surgical care.",
+						"Specific obstetric instruments such as amnihooks, vacuum extractor and obstetric forceps.",
+						"Infant resuscitation equipment and supplies.",
+						"Emergency obstetric medications (e.g., oxytocics)."
+					]
+				}
+			]
+		},
+		{
+			"serial": 8,
+
+			"header": "Newborns receive the proper care by qualified nurses.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There is a qualified and competent nurse to receive the newborn during delivery."
+				},
+				{
+					"header": "The attending nurse is qualified to perform the following for each newborn:",
+					
+					"details": [
+						"Suction.",
+						"Placing an identity band with the medical record number and other identifier(s) according to the hospital policy.",
+						"Finding and documenting the APGAR score.",
+						"Obtaining the footprint of the newborn and the thumbprint of the mother."
+					]
+				}
+			]
+		},
+		{
+			"serial": 9,
+
+			"header": "The medical records of the obstetrics department are properly completed.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The following information must be available in patients' records before discharge from the delivery room:"
+				},
+				{
+					"header": "Completed assessment and reassessment. Completed partogram."
+				},
+				{
+					"header": "Secured cardio-tocography."
+				},
+				{
+					"header": "Initial neonatal assessment."
+				},
+				{
+					"header": "Delivery summary including method of delivery, date and time of delivery, name and designation of the healthcare professional who conducted the delivery and any assistants, type of anesthesia or sedation used during delivery, neonatal outcome, status of placenta and membranes, any postpartum instructions, and postpartum observations and discharge criteria."
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"serial": 19,
+
+	"title": "Burn Care",
+
+	"code": "BC",
+
+	"introduction": "Burn care is a high risk service that requires strict adherence to certain requirements to be safe, efficient, and effective. When the hospital provides burn care, the unit should be staffed with qualified individuals. Additionally, policies and procedures should guide staff for appropriate burn care.\n This chapter addresses the following:",
+
+	"concerns": [
+		"Staff qualifications and plans",
+		"Admission and discharge criteria",
+		"Policies and procedures in burn units",
+		"Collaboration with different disciplines",
+		"Infection control"
+	]
+}

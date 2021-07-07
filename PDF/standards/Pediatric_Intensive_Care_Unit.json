@@ -1,0 +1,325 @@
+{
+	"code": "PICU",
+	"standards": [
+		{
+			"serial": 1,
+
+			"header": "Qualified physician is responsible for managing the pediatric intensive care unit.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The pediatric intensive care unit is directed by a physician qualified in pediatric critical care by education, training and, experience."
+				},
+				{
+					"header": "The unit head takes the overall responsibility for the operation of the unit."
+				}
+			]
+		},
+		{
+			"serial": 2,
+
+			"header": "The pediatric intensive care unit nurse manager is a qualified registered nurse.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The nurse manager is a registered nurse qualified by education, training, and experience in pediatric critical care."
+				},
+				{
+					"header": "The nurse manager develops and collaborates with other departments as needed for developing policies and procedures for the pediatric intensive care unit (e.g., policies and practices related to infection control)."
+				}
+			]
+		},
+		{
+			"serial": 3,
+
+			"header": "Medical and nursing staff working in the pediatric intensive care unit have appropriate cardiac life support training.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Medical staff working in pediatric intensive care unit are certified in pediatric advanced life support (PALS)."
+				},
+				{
+					"header": "Nursing staff working in pediatric intensive care unit are certified in pediatric advanced life support (PALS)."
+				}
+			]
+		},
+		{
+			"serial": 4,
+
+			"header": "The pediatric intensive care unit is covered by qualified physicians.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The pediatric intensive care unit is covered twenty four hours a day, seven days a week by qualified pediatric intensive care physicians."
+				}
+			]
+		},
+		{
+			"serial": 5,
+
+			"header": "The pediatric intensive care unit has admission and discharge criteria.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The pediatric intensive care unit identifies its own population based on age, weight, and diagnosis related groups."
+				},
+				{
+					"header": "The admission and discharge criteria are defined in writing."
+				},
+				{
+					"header": "The criteria for admission are based on physiological parameters."
+				},
+				{
+					"header": "The criteria are developed collaboratively between relevant staff."
+				},
+				{
+					"header": "In an open pediatric intensive care unit, the Most Responsible Physician (MRP) is the admitting consultant whereas in a closed pediatric intensive care unit setting, the MRP is a member of the medical staff in the PICU."
+				}
+			]
+		},
+		{
+			"serial": 6,
+
+			"header": "The pediatric intensive care unit has an effective handover process.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There is a documented evidence of handover between physicians at change of shift."
+				},
+				{
+					"header": "There is a documented evidence of handover between nurses at change of shift."
+				},
+				{
+					"header": "There is a documented evidence of handover between pediatric intensive care nurse and the unit/ward nurse at the time of transfer to a lower acuity of care."
+				}
+			]
+		},
+		{
+			"serial": 7,
+
+			"header": "Patient care in pediatric intensive care unit is provided using a multidisciplinary approach.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The multidisciplinary team includes both Pediatric ICU as well as non-ICU members. This includes but is not limited to: Pediatric ICU physician, Pediatric ICU nurse, clinical pharmacist, respiratory therapist, dietitian, social worker, physiotherapist, and the consultant of the primary service under which the patient was first admitted."
+				},
+				{
+					"header": "Medically necessary services are readily available and accessible at all times."
+				},
+				{
+					"header": "Care is provided equally to all Pediatric ICU patients whether inside the unit or those in other areas of the hospital (e.g., ventilated patients in the emergency department)."
+				},
+				{
+					"header": "Care is coordinated amongst the multidisciplinary team members and documented in the patient’s medical record."
+				}
+			]
+		},
+		{
+			"serial": 8,
+
+			"header": "The admission and discharge processes in the pediatric intensive care unit are coordinated.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The PICU physician and the primary physician jointly make the decision to admit and discharge patients from the unit."
+				},
+				{
+					"header": "A summary of the intensive care stay is written by the pediatric ICU physician and made available at the time of discharge from pediatric intensive care to a lower acuity level."
+				},
+				{
+					"header": "There is a documented evidence of handover between the pediatric intensive care unit physician and the unit/ward physician at the time of transfer to a lower acuity of care."
+				},
+				{
+					"header": "When the patient is discharged from the PICU, the pediatric intensive care unit physician ensures that the receiving team on the floor is well informed about the patient’s status and ongoing patient needs.",
+					
+					"details": [
+						"The patient’s plan of care and medications are written in detail by the physician including how to continue them on the floor.",
+						"Any special care requirements are documented (e.g., to watch for drainage tubes, tracheostomy care, and wound care) in the patient’s medical record."
+					]
+				}
+			]
+		},
+		{
+			"serial": 9,
+
+			"header": "Nursing staffing plans are available in the pediatric intensive care unit.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The nursing staffing plans demonstrate an evidence based nursing to patient ratio."
+				},
+				{
+					"header": "The nursing staffing plans are matching the patient volume and patient acuity."
+				}
+			]
+		},
+		{
+			"serial": 10,
+
+			"header": "Nursing staff in the pediatric intensive care unit receive continuous training with competency assessment.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Nursing staff in the pediatric intensive care unit receive training and education on the following general and intensive care related needs:",
+
+					"details": [
+						"Pediatric fundamental critical care support.",
+						"Infection control principles.",
+						"Blood transfusion.",
+						"Use of the defibrillator.",
+						"Care of patients with tracheostomies.",
+						"Knowledge of dosage range, side effects and complications of commonly used high alert medications in pediatric critical care including vasopressors, narcotics, and controlled medications.",
+						"Recognizing critical ECG changes including arrhythmias.",
+						"Using pulse oximetry.",
+						"Assisting physician in placing central lines or arterial lines.",
+						"Assessing Glasgow Coma Scale (GCS).",
+						"Obtaining arterial blood gas samples.",
+						"Care of patients on ventilators.",
+						"Reading central venous pressure (CVP) and swan Ganz monitoring.",
+						"Care of endo-tracheal tube (ETT).",
+						"Pressure ulcer prevention and care.",
+						"Guidelines for Monitoring & Management of IV Infiltration, Phlebitis & Extravasations.",
+						"Pain assessment and management based on patient’s age and condition (e.g., ventilated & non-ventilated patients)."
+					]
+				},
+				{
+					"header": "There is ongoing competency assessment for the nursing staff (e.g., written test, return demonstration)."
+				},
+				{
+					"header": "The competency assessment of the nursing staff is documented."
+				}
+			]
+		},
+		{
+			"serial": 11,
+
+			"header": "The pediatric intensive care unit has adequate equipment and supplies.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There are isolation rooms with at least one negative pressure room."
+				},
+				{
+					"header": "The following equipment are available:",
+
+					"details": [
+						"Ventilators.",
+						"Suction Appartus.",
+						"Airways Sets.",
+						"Crash cart that includes defibrillator and all emergency supplies and medications.",
+						"ECG monitor, pulse oximetery, and vital signs monitor.",
+						"automated blood pressure monitoring machines.",
+						"Intravenous infusion and blood tranfusion pumps.",
+						"portable monitoring equipment for patient transfer."
+					]
+				},
+				{
+					"header": "The availability and functionality of all tools and equipment are checked daily."
+				},
+				{
+					"header": "Equipment are cleaned and disinfected daily and as needed."
+				},
+				{
+					"header": "Laboratory and imaging services are available to meet the needs of patients receiving pediatric intensive care."
+				}
+			]
+		},
+		{
+			"serial": 12,
+
+			"header": "Policies and procedures are available to guide the work in the pediatric intensive care unit.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There are policies and procedures for medical and nursing initial assessment and re-assessment requirements, including time frames for completion of initial assessments and frequency of re- assessments."
+				},
+				{
+					"header": "There are policies and procedures for monitoring of patient circulation, respiration, and oxygenation."
+				},
+				{
+					"header": "There are evidence-based criteria for intubation, weaning off ventilator and extubation."
+				},
+				{
+					"header": "There are policies and procedures for handover procedure between staff in between shifts and at discharge to a lower acuity of care."
+				},
+				{
+					"header": "There are policies and procedures for infection control practices including isolation."
+				},
+				{
+					"header": "There are policies and procedures for dealing with ethical issues (e.g.,end of life issues and organ donation)."
+				},
+				{
+					"header": "Policies are collaboratively developed by the appropriate staff."
+				}
+			]
+		},
+		{
+			"serial": 13,
+
+			"header": "The pediatric intensive care unit has a process for detection and notification of potential deceased organ donors.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The pediatric intensive care unit establishes an effective communication and works collaboratively with the Saudi Center for Organ Transplantation (SCOT)."
+				},
+				{
+					"header": "The pediatric intensive care unit uses criteria to identify, notify, document, and manage potential donors based on the registry of organ donation and transplantation in Saudi Arabia."
+				},
+				{
+					"header": "The pediatric intensive care unit reports all cases of potential deceased Donors after Brain Death (DBD) to SCOT on a timely manner."
+				},
+				{
+					"header": "The pediatric intensive care unit reports all cases of potential deceased Donors after Circulatory Death (DCD) to SCOT on a timely manner."
+				},
+				{
+					"header": "The hospital establishes and uses criteria that support the effectiveness of the donation process (e.g., patient factors, time since perfusion of the tissue stopped, maintenance of viability by appropriate care of the body between death and donation)."
+				}
+			]
+		},
+		{
+			"serial": 14,
+
+			"header": "Infection control standards are strictly implemented and supervised in the pediatric intensive care unit.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The pediatric intensive care unit environment is maintained clean and neat at all times."
+				},
+				{
+					"header": "Infection control standards are strictly applied in the pediatric intensive care unit (e.g., hand hygiene and use of personal protective equipment)."
+				},
+				{
+					"header": "Pediatric intensive care unit staff members adopt and implement care bundle for prevention of epidemiologically significant healthcare associated infections."
+				}
+			]
+		}
+	]
+}

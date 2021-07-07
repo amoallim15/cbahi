@@ -1,0 +1,147 @@
+<div class="row">
+	<div class="col-md-12">
+		<form class="form-horizontal ap-facility-add-form" novalidate>
+			<h4 ng-show="add">Add Facility</h4>
+			<h4 ng-show="edit">Edit Facility</h4>
+
+			<hr class="clearfix m-b-1" />
+			<h6 class="m-b-1">INFO</h6>
+			<fieldset class="row form-group">
+				<label for="name" class="form-control-label col-sm-2">Facility Name</label>
+				<div class="col-sm-10">
+					<input id="name" type="text" ng-model="ad.name" class="form-control" placeholder="Facility Name" />
+				</div>
+			</fieldset>
+			<fieldset class="row form-group">
+				<label for="name_ar" class="form-control-label col-sm-2">Facility Arabic Name</label>
+				<div class="col-sm-10">
+					<input id="name_ar" type="text" ng-model="ad.name_ar" class="form-control" placeholder="Facility Arabic Name" />
+				</div>
+			</fieldset>
+			<hr class="clearfix" />
+			<h6 class="m-b-1">PROPERTIES</h6>
+			<fieldset class="row form-group">
+				<label for="type" class="form-control-label col-sm-2">Facility Type</label>
+				<div class="col-sm-4">
+					<select id="type" type="text" ng-model="ad.type" class="form-control" ng-options="o as o for o in op.type track by o"></select>
+				</div>
+				<label for="category" class="form-control-label col-sm-2">Facility Category</label>
+				<div class="col-sm-4">
+					<select id="category" type="text" ng-model="ad.category" class="form-control" ng-options="o as o for o in op.category track by o"></select>
+				</div>
+			</fieldset>
+			<fieldset class="row form-group">
+				<label for="speciality" class="form-control-label col-sm-2">Facility Speciality</label>
+				<div class="col-sm-10">
+					<select id="speciality" type="text" ng-model="ad.speciality" class="form-control" ng-options="o as o for o in op.speciality track by o"></select>
+				</div>
+			</fieldset>
+			<hr class="clearfix" />
+			<h6 class="m-b-1">ADDRESS</h6>
+			<fieldset class="row form-group">
+				<label for="street" class="form-control-label col-sm-2">Street</label>
+				<div class="col-sm-10">
+					<input id="street" type="text" ng-model="ad.street" class="form-control" placeholder="Street" />
+				</div>
+			</fieldset>
+			<fieldset class="row form-group">
+				<label for="district" class="form-control-label col-sm-2">District</label>
+				<div class="col-sm-10">
+					<input id="district" type="text" ng-model="ad.district" class="form-control" placeholder="District" />
+				</div>
+			</fieldset>
+			<fieldset class="row form-group">
+				<label for="pobox" class="form-control-label col-sm-2">PO Box</label>
+				<div class="col-sm-10">
+					<input id="pobox" type="text" ng-model="ad.POBox" class="form-control" placeholder="PO Box" />
+				</div>
+			</fieldset>
+			<fieldset class="row form-group">
+				<label for="zipcode" class="form-control-label col-sm-2">Zip Code</label>
+				<div class="col-sm-10">
+					<input id="zipcode" type="text" ng-model="ad.zipCode" class="form-control" placeholder="Zip Code" />
+				</div>
+			</fieldset>
+			<fieldset class="row form-group">
+				<label for="region" class="form-control-label col-sm-2">Region</label>
+				<div class="col-sm-10">
+					<select id="region" type="text" ng-model="ad.region" class="form-control" ng-options="o as o for o in op.region track by o"></select>
+				</div>
+			</fieldset>
+			<fieldset class="row form-group">
+				<label for="city" class="form-control-label col-sm-2">City</label>
+				<div class="col-sm-10">
+					<input id="city" type="text" ng-model="ad.city" class="form-control" placeholder="City" />
+				</div>
+			</fieldset>
+			<fieldset class="row form-group">
+				<label for="nearestairport" class="form-control-label col-sm-2">Nearest Airport</label>
+				<div class="col-sm-10">
+					<select id="nearestAirport" type="text" ng-model="ad.nearestAirport" class="form-control" ng-options="o as o for o in op.airport track by o"></select>
+				</div>
+			</fieldset>
+			<fieldset class="row form-group">
+				<label for="telephone" class="form-control-label col-md-2">Telephone</label>
+				<div class="col-md-4">
+					<input id="telephone" type="text" ng-model="ad.telephone" class="form-control" placeholder="Telephone" />
+				</div>
+				<label for="telephone" class="form-control-label col-md-2">Extension No.</label>
+				<div class="col-md-4">
+					<input id="extensionno" type="text" ng-model="ad.extensionNo" class="form-control" placeholder="Extension Number" />
+				</div>
+			</fieldset>
+			<fieldset class="row form-group">
+				<label for="fax" class="form-control-label col-sm-2">Fax</label>
+				<div class="col-sm-10">
+					<input id="fax" type="text" ng-model="ad.fax" class="form-control" placeholder="Fax" />
+				</div>
+			</fieldset>
+			<hr class="clearfix"></hr>
+			<h6 class="m-b-1">CONTACTS</h6>
+			<fieldset class="row form-group">
+				<label for="email" class="form-control-label col-md-2">Offecial Email</label>
+				<div class="col-md-4">
+					<input id="email" type="email" ng-model="ad.offecialEmail" class="form-control" placeholder="Offecial Email" />
+				</div>
+				<div ng-show="add">
+					<label for="email" class="form-control-label col-md-2">Confirm Offecial Email</label>
+					<div class="col-md-4">
+						<input id="confirmemail" type="email" ng-model="ad.confirmOffecialEmail" class="form-control" placeholder="Confirm Offecial Email" />
+					</div>
+				</div>
+			</fieldset>
+			<fieldset class="row form-group">
+				<label for="website" class="form-control-label col-sm-2">Official Website</label>
+				<div class="col-sm-10">
+					<input id="website" type="text" ng-model="ad.offecialWebsite" class="form-control" placeholder="Offecial Website" />
+				</div>
+			</fieldset>
+			<hr class="clearfix" />
+			<h6 class="m-b-1">MAP</h6>
+			<fieldset class="row form-group">
+				<label for="Latitude" class="form-control-label col-sm-2">Latitude</label>
+				<div class="col-sm-4">
+					<input id="Latitude" type="text" ng-model="ad.lat" class="form-control" placeholder="Latitude" />
+				</div>
+				<label for="Longitude" class="form-control-label col-sm-2">Longitude</label>
+				<div class="col-sm-4">
+					<input id="Longitude" type="text" ng-model="ad.lng" class="form-control" placeholder="Longitude" />
+				</div>
+			</fieldset>
+			<div class="row">
+				<fieldset class="form-group m-t-3">
+					<div class="col-xs-10 offset-xs-1">
+						<div class="row">
+							<div class="col-xs-6 col-sm-4 offset-sm-2">
+								<button class="btn btn-primary btn-block" ng-click="submit()">Submit</button>
+							</div>
+							<div class="col-xs-6 col-sm-4">
+								<button class="btn btn-secondary btn-block" ng-click="cancel()">Cancel</button>
+							</div>
+						</div>
+					</div>
+				</fieldset>
+			</div>
+		</form>
+	</div>
+</div>

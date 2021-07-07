@@ -1,0 +1,1237 @@
+{
+	"code": "PC",
+	"standards": [
+		{
+			"serial": 1,
+
+			"header": "The hospital provides patients with information on care and services provided.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital clearly defines the services it provides."
+				},
+				{
+					"header": "The hospital provides patients, families, and the wider community with information on the services it provides using an appropriate format and language (e.g., displayed posters, brochures, handouts, websites, and news media)."
+				},
+				{
+					"header": "The hospital provides patients with information on how to access its services."
+				}
+			]
+		},
+		{
+			"serial": 2,
+
+			"header": "Patients are screened before accepted for care in the hospital.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital implements a policy that defines screening methods and tests required before accepting patients for care."
+				},
+				{
+					"header": "Screening is aimed to identify and match patient needs with hospital’s mission and available resources."
+				},
+				{
+					"header": "In outpatient settings, screening is performed before registration."
+				},
+				{
+					"header": "Screening of patients in the emergency room is performed during triage process or before deciding for admission to inpatient areas."
+				}
+			]
+		},
+		{
+			"serial": 3,
+
+			"header": "The hospital has a consistent process for registration and admission of patients.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "A policy and procedure defines the process used for elective admissions and patients admitted for a day procedure."
+				},
+				{
+					"header": "A policy and procedure defines the process used for admission of emergency patients."
+				},
+				{
+					"header": "A policy and procedure defines the process used for registration of outpatients."
+				},
+				{
+					"header": "The hospital has a process for managing patients requiring admission when no bed is available."
+				},
+				{
+					"header": "The hospital has a process for managing patients under observation in the emergency room."
+				},
+				{
+					"header": "Staff members are aware of and implement a consistent process for registration and admission of patients in different service settings."
+				}
+			]
+		},
+		{
+			"serial": 4,
+
+			"header": "The hospital ensures a uniform standard of care.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital implements policies and procedures to ensure that a uniform standard of care is provided to all patients.",
+
+					"details": [
+						"All patients receive the same standard of care across all hospital settings and departments.",
+						"All patients receive the same standard of care at all times (e.g., during working hours, after working hours, during weekends and holidays).",
+						"All patients receive the same standard of care regardless of race, gender, or religion.",
+						"All patients receive the same standard of care regardless of their ability to pay or source of payment."
+					]
+				},
+				{
+					"header": "Patient care services are in accordance with professional standards and applicable laws and regulations."
+				}
+			]
+		},
+		{
+			"serial": 5,
+
+			"header": "The hospital ensures easy accessibility to care and services.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Hospital departments and services are physically accessible to all patients."
+				},
+				{
+					"header": "The hospital adopts an efficient appointment system."
+				},
+				{
+					"header": "The hospital has a process to minimize language barriers by communicating with patients in their primary language or have interpreter services provided at all times."
+				},
+				{
+					"header": "The hospital ensures effective communication with patients having special communication needs (e.g., sign language for the hearing impaired patients, and assistance modalities for sight impaired patients)."
+				}
+			]
+		},
+		{
+			"serial": 6,
+
+			"header": "The hospital has a systematic process for the initial assessment of patients.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital implements a policy and procedure that defines the assessment process and its scope and content for all care settings (inpatients, outpatients, critical care and emergency room)."
+				},
+				{
+					"header": "The hospital implements a policy and procedure that defines the assessment process and its scope and content for all categories of patients (adults, geriatrics, pediatrics, pregnant women, trauma patients and others)."
+				},
+				{
+					"header": "The hospital implements a policy and procedure that defines the assessment process and its scope and content for all disciplines (physicians, nurses, physiotherapists, social service and others)."
+				},
+				{
+					"header": "The policy defines the staff categories qualified by license, certification, and experience to assess patients."
+				},
+				{
+					"header": "The initial assessment aims to identify the general patient’s medical and nursing needs and a provisional diagnosis so that care and treatment can be initiated."
+				}
+			]
+		},
+		{
+			"serial": 7,
+
+			"header": "The initial assessment includes screening patients for pain, functional limitations, and malnutrition.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital implements a policy that defines the criteria and process for screening patients for pain, functional limitations including risk for fall, and malnutrition."
+				},
+				{
+					"header": "Screening criteria are developed by qualified individuals."
+				},
+				{
+					"header": "When pain is present from the initial screening, the patient receives a comprehensive pain assessment."
+				},
+				{
+					"header": "Patients with functional impairment are referred for functional assessment."
+				},
+				{
+					"header": "Patients identified as malnourished or at risk for malnutrition are referred for a nutritional assessment."
+				}
+			]
+		},
+		{
+			"serial": 8,
+
+			"header": "The initial assessment includes the need for discharge planning.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital has criteria to identify patients requiring discharge planning before or upon admission."
+				},
+				{
+					"header": "A proposed discharge date is set soon after admission."
+				},
+				{
+					"header": "Staff members are aware of the discharge planning process particularly for common cases with predictable outcome."
+				}
+			]
+		},
+		{
+			"serial": 9,
+
+			"header": "Initial assessment of patients is completed and documented in the medical record on a timely manner.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital implements a policy that defines the time frame for completing the medical, nursing, and other assessments required for different care settings and services."
+				},
+				{
+					"header": "Medical and nursing assessments are completed and documented within the first 24 hours of admission for routine elective cases."
+				},
+				{
+					"header": "Medical and nursing assessments are completed and documented earlier whenever indicated by the patient’s condition and the hospital policy."
+				},
+				{
+					"header": "Assessments completed within 30 days prior to admission or an outpatient visit can be used with a documented update of any significant changes."
+				},
+				{
+					"header": "Assessments completed more than 30 days prior to admission or an outpatient visit must be repeated."
+				},
+				{
+					"header": "Medical and nursing assessments are completed and documented for all patients prior to surgery, anesthesia or invasive procedures."
+				}
+			]
+		},
+		{
+			"serial": 10,
+
+			"header": "Medical assessment is completed and documented for each patient.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Each patient undergoes an initial medical assessment that includes a health history and physical examination, covering the following:",
+
+					"details": [
+						"Main complaint.",
+						"Details of the present illness.",
+						"Systems review.",
+						"Past history including previous admissions and surgeries.",
+						"Allergies and prior adverse drug reactions.",
+						"Drug history.",
+						"Family history.",
+						"Psycho-social history.",
+						"Economic factors.",
+						"Pain (screening followed by assessment if required).",
+						"Risk for fall (screening followed by assessment if required).",
+						"Physical status and functionality (screening followed by assessment if required).",
+						"Complete physical examination.",
+						"Diagnostic test(s) as indicated by the patient’s condition.",
+						"Need for additional or specialized assessment as indicated by the patient’s condition.",
+						"Need for discharge planning as indicated by the patient’s condition.",
+						"Provisional diagnosis."
+					]
+				},
+				{
+					"header": "The most responsible physician ensures all patients under his care have a complete medical assessment with all diagnostic tests and referrals as required to reach a final diagnosis."
+				},
+				{
+					"header": "Medical assessment is performed by the most responsible physician or a member of the team who is qualified by license, certification, and experience."
+				},
+				{
+					"header": "Diagnostic tests (e.g., laboratory and radiology) are available as indicated by the hospital’s scope of service and the professional standards of care."
+				},
+				{
+					"header": "Diagnostic tests (e.g., laboratory and radiology) are appropriately and timely ordered to aid in reaching a final diagnosis."
+				},
+				{
+					"header": "The medical assessment is documented in the patient’s medical record."
+				}
+			]
+		},
+		{
+			"serial": 11,
+
+			"header": "Nursing assessment is completed and documented for each patient.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The nursing assessment is performed by a staff nurse."
+				},
+				{
+					"header": "The nursing assessment identifies the patient’s nursing needs."
+				},
+				{
+					"header": "The nursing assessment must be timely and complete."
+				},
+				{
+					"header": "The nursing assessment is documented in the patient’s medical record."
+				}
+			]
+		},
+		{
+			"serial": 12,
+
+			"header": "Additional and specialized assessments are performed for identified patient groups.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There are criteria implemented to identify patient groups who need additional or specialized assessments."
+				},
+				{
+					"header": "Additional assessment includes, but is not limited to, the following categories:",
+
+					"details": [
+						"Patients in severe or chronic pain.",
+						"Children.",
+						"Frail and elderly.",
+						"Suspected victims of abuse, neglect, and domestic violence.",
+						"Drug abuse.",
+						"Psychiatric disorders.",
+						"Women in labor.",
+						"Terminally ill and dying patients."
+					]
+				},
+				{
+					"header": "Specialized assessment includes patients with dental, hearing, eye or speech defects."
+				},
+				{
+					"header": "When additional or specialized assessments are required, they are completed and documented in the patient’s medical record."
+				}
+			]
+		},
+		{
+			"serial": 13,
+
+			"header": "The hospital has a process to manage patients of suspected abuse, neglect, or domestic violence.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital has a policy and procedure that defines the initial screening criteria and subsequent assessment of cases subjected to abuse, neglect, or domestic violence."
+				},
+				{
+					"header": "The screening criteria are developed by qualified individuals."
+				},
+				{
+					"header": "The policy defines the staff members responsible for assessment and management of such cases in accordance with the applicable laws and regulations."
+				},
+				{
+					"header": "Staff members are aware of the relevant laws and regulations and are educated about managing cases of abuse and neglect."
+				}
+			]
+		},
+		{
+			"serial": 14,
+
+			"header": "Patients are assessed, reassessed, and managed for pain.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital addresses pain (acute/chronic) assessment and management as a patient’s right."
+				},
+				{
+					"header": "The hospital implements a policy that clearly defines:",
+
+					"details": [
+						"Requirements for a comprehensive pain assessment and management.",
+						"Frequency of pain re-assessment.",
+						"Role of staff in pain assessment and re-assessment.",
+						"Items included in pain assessment (intensity, type, duration, frequency, location, and progress).",
+						"Pain relieving measures, including medications and their dosage, frequency, and route."
+					]
+				},
+				{
+					"header": "Patients in pain receive pain assessment and management according to the policy."
+				},
+				{
+					"header": "The process of pain assessment and management is documented in the patient’s medical record."
+				}
+			]
+		},
+		{
+			"serial": 15,
+
+			"header": "In-hospital patients have their overall care managed and coordinated by one qualified physician.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Each patient has one qualified physician responsible for the overall care rendered to that patient and is referred to as the most responsible physician (MRP)."
+				},
+				{
+					"header": "The most responsible physician must have the privilege to admit patients and to be a most responsible physician."
+				},
+				{
+					"header": "The most responsible physician carries the overall responsibility and accountability for the outcome of care provided to the patient."
+				},
+				{
+					"header": "The most responsible physician provides the principal care plan and coordinates when required for additional plans of other healthcare providers."
+				},
+				{
+					"header": "Transfer of patient responsibility from one physician to another is guided by a hospital policy and is documented in the patient’s medical record."
+				}
+			]
+		},
+		{
+			"serial": 16,
+
+			"header": "A comprehensive plan of care is developed collaboratively and documented for each patient.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The plan of care is developed through a collaborative approach between the healthcare team(s), patient, and family."
+				},
+				{
+					"header": "The plan of care is based on the assessment findings and aimed to meet all patients’ needs."
+				},
+				{
+					"header": "The patient and family are involved in developing the plan of care."
+				},
+				{
+					"header": "The plan of care contains the measurable goals/desired outcomes towards discharge."
+				},
+				{
+					"header": "The plan of care is completed within 24 hours of admission or earlier based on the patient’s condition and needs. (Nursing plan of care is completed whenever possible before the end of the shift)."
+				},
+				{
+					"header": "The plan of care is reviewed by the most responsible physician on a daily basis."
+				},
+				{
+					"header": "The plan of care is modified as appropriate upon any significant change in the patient’s condition or when new treatments are added or discontinued."
+				},
+				{
+					"header": "The plan of care includes a provisional date of discharge set within 24 hours of admission."
+				},
+				{
+					"header": "The plan of care is documented in the patient’s medical record."
+				}
+			]
+		},
+		{
+			"serial": 17,
+
+			"header": "Patients are reassessed to ensure effectiveness of care plans.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "All patients are reassessed at appropriate intervals to determine:",
+
+					"details": [
+						"Response to treatment.",
+						"Compliance with treatment.",
+						"Complications and side effects.",
+						"Plan for continued treatment or completion of treatment."
+					]
+				},
+				{
+					"header": "Medical reassessment must be performed at least once daily, including weekends and holidays, and in response to any significant change in the patient’s condition."
+				},
+				{
+					"header": "Nursing reassessment must be performed on every shift with a frequency dictated by the patient’s condition, response to treatment, and physician’s order."
+				},
+				{
+					"header": "Reassessments are documented in the patient’s medical record."
+				},
+				{
+					"header": "The hospital defines situations where re-assessments are performed more infrequently (e.g., long stay patients mainly requiring a nursing care)."
+				}
+			]
+		},
+		{
+			"serial": 18,
+
+			"header": "Clinical practice guidelines, pathways, and protocols are developed or adopted to guide priority clinical care services.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital implements the national clinical practice guidelines, pathways, and protocols that are consistent with current evidence- based practice."
+				},
+				{
+					"header": "Clinical practice guidelines, pathways, and protocols are updated at least every two years and as required with emphasis on the most common diagnoses."
+				},
+				{
+					"header": "Clinical practice guidelines, pathways, and protocols are documented in the patient’s medical record."
+				}
+			]
+		},
+		{
+			"serial": 19,
+
+			"header": "The hospital ensures uniform patient care processes during invasive interventions.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital implements a policy for the assessment and management of patients undergoing invasive procedures."
+				},
+				{
+					"header": "The policy defines all essential requirements that must be documented in the patient’s medical record including, but are not limited to:",
+
+					"details": [
+						"Date and time of the procedure.",
+						"Name, designation and signature of the physician performing the procedure and the names of all assistants.",
+						"Location of the procedure.",
+						"Nature and indication of the procedure.",
+						"Any anesthesia or analgesia used with dosage and type.",
+						"Patient monitoring.",
+						"Procedure outcome.",
+						"Complications",
+						"Laboratory specimens.",
+						"Specific post procedural orders."
+					]
+				},
+				{
+					"header": "Invasive procedures are documented in the patient’s medical record (or in an appropriate form) as per the policy."
+				}
+			]
+		},
+		{
+			"serial":20,
+
+			"header": "Provision of care is continued, integrated, and coordinated.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Information about the patient's care and response to treatment is shared between medical, nursing, and other care providers (e.g., patient rounds, multidisciplinary teams, case management for patients requiring complex care)."
+				},
+				{
+					"header": "The patient's medical record is available to the authorized care providers to facilitate the exchange of information."
+				},
+				{
+					"header": "Information about patient care and progress is exchanged during change- of- shift reporting (handover), between shifts, and during transfers and referrals between healthcare providers."
+				}
+			]
+		},
+		{
+			"serial": 21,
+
+			"header": "Physician orders are documented in a consistent location within the medical record.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There is a physician’s order form where physicians document all orders relating to the patient care."
+				},
+				{
+					"header": "Only physicians are allowed to write in the physician order form (except for telephone and verbal orders)."
+				},
+				{
+					"header": "Physician orders include medications and non-medication orders."
+				},
+				{
+					"header": "All orders are acknowledged by the nurse in charge of the patient, dated and timed."
+				}
+			]
+		},
+		{
+			"serial": 22,
+
+			"header": "Sufficient medical staff are available to meet patients’ needs.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Medical staff members are available in sufficient number at all times with no significant variation during holidays or weekend days."
+				},
+				{
+					"header": "There is at least one qualified physician available at all times for each specialty according to the hospital’s scope of services."
+				},
+				{
+					"header": "Medical and other relevant staff who are “on call” are within the hospital premises during the on call hours."
+				},
+				{
+					"header": "Medical and other relevant staff who are on call respond promptly to incoming consultations and care related requests."
+				}
+			]
+		},
+		{
+			"serial": 23,
+
+			"header": "A nursing pre-operative checklist is completed to control the transfer and handover of patients to the operating room.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There is a nursing pre-operative checklist that is completed by the assigned nurse."
+				},
+				{
+					"header": "The checklist uses the \"Yes\", \"No\" and \"Not Applicable\" format."
+				},
+				{
+					"header": "Patients are not transferred to the operating room if the checklist is not completed except in dire emergencies."
+				},
+				{
+					"header": "The assigned nurse endorses all the findings of the pre-operative checklist to the receiving nurse in the operating room."
+				},
+				{
+					"header": "The receiving nurse in the operating room reviews all the findings of the pre-operative checklist with the assigned nurse and confirms in writing."
+				},
+				{
+					"header": "The nursing pre-operative checklist contains the following elements as a minimum:",
+
+					"details": [
+						"The nursing pre-operative checklist contains the following elements as a minimum:",
+						"Evidence of completed relevant consents.",
+						"Evidence of completed history and physical examination by medical and nursing staff.",
+						"Evidence of site marking.",
+						"Availability of results of requested investigations.",
+						"Availability of requested blood or blood products.",
+						"Evidence of removal of dentures and loose objects such as eye lenses, eyeglasses, and removable nails.",
+						"Evidence of removal of jewelry and patient's valuables."
+					]
+				}
+			]
+		},
+		{
+			"serial": 24,
+
+			"header": "The hospital meets the unique needs of terminally ill patients in a culturally and age-appropriate manner.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital assesses and responds to the unique needs of end of life patients, including psychological, spiritual, social, and cultural assessment."
+				},
+				{
+					"header": "The hospital provides an effective palliative care for terminally ill patients (e.g., management of pain and management of other distressing symptoms)."
+				},
+				{
+					"header": "Family members are involved in care decisions."
+				},
+				{
+					"header": "Family members are educated on how to care for their patient."
+				},
+				{
+					"header": "When required, the hospital provides referral and transfer services to other facility that can provide palliative care (e.g., bed or resources availability)."
+				},
+				{
+					"header": "When applicable, the hospital provides or arrange for a nursing home care (e.g., inability to refer, or patient/family wish)."
+				}
+			]
+		},
+		{
+			"serial": 25,
+
+			"header": "Policies and procedures guide the handling, use, and administration of blood and blood products.",
+
+			"tags": ["ESR"],
+
+			"details": [
+				{
+					"header": "There are policies and procedures that are developed collaboratively by the blood utilization committee, guiding the handling, use, and administration of blood and blood products."
+				},
+				{
+					"header": "Only physicians order blood and in accordance with a policy clarifying when blood and blood products may be ordered."
+				},
+				{
+					"header": "The physician obtain informed consent for transfusion of blood and blood products. Elements of patient consent include:",
+
+					"details": [
+						"Description of the transfusion process.",
+						"Identification of the risks and benefits of the transfusion.",
+						"Identification of alternatives including the consequences of refusing the treatment.",
+						"Giving the opportunity to ask questions.",
+						"Giving the right to accept or refuse the transfusion."
+					]
+				},
+				{
+					"header": "Two staff members verify the patient’s identity prior to blood drawing for cross match and prior to the administration of blood."
+				},
+				{
+					"header": "In dire emergencies, patient/family signs consent for \"transfusion without NAT testing\"."
+				},
+				{
+					"header": "Blood is transfused according to accepted transfusion practices from recognized professional organizations."
+				},
+				{
+					"header": "Policies and procedures guide the administration of blood transfusions."
+				},
+				{
+					"header": "Patients receiving blood are closely monitored."
+				},
+				{
+					"header": "Transfusion reactions are reported and analyzed for preventive and corrective actions."
+				},
+				{
+					"header": "Side effects or complications are immediately reported to the medical staff and blood bank and the transfused unit is sent to the blood bank for further investigations."
+				}
+			]
+		},
+		{
+			"serial": 26,
+
+			"header": "Patients at risk for developing venous thromboembolism are identified and managed.",
+
+			"tags": ["ESR"],
+
+			"details": [
+				{
+					"header": "Patients are screened for the risk of developing venous thromboembolism."
+				},
+				{
+					"header": "Patients at risk receive prophylaxis according to current evidence-based practice."
+				}
+			]
+		},
+		{
+			"serial": 27,
+
+			"header": "The hospital provides safe psychiatric care services in accordance with professional standards and applicable laws and regulations.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Psychiatric care is provided by qualified physicians."
+				},
+				{
+					"header": "There are admission and discharge criteria for psychiatric patients."
+				},
+				{
+					"header": "The need for psychiatric care and choice of modality are based on sound clinical principles and a thorough clinical evaluation of medical condition and co-morbidities."
+				},
+				{
+					"header": "The physical layout of the psychiatry service area allows for:",
+
+					"details": [
+						"Quiet and separate counseling of patients and families.",
+						"Access only by authorized staff.",
+						"Quick assistance from security.",
+						"A means to separate adults from pediatrics."
+					]
+				},
+				{
+					"header": "Seclusion areas are adequately lit, equipped with special safety features, and provide protection for patients and staff."
+				}
+			]
+		},
+		{
+			"serial": 28,
+
+			"header": "Policies and procedures guide the care of psychiatric patients.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There are policies and procedures to guide the care of psychiatric patients which include, but are not limited to, the following:",
+
+					"details": [
+						"Use of patient restraints.",
+						"Use of sedation.",
+						"Management and care of violent patients.",
+						"Management of patients with depression.",
+						"Risk assessment for identification of patients at risk for suicide.",
+						"Environmental assessment for patients at risk for suicide.",
+						"Management of patients at risk for suicide.",
+						"Management of patients with psychosis.",
+						"Use of safe seclusion.",
+						"Guidelines for the use of electroconvulsive therapy (ECT)."
+					]
+				},
+				{
+					"header": "The policies and procedures are developed by qualified psychiatrist in collaboration with other relevant professionals."
+				},
+				{
+					"header": "Staff members are aware of and implement all relevant policies."
+				}
+			]
+		},
+		{
+			"serial": 29,
+
+			"header": "A Policy and procedure guide the care of patients on restraints.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital implements a policy and procedure that defines the Indications for restraints."
+				},
+				{
+					"header": "Monitoring requirements for both physical and chemical restraints are clearly identified in the policy including equipment needed and the type and frequency of monitoring and its documentation."
+				},
+				{
+					"header": "Patients are restrained only after an order by the most responsible physician or designee."
+				},
+				{
+					"header": "The restraint order should be renewed at least every 24 hours."
+				},
+				{
+					"header": "Patients are restrained as described in the relevant policy."
+				}
+			]
+		},
+		{
+			"serial": 30,
+
+			"header": "Restraints are applied safely and in accordance with professional standards and applicable laws and regulations.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The most responsible physician assesses and decides on the indication, the most suitable type, and the time required for applying restraints."
+				},
+				{
+					"header": "The most responsible physician performs periodic assessment and reassessment as dictated by the patient’s condition (particularly, blood circulation to the limbs restrained)."
+				},
+				{
+					"header": "The least restrictive and most effective means of restraints are always used."
+				},
+				{
+					"header": "Use of restraints must be appropriate and safe for patient and staff, used as a last resort, and in conformance with applicable laws and regulations."
+				},
+				{
+					"header": "Patient’s dignity and rights are protected and preserved, including preventing visibility by others and covering the patient when attending to the patient’s physical needs."
+				},
+				{
+					"header": "Nursing staff provide periodic monitoring of the restrained patient."
+				},
+				{
+					"header": "Patients are reassessed on a frequent basis (at least hourly and as appropriate)."
+				},
+				{
+					"header": "Appropriate interventions are performed when the patient’s circulation is being impaired."
+				},
+				{
+					"header": "Appropriate interventions are performed for side effects related to major tranquilizers."
+				},
+				{
+					"header": "All assessments, reassessments, monitoring findings, orders, and interventions are properly documented in the patient’s medical record."
+				},
+				{
+					"header": "An alarm system is available in the room and at nursing station for immediate help or assistance."
+				},
+				{
+					"header": "Staff members involved in restraint are trained and competent."
+				}
+			]
+		},
+		{
+			"serial": 31,
+
+			"header": "Crash carts are readily available for cardio- pulmonary resuscitation (CPR).",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital has standardized crash carts that are readily available in all patient care areas."
+				},
+				{
+					"header": "The crash carts are adequately equipped and supplied with age specific requirements, including emergency medications, defibrillator, oxygen cylinder, suction machine, intubation/airway access equipment, venous access equipment, and intravenous fluids."
+				},
+				{
+					"header": "On every shift, there is a documented process for checking the crash cart by a qualified staff."
+				},
+				{
+					"header": "The crash carts checking includes the defibrillator battery, full oxygen tank, suction machine, pharmaceutical care lock number, ambu bags and reservoirs, drug calculation charts, endo-tracheal tube (for neonates, pediatrics, and adults) and sharp box."
+				},
+				{
+					"header": "The crash carts are re-stocked/replenished after each use."
+				}
+			]
+		},
+		{
+			"serial": 32,
+
+			"header": "The hospital has an effective system for the safe provision of care to patients requiring cardio-pulmonary resuscitation.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital implements a policy and procedure that guides cardio-pulmonary resuscitation across all hospital areas."
+				},
+				{
+					"header": "The policy and procedure defines the following:",
+
+					"details": [
+						"A simple number to dial (such as 999) or other mechanism to call when summoning help for a code.",
+						"The CPR team composition and the team leader.",
+						"Roles and responsibilities of the staff who first discover the code, the team leader and the code team members.",
+						"The team member responsible for documenting events with date and time.",
+						"How the medications given during the resuscitation are prescribed.",
+						"How the medications in the emergency cart are timely replenished.",
+						"The CPR form that is used to standardize documentation of the CPR."
+					]
+				},
+				{
+					"header": "The CPR form includes at least the following information:",
+
+					"details": [
+						"The name of the patient.",
+						"The date, time and location of the code.",
+						"Names of the responders to the code.",
+						"Medications and treatments used (e.g., electrical shocks, central lines, intubation) and times of administration.",
+						"The outcome of the code."
+					]
+				},
+				{
+					"header": "Clinical staff are trained on how to use the alarm system or call the code."
+				},
+				{
+					"header": "CPR team members have the proper training on cardio-pulmonary life support."
+				},
+				{
+					"header": "CPR team is led by:",
+
+					"details": [
+						"A physician or an anesthesiologist who is certified in ACLS for adult codes.",
+						"A physician who is certified in PALS for pediatric codes.",
+						"A physician who is certified in NRP for neonatal codes."
+					]
+				},
+				{
+					"header": "All codes are reported to the cardiopulmonary resuscitation committee."
+				}
+			]
+		},
+		{
+			"serial": 33,
+
+			"header": "The hospital has an effective process for responding to patients with deteriorating conditions.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital establishes a rapid response team(s) of qualified staff to provide rapid response for deteriorating patients outside the intensive care unit."
+				},
+				{
+					"header": "There are written criteria communicated to the staff to define how and when to call for a rapid response team before the patient “coded”.",
+
+					"details": [
+						"Team is composed of qualified staff educated on the rapid response process.",
+						"Team provides coverage 24 hours a day, 7 days a week."
+					]
+				},
+				{
+					"header": "Activities of the rapid response teams are documented."
+				},
+				{
+					"header": "There is a regular evaluation of the activities and outcomes of the rapid response teams."
+				}
+			]
+		},
+		{
+			"serial": 34,
+
+			"header": "Policy and procedure guides the care of vulnerable dependent patients.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital has policies to define and guide the care of vulnerable dependent patients (e.g., immune-compromised, comatose, elderly and frail, disabled, terminally ill, neonates, infants, and children)."
+				},
+				{
+					"header": "Policies define at least the following information:",
+
+					"details": [
+						"Relevant clinical care management plans.",
+						"Infection control guidelines.",
+						"Security and safety guidelines.",
+						"Ethical guidelines."
+					]
+				},
+				{
+					"header": "Staff members are aware of and implement all relevant policies and associated care plans."
+				},
+				{
+					"header": "Patient’s medical record reflects the use of these policies and plans."
+				}
+			]
+		},
+		{
+			"serial": 35,
+
+			"header": "The hospital has a policy for patients permitted to leave the organization during the planned course of treatment.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The policy defines categories of patients permitted to leave the hospital during hospitalization."
+				},
+				{
+					"header": "The policy defines the maximum duration to go for out on pass."
+				},
+				{
+					"header": "The policy defines the assessment requirements before leaving the hospital and upon return."
+				},
+				{
+					"header": "The policy defines how medications will be dispensed in amounts enough to cover the out on pass period."
+				}
+			]
+		},
+		{
+			"serial": 36,
+
+			"header": "The hospital has an effective process for consultations between specialty services.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The consulting physician completes a consultation request that defines:",
+
+					"details": [
+						"Date and time of consultation.",
+						"Name and designation of consulting physician.",
+						"Name and designation of consulted physician.",
+						"Urgency of consultation (24 hours for routine inpatient consults and one hour or less for emergency cases).",
+						"Case summary.",
+						"Rationale for consultation."
+					]
+				},
+				{
+					"header": "The consulted physician indicates in writing:",
+
+					"details": [
+						"Date and time of consultation visit.",
+						"Name and designation.",
+						"Opinion and recommendations, including the need to transfer the patient under his name."
+					]
+				},
+				{
+					"header": "The consulting physician approves and follows up the implementation of the plan of care as set by the consulted physician."
+				}
+			]
+		},
+		{
+			"serial": 37,
+
+			"header": "Policy and procedure guides the transfer of patients between hospital units.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The most responsible physician assesses the need for transfer and matches the condition of the patient with admission criteria of the unit."
+				},
+				{
+					"header": "Verbal or written agreement as received from the receiving unit is documented in the patient’s medical record, including the name of the receiving physician."
+				},
+				{
+					"header": "The most responsible physician assesses the transfer requirements, both staff and equipment."
+				},
+				{
+					"header": "Summary of the patient medical and nursing assessment findings including reason for transfer, diagnoses, clinical findings, and current medications is available in the patient’s medical record before transfer."
+				},
+				{
+					"header": "The physician and the nurse at the receiving unit assess the patient at arrival to ensure safe and smooth handover."
+				}
+			]
+		},
+		{
+			"serial": 38,
+
+			"header": "The hospital has an efficient discharge process.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The patient and the family are involved in the discharge process with clear follow up instructions."
+				},
+				{
+					"header": "Discharge is based on the patient’s condition and relevant policies or criteria."
+				},
+				{
+					"header": "Patients' needs after discharge are assessed as early in the care process as possible."
+				},
+				{
+					"header": "The discharge process identifies the post-service needs and supports continuity of care after discharge."
+				},
+				{
+					"header": "The post-service needs are communicated to relevant staff members."
+				},
+				{
+					"header": "Staff members ensure coordination with various departments involved in the discharge process."
+				},
+				{
+					"header": "Whenever required, staff members ensure coordination with outside organizations and post-service providers as appropriate to the patient's needs."
+				},
+				{
+					"header": "Staff members ensure that all patients’ needs are met prior to discharge."
+				},
+				{
+					"header": "Policies and procedures guide the transfer of patients to other organizations."
+				}
+			]
+		},
+		{
+			"serial": 39,
+
+			"header": "The hospital has a safe and efficient process for initiating transfer to other organizations.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Policy and procedure guides the transfer of patients to other organizations."
+				},
+				{
+					"header": "Transfer is based on the patient's health needs for continuing care and the resources available for both referring and receiving organizations."
+				},
+				{
+					"header": "The most responsible physician determines the need for transfer, the most suitable time for transfer, resources required during transfer, and whether the receiving organization can meet the patient’s health and supportive needs."
+				},
+				{
+					"header": "There are written transfer criteria for staff to follow."
+				},
+				{
+					"header": "There is a written acceptance for transfer of responsibility for the patient's care by the receiving provider/organization."
+				},
+				{
+					"header": "The hospital communicates with all potential receiving organizations and necessary arrangements are made whenever applicable."
+				}
+			]
+		},
+		{
+			"serial": 40,
+
+			"header": "The hospital ensures safe transportation of patients during transfer to other organizations.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The most responsible physician assesses the transportation needs of the patient according to his condition."
+				},
+				{
+					"header": "Transportation needs of the patient are communicated to the relevant staff."
+				},
+				{
+					"header": "The transportation is provided promptly and safely in emergency cases (e.g. trauma, or cardiac emergency)."
+				},
+				{
+					"header": "The most responsible physician ensures that all patient’s health needs during transportation are met."
+				},
+				{
+					"header": "Adequate equipment and supplies are available during transportation."
+				},
+				{
+					"header": "A qualified staff member accompanies the patient during transportation."
+				},
+				{
+					"header": "The patient is monitored as appropriate during transfer."
+				},
+				{
+					"header": "Handover is completed to staff at the receiving organization."
+				}
+			]
+		},
+		{
+			"serial": 41,
+
+			"header": "The receiving organization of a transferred patient receives the necessary information for continuity of care.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "A summary of the patient's condition (e.g., a discharge summary) is sent with the patient to the receiving organization. The summary includes:",
+
+					"details": [
+						"Reason for the patient’s admission.",
+						"Patient diagnosis.",
+						"Brief summary of hospitalization and services provided (therapies, consultations, procedures to date).",
+						"Medication list and time of last dose(s) given.",
+						"Patient condition and physical status at the time of transfer.",
+						"Rationale for transfer.",
+						"Results of the patient’s diagnostic investigations (e.g., laboratory and radiology)."
+					]
+				}
+			]
+		},
+		{
+			"serial": 42,
+
+			"header": "The hospital ensures the continuity of care after discharge or referral.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Whenever required, follow up appointments are arranged for the patient prior to discharge."
+				},
+				{
+					"header": "The patient receives information on how and when to re-access health and supportive services when required."
+				},
+				{
+					"header": "The hospital provides a discharge summary for all inpatients upon discharge."
+				},
+				{
+					"header": "A copy of the discharge summary is kept in the patient’s medical record."
+				},
+				{
+					"header": "A copy of the discharge summary is given to the patient."
+				},
+				{
+					"header": "As appropriate, a copy of the discharge summary is provided to the healthcare provider responsible for the patient's continuing or follow-up care."
+				},
+				{
+					"header": "The discharge summary is complete and typewritten."
+				}
+			]
+		},
+		{
+			"serial": 43,
+
+			"header": "The hospital has a process for the donation, procurement, and transplantation of organs and tissues.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital complies with existing laws and regulations on organ and tissue donation, procurement, and transplantation."
+				},
+				{
+					"header": "If the hospital performs organ transplants, it collaborates and coordinates with the Saudi Center for Organ Transplantation (SCOT)."
+				},
+				{
+					"header": "The hospital ensures appropriate retrieval, processing, preservation, and storage of organs/ tissues for transplants."
+				},
+				{
+					"header": "The hospital establishes guidelines for the donation of organs from one living person to another in accordance with laws and regulations."
+				}
+			]
+		}
+	]
+}

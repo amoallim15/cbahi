@@ -1,0 +1,402 @@
+{
+	"code": "OR",
+	"standards": [
+		{
+			"serial": 1,
+
+			"header": "Qualified individual directs the operating room.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The operating room is directed by a qualified medical staff (e.g., surgical or anesthesia staff)."
+				}
+			]
+		},
+		{
+			"serial": 2,
+
+			"header": "Qualified nurse manager supervises nursing services in the operating room.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The nurse manager in charge of the operating room is a qualified registered nurse with training, education, and experience in operative care."
+				},
+				{
+					"header": "The nurse manager of the operating room develops and collaborates with other disciplines for developing all required and related policies and procedures."
+				}
+			]
+		},
+		{
+			"serial": 3,
+
+			"header": "The nurse manager ensures the competency of the nursing staff.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The nursing staff receive ongoing training on the following general and operating room- related needs:",
+
+					"details": [
+						"Use of equipment.",
+						"Use of defibrillator.",
+						"Use of pulse oximetry.",
+						"Infection control.",
+						"Blood transfusion.",
+						"Central sterilization policy.",
+						"Maintenance of a sterile field.",
+						"Draping and gowning.",
+						"Surgical table operation and safe positioning of patients.",
+						"Assistance in operations of their specialty surgical area.",
+						"Pre and post-procedural handling and disposing of surgical equipment.",
+						"Safe operation of variable surgical equipment according to specialty."
+					]
+				},
+				{
+					"header": "Nursing staff competencies are assessed by using different methods (e.g. written test, return demonstration)."
+				}
+			]
+		},
+		{
+			"serial": 4,
+
+			"header": "Patients who are admitted for surgery have medical assessment performed and plan of care documented prior to surgery.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Prior to surgery, the most responsible physician performs medical assessment and ensures documentation of the following:",
+
+					"details": [
+						"History and physical examination.",
+						"Pre-operative diagnosis.",
+						"Diagnostic tests (laboratory, radiology, etc.) as ordered.",
+						"Signed informed consent.",
+						"Planned procedure."
+					]
+				},
+				{
+					"header": "In emergency situations where a complete medical assessment cannot be documented, a brief note is written by the most responsible physician."
+				}
+			]
+		},
+		{
+			"serial": 5,
+
+			"header": "Policies and procedures guide the care of patients in the operating room.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Policies and procedures guide the care of patients in the operating room. This includes, but is not limited to, the following:",
+
+					"details": [
+						"Handover process between unit nurse and operating room nurse and operating room reception.",
+						"Prevention of wrong patient, wrong surgery/procedure, or wrong site.",
+						"Infection control measures in operating room and recovery room including isolation precautions.",
+						"Handling patients with infectious diseases (e.g. Tuberculosis, AIDS, and Hepatitis).",
+						"Equipment daily checks and periodic maintenance.",
+						"Environmental controls in operating room and recovery room.",
+						"Safe labeling, handling, storage and transportation of laboratory specimens in operating and recovery rooms.",
+						"Safe handling, storage and transportation of commonly used chemicals in operating and recovery rooms.",
+						"Safe handling, transportation and storage of blood in operating and recovery rooms."
+					]
+				},
+				{
+					"header": "Policies are collaboratively developed with operating room nurses, anesthesia staff, surgeons, and laboratory staff as per level of involvement."
+				}
+			]
+		},
+		{
+			"serial": 6,
+
+			"header": "There is a policy for patient acceptance into the operating room.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There is a policy for accepting patients in the operating room that mandates the following:",
+
+					"details": [
+						"Patient identification by name and medical record numberas listed on the patient’sID band.",
+						"The consent form is checked for completion.",
+						"The operation/ procedure and the surgeon’s name are checked.",
+						"The site of surgery and its preparation and whether it is marked or not are checked.",
+						"The laboratory and radiology results and pregnancy test as appropriate are checked.",
+						"The pre-anesthesia sheet is checked for completion.",
+						"The history and physical examination are checked for documentation.",
+						"The requisition for blood is verified to ensure blood is reserved in the blood bank, if needed."
+					]
+				},
+				{
+					"header": "The policy is collaboratively developed by the head of surgery, head of anesthesia, and the nurse manager."
+				}
+			]
+		},
+		{
+			"serial": 7,
+
+			"header": "The hospital has a process to prevent inadvertent retention of instruments or sponges in surgical wounds.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital develops and implements a policy and procedure to prevent inadvertent retention of instruments or sponges in surgical wounds."
+				},
+				{
+					"header": "The count process includes instruments, sharps, sponges, and others as applicable."
+				},
+				{
+					"header": "The policy addresses procedures that are exempted from the counting process (e.g., cataract, cystoscopy)."
+				},
+				{
+					"header": "The count process is standardized."
+				},
+				{
+					"header": "The policy addresses the procedure to follow in case of a count discrepancy."
+				},
+				{
+					"header": "The count process is documented in the count sheet."
+				}
+			]
+		},
+		{
+			"serial": 8,
+
+			"header": "The hospital develops and implements a policy for day surgery cases.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The policy defines the types of surgical procedures that are performed as “day surgery”."
+				},
+				{
+					"header": "The policy addresses the categories of patients who are not candidates for day surgery."
+				},
+				{
+					"header": "The policy defines a process for patients who have to be admitted to the hospital from the day surgery unit."
+				},
+				{
+					"header": "The most responsible physician writes a discharge order."
+				},
+				{
+					"header": "Patients are discharged in the company of a responsible adult who assumes responsibility and is capable of taking care of the patient."
+				},
+				{
+					"header": "Patient/family education and follow-up care instructions are provided prior to discharge."
+				}
+			]
+		},
+		{
+			"serial": 9,
+
+			"header": "An operative report is documented immediately after the surgery/procedure.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There is always an operative report that includes:",
+
+					"details": [
+						"Pre and post-operative diagnosis.",
+						"The name of the surgeon and assistants.",
+						"The operation/procedure performed.",
+						"Description of the surgery/procedure and findings.",
+						"Presence or absence of intra-operative complications.",
+						"Surgical specimens removed and sent to histopathology.",
+						"Amount of blood loss."
+					]
+				},
+				{
+					"header": "The operative report is documented before the patient leaves the recovery room to support the continuity of patient care."
+				},
+				{
+					"header": "The operative report is signed/authenticated by the surgeon performing the procedure."
+				}
+			]
+		},
+		{
+			"serial": 10,
+
+			"header": "Tissues removed during surgery are sent for pathologic examination.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Tissues or specimens removed during surgery have pathological examination unless exempted by a hospital policy."
+				},
+				{
+					"header": "Surgical specimens are accurately identified."
+				},
+				{
+					"header": "The report of the examination is signed by the pathologist and made part of the medical record."
+				}
+			]
+		},
+		{
+			"serial": 11,
+
+			"header": "Each patient has a post-operative plan of care.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "A post-operative plan of care is written by the responsible surgeon."
+				},
+				{
+					"header": "The post-operative plan of care includes:",
+
+					"details": [
+						"Post-operative monitoring parameters and its frequency.",
+						"Wound care.",
+						"Care of drains and catheters.",
+						"Special patient positioning requirements.",
+						"Nutritional instructions.",
+						"When to start mobilization.",
+						"Special referrals (e.g. physical therapy, respiratory therapy)",
+						"A new order for all required medications.",
+						"Any other post-operative care needed including required follow up."
+					]
+				},
+				{
+					"header": "The post-operative plan of care is available in the patient's medical record before discharge from recovery."
+				},
+				{
+					"header": "Each patient is assessed after surgery and reassessed at intervals appropriate to the patient’s condition."
+				},
+				{
+					"header": "Medical, nursing, and other care plans are documented in the patient’s medical record."
+				}
+			]
+		},
+		{
+			"serial": 12,
+
+			"header": "Adequate pain relief is provided for patients after surgery.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Pain is assessed by the most responsible physician or his designee after surgery."
+				},
+				{
+					"header": "Pain medications are adjusted according to the patients’ response."
+				}
+			]
+		},
+		{
+			"serial": 13,
+
+			"header": "The hospital has appropriate measures against fires in the operating room.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The operating room has a fire safety plan."
+				},
+				{
+					"header": "The operating room staff are aware of the fire triangle: ignition sources, oxidizers, and fuels."
+				},
+				{
+					"header": "The operating room staff are trained on the identification and location of medical gases, ventilation and electrical systems and controls, as well as when, where and how to shut off these systems."
+				},
+				{
+					"header": "There are proper methods for rescue and escape."
+				},
+				{
+					"header": "Staff participate in fire drills."
+				},
+				{
+					"header": "There are fire-fighting equipment."
+				},
+				{
+					"header": "Anesthesia staff determine the safe concentration of oxygen for open delivery during facial surgery."
+				},
+				{
+					"header": "Patients are not draped until all flammable preps have dried."
+				},
+				{
+					"header": "When performing electro-surgery, electro-cautery or laser surgery, electro-surgical instruments are placed in a holster or another location off the patient when not in active use and lasers are placed in standby when not in active use."
+				}
+			]
+		},
+		{
+			"serial": 14,
+
+			"header": "Infection prevention and control standards are strictly implemented and supervised in the operating room.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The operating room environment is maintained clean at all times."
+				},
+				{
+					"header": "The use of storage cabinets in operating rooms is minimized."
+				},
+				{
+					"header": "There is a policy for traffic control in the operating room."
+				},
+				{
+					"header": "The operating room is maintained at positive pressure with respect to corridors."
+				},
+				{
+					"header": "Records of pressure monitoring should be available in the operating rooms"
+				},
+				{
+					"header": "More than (15) air changes per hour are maintained in the operating rooms."
+				},
+				{
+					"header": "Air is introduced near the ceiling and exhausted near the floor."
+				},
+				{
+					"header": "All re-circulated or fresh air should be filtered through High-Efficiency Particulate Air (HEPA) filters that are maintained and frequently replaced as per the manufacturer recommendation."
+				},
+				{
+					"header": "Only operating room scrub clothing is allowed inside the restricted areas of the operating room."
+				},
+				{
+					"header": "Scrubbing sinks are available at the entry of the operating room."
+				},
+				{
+					"header": "Standard precautions are strictly implemented in the operating room with special emphasis on hand hygiene and the appropriate use of gloves, gowns, masks, and other barriers."
+				},
+				{
+					"header": "There are clear procedures for cleansing and disinfecting operating rooms by housekeeping after surgical procedures."
+				},
+				{
+					"header": "There are clear procedures for cleaning and disinfecting anesthesia machines after each case and toward the end of working hours by anesthesia technicians."
+				},
+				{
+					"header": "The storage area of the operating room is well maintained with respect to the infection prevention and control standards."
+				},
+				{
+					"header": "The waste management maintains safety of patients and healthcare workers."
+				},
+				{
+					"header": "Patients with transmissible diseases are handled properly inside the operating rooms.",
+
+					"details": [
+						"Infected cases are scheduled towards the end of the operating list.",
+						"There is an implemented policy to handle patients with air-borne transmitted disease inside the operating room.",
+						"There is an implemented policy for contact and droplet transmission-based precaution in the recovery room."
+					]
+				}
+			]
+		}
+	]
+}

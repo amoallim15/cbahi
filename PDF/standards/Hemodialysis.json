@@ -1,0 +1,290 @@
+{
+	"code": "HM",
+	"standards": [
+		{
+			"serial": 1,
+
+			"header": "Qualified nephrologist is responsible for managing the clinical services in the hemodialysis unit.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Clinical services in the hemodialysis unit are led by a qualified nephrologist with experience in managing end stage renal disease (ESRD) patients."
+				}
+			]
+		},
+		{
+			"serial": 2,
+
+			"header": "Qualified nurse is responsible for supervising nursing services in the hemodialysis unit.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The nurse in charge of the hemodialysis unit is a qualified registered nurse with training, education or experience in hemodialysis."
+				},
+				{
+					"header": "Nursing staff members are registered nurses qualified to care for ESRD patients by education, training or experience."
+				}
+			]
+		},
+		{
+			"serial": 3,
+
+			"header": "Each patient’s hemodialysis care is planned and documented in the patient’s medical record.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Hemodialysis procedures are ordered by a qualified nephrologist."
+				},
+				{
+					"header": "Comprehensive assessment and reassessment is performed for each patient in the hemodialysis unit."
+				},
+				{
+					"header": "The need for dialysis and choice of modality are based on sound clinical principles and a thorough clinical evaluation of the clinical condition and any associated co-morbidities."
+				},
+				{
+					"header": "Informed consent is obtained for all dialysis patients after providing adequate information about the different modalities and the modality that is most appropriate for the patient’s needs. The consent is updated regularly (e.g., yearly) and when the risk level is changing."
+				},
+				{
+					"header": "Multi-disciplinary plan of care is developed for each patient in coordination with other relevant health professionals (e.g., physician, nurse, dietitian, pharmacist, and social worker)."
+				},
+				{
+					"header": "There is an appropriate multi-disciplinary patient education plan."
+				},
+				{
+					"header": "Patients are properly monitored during and after dialysis."
+				},
+				{
+					"header": "Plan of care is documented in the patient’s medical record."
+				},
+				{
+					"header": "Emergency medical care is available when needed."
+				},
+				{
+					"header": "Clinical staff who participate in caring for patients on dialysis are certified in advanced life support as appropriate to the different age groups of patients, or at least one certified individual is assigned on every shift."
+				}
+			]
+		},
+		{
+			"serial": 4,
+
+			"header": "The hemodialysis unit has admission and discharge criteria.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hemodialysis unit has admission and discharge criteria consistent with evidence-based practice."
+				},
+				{
+					"header": "The criteria are collaboratively developed by nephrologists, nursing staff and other relevant departments."
+				}
+			]
+		},
+		{
+			"serial": 5,
+
+			"header": "Policies and procedures guide the care of patients requiring hemodialysis.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Care of patients in hemodialysis unit is guided by policies and procedures that include, but are not limited to, the following:",
+
+					"details": [
+						"Assessment and reassessment of patients.",
+						"Assessment of volume status.",
+						"Care and monitoring of patients with arterio-venous fistula/graft.",
+						"Care and monitoring of tunneled/non-tunneled catheters.",
+						"Management of clotted access.",
+						"Preparation of hemodialysis machines.",
+						"Dialysis procedures.",
+						"Peritoneal dialysis.",
+						"Anticoagulation.",
+						"Management of electrolytes imbalance.",
+						"Management of dialysis-induced complications.",
+						"Management of cardiopulmonary collapse and urgent medical conditions.",
+						"Emergency transfer of patients."
+					]
+				},
+				{
+					"header": "Policies and procedures are implemented as evidenced in the daily practice and the patient’s medical record."
+				}
+			]
+		},
+		{
+			"serial": 6,
+
+			"header": "Equipment and machines in the hemodialysis unit are in good working conditions.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "All equipment and machines are operated within manufacturer’s specifications."
+				},
+				{
+					"header": "The preventive maintenance program -for equipment related to patient care- is developed and implemented in accordance with manufacturer’s instructions."
+				},
+				{
+					"header": "The preventive maintenance program is performed by qualified staff/entities."
+				},
+				{
+					"header": "All records for maintenance and repair are kept on file for future reference and inspection."
+				},
+				{
+					"header": "Staff are oriented to equipment in use."
+				},
+				{
+					"header": "Staff are trained to identify malfunctioning equipment or machines and to report to appropriate staff for repair."
+				},
+				{
+					"header": "Each dialysis machine is equipped with monitors and an alarm system."
+				},
+				{
+					"header": "The preventive maintenance program includes the water treatment and distribution system."
+				}
+			]
+		},
+		{
+			"serial": 7,
+
+			"header": "Infection control guidelines specific to the dialysis services are developed and implemented.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Infection control guidelines are developed or adopted from authoritative sources or relevant professional organizations."
+				},
+				{
+					"header": "Infection control guidelines include, but are not limited to, the following:",
+
+					"details": [
+						"Adequate space (1.2 -1.5 meters) between patients to prevent transmission of infection.",
+						"Separation between patient care (contaminated) and office/supply areas (clean).",
+						"Standard precautions are strictly implemented in the unit with special emphasis on hand hygiene and the appropriate use of gloves, gowns, masks, and other barriers.",
+						"Adequate supply of personal protective equipment is available and readily accessible.",
+						"Hand disinfectants for waterless hand hygiene should be available at every chair/ bed. Hands are washed before and after contact with each patient.",
+						"Sinks are available in adequate number (preferably one for every 2-4 chair/beds) and are conveniently located.",
+						"Staff members have the required knowledge for safe practices to avoid cross contamination.",
+						"Sharp disposal containers are available at each chair/bed and elsewhere as needed within the unit. Needles and sharps are disposed appropriately.",
+						"Infectious wastes are disposed in accordance with hospital’s waste disposal policies.",
+						"Surfaces of machines including the control panels, blood pressure cuffs and chairs / beds are disinfected after use with an approved disinfectant.",
+						"Blood spills are cleaned properly.",
+						"Equipment such as blood pressure cuffs, stethoscopes, clamps, scissors and thermometers are allocated to a single patient and are disinfected at the conclusion of each patient treatment session.",
+						"Supplies and equipment are properly handled in a way that prevents contamination.",
+						"A process is inplace to ensure multi-dose vials are adequately labeled and used for single patient only.",
+						"A process is inplace for infection control procedures for dialysis machines between patients.",
+						"A process is inplace for appropriate cleaning and disinfection of the water treatment and distribution system."
+					]
+				}
+			]
+		},
+		{
+			"serial": 8,
+
+			"header": "Patients and staff are protected from blood borne pathogens during hemodialysis.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "All patients are screened for Hepatitis B, Hepatitis C and HIV at the beginning of dialysis."
+				},
+				{
+					"header": "Patient whose laboratory tests for HBsAg, anti HBs, HCV, or HIV are negative should be re- screened every 3-6 months."
+				},
+				{
+					"header": "Patients susceptible to hepatitis B are immunized with Hepatitis B vaccine."
+				},
+				{
+					"header": "Machines used for blood-borne infectious diseases (such as hepatitis and HIV/AIDS patients) are separated. Patients infected with Hepatitis B are strictly segregated in a separate room and treated on a separate machine used exclusively for Hepatitis B."
+				},
+				{
+					"header": "Staff and employees have checkups for Hepatitis B, Hepatitis C, and HIV upon hiring and annually."
+				},
+				{
+					"header": "Staff and employees susceptible to Hepatitis B are immunized with Hepatitis B vaccine and tested for antibodies to evaluate response, and all non-responders are given a second series of the HBV vaccine."
+				},
+				{
+					"header": "Records for staff screening and hepatitis immunization are available and maintained for future reference."
+				}
+			]
+		},
+		{
+			"serial": 9,
+
+			"header": "Water quality is checked on a periodic basis.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There is a written policy defining the periodic checking of water quality."
+				},
+				{
+					"header": "The policy is based upon manufacturer’s recommendations, regulations, and local experience."
+				},
+				{
+					"header": "Hardness and chlorine content of feeding water are monitored on a regular basis by designated staff or authorities."
+				},
+				{
+					"header": "Microbiologic monitoring of treated water and dialysate should be performed at least monthly and more frequently if a problem is identified."
+				},
+				{
+					"header": "Bacteriology testing of Reverse Osmosis (RO) water as well as endotoxin assay should be performed and documented at least once per month."
+				},
+				{
+					"header": "Chemical testing of water is performed at least once per year."
+				},
+				{
+					"header": "Reverse Osmosis (RO) system including the feeding pipelines into the hospital is disinfected at least once per month, preferably by heat as well as by chemical disinfection."
+				},
+				{
+					"header": "All physical and monitoring checks are verified and signed off by the nephrologist with recording of any corrective actions taken (e.g., out of range results for tests of water or dialysate)."
+				},
+				{
+					"header": "Written record and results of microbiological and chemical testing of water are in place and reviewed."
+				}
+			]
+		},
+		{
+			"serial": 10,
+
+			"header": "The nurse in charge of the hemodialysis unit ensures the competency of the nursing staff.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The nursing staff receive ongoing training and education on all relevant policies including, but are not limited to, the following:",
+
+					"details": [
+						"Care of patients with AV fistula/AV graft.",
+						"Dialysis procedures.",
+						"Care of tunneled/non-tunneled catheters.",
+						"Peritoneal dialysis.",
+						"Assessment of patient’s volume status.",
+						"Anticoagulation.",
+						"Management of clotted access.",
+						"Hyperkalemia.",
+						"Pulse oximetry.",
+						"Blood transfusion.",
+						"Use of defibrillator.",
+						"Infection control."
+					]
+				},
+				{
+					"header": "The nursing staff competencies are assessed by using different methods (e.g., written test, return demonstration) and results are documented."
+				}
+			]
+		}
+	]
+}

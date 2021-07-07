@@ -1,0 +1,394 @@
+{
+	"code": "MR",
+	"standards": [
+		{
+			"serial": 1,
+
+			"header": "The Health Information Management (Medical Records) department has adequate qualified staff.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The health information management (Medical Records) department is directed by individual qualified by education (bachelor in health information management) and experience."
+				},
+				{
+					"header": "The department director is credentialed in health information management through formal training as per the national/international guidelines."
+				},
+				{
+					"header": "The department has adequate staff to carry out its functions."
+				},
+				{
+					"header": "Staff working in the department are credentialed in health information management through formal training as per the national/international guidelines."
+				},
+				{
+					"header": "Clinical coding staff working in the department are credentialed/certified in clinical coding through formal training as per the the national/international guidelines."
+				},
+				{
+					"header": "The department has one or more staff members who are credentialed in Clinical Documentation Improvement (CDI) through formal training as per the national/international guidelines."
+				}
+			]
+		},
+		{
+			"serial": 2,
+
+			"header": "A medical record is initiated for every patient.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital initiates a medical record for each patient on his first contact with the hospital, whether it is for an admission, emergency department or outpatient clinic visit."
+				},
+				{
+					"header": "Each medical record is assigned a unique identification number."
+				},
+				{
+					"header": "The hospital keeps only one medical record for each patient."
+				},
+				{
+					"header": "There is patient identification on each page of the medical record."
+				}
+			]
+		},
+		{
+			"serial": 3,
+
+			"header": "The hospital maintains a master patient index (either manual or computerized) of all patients who have ever been admitted to or treated by the hospital.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The master patient index is used to identify a patient's medical record number."
+				},
+				{
+					"header": "The master patient index provides basic patient demographic information (identification information collected during the registration process) as well as patient activity (visit) information:",
+
+					"details": [
+						"The patient demographic information (identification information) includes: medical record number, patient’s full name, date of birth, sex, marital status, address, national identification number, next of kin (and his contacts) and/or a person that the patient wishes to be contacted in an emergency, or authorized representative/designee.",
+						"The patient activity (visit) information includes: admission and discharge/transfer dates for inpatient hospitalizations, date of death when a death occurs, encounter date or date of service for outpatient visits, most responsible physician, and mother’s name for newborns."
+					]
+				},
+				{
+					"header": "The patient demographic information (identification information) of the master patient index is recorded on the front sheet of the medical record."
+				},
+				{
+					"header": "The master patient index is updated for each new episode of care for any change in information."
+				},
+				{
+					"header": "The master patient index is retained permanently to provide historical access to basic patient information and dates of stay in the hospital."
+				}
+			]
+		},
+		{
+			"serial": 4,
+
+			"header": "Medical records contain sufficient information to promote continuity and coordination of care and communication among care providers.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The medical record contains sufficient information to identify the patient and his care provider, support the diagnosis, justify the treatment, and document the results of care provided."
+				}
+			]
+		},
+		{
+			"serial": 5,
+
+			"header": "The hospital has a complete and accurate medical record for every patient.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital identifies in a policy all staff members authorized to make entries in medical records."
+				},
+				{
+					"header": "All entries in the medical records must be legible, indelibly verified, dated, and authenticated."
+				},
+				{
+					"header": "Clinical staff authorized to make entries in the medical record receive formal training in clinical documentation improvement as per the national/international guidelines."
+				},
+				{
+					"header": "The author of each entry must be identified and authenticated by official stamp, signature, written initials, or computer entry."
+				},
+				{
+					"header": "Medical record completion is a requirement within thirty days of patient discharge and before any elective vacation or period of absence of the staff member entering the notes in the medical record."
+				},
+				{
+					"header": "The hospital has a policy to deal with delinquent medical records."
+				},
+				{
+					"header": "The most responsible physician is responsible for the completion of his own records."
+				}
+			]
+		},
+		{
+			"serial": 6,
+
+			"header": "The hospital maintains the medical records in one central place.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital has a medical records department that accommodates all medical records."
+				},
+				{
+					"header": "The hospital has processes to manage the different parts of the medical records.",
+					
+					"details": [
+						"The different parts of multiple records are cross referenced to the patient's unique identifier to enable records linkage.",
+						"The different parts can be easily located when not stored together.",
+						"The hospital ensures that all information are available and accessible when needed."
+					]
+				},
+				{
+					"header": "The processes include, but are not limited to, the following:",
+
+					"details": [
+						"Records that are partly paper-based and partly electronic.",
+						"Records that include items requiring incompatible storage systems such as videos and audio recordings."
+					]
+				}
+			]
+		},
+		{
+			"serial": 7,
+
+			"header": "A discharge summary is completed for all discharged patients.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There is a discharge summary for all discharged patients."
+				},
+				{
+					"header": "The discharge summary is complete and includes:",
+
+					"details": [
+						"The reason for the patient’s admission.",
+						"The patient’s diagnosis.",
+						"Brief summary of hospitalization (therapies, consultations, interventions and results of any important diagnostic testing).",
+						"A list of medications used.",
+						"Any surgery or procedures performed and their outcome.",
+						"The patient’s condition at discharge.",
+						"All medications to be taken by the patient after discharge.",
+						"Any special care the patient requires after discharge."
+					]
+				}
+			]
+		},
+		{
+			"serial": 8,
+
+			"header": "The hospital uses nationally recognized standardized diagnosis and procedure codes.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital uses the International Statistical Classification of Diseases and Related Health Problems, 10th Revision, Australian Modification (ICD-10-AM) for diagnosis coding."
+				},
+				{
+					"header": "The hospital uses Australian Classification of Health Interventions (ACHI) for procedure coding."
+				}
+			]
+		},
+		{
+			"serial": 9,
+
+			"header": "There is a process to ensure availability of the medical records in a timely manner.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital determines in a policy all disciplines who may have access to the medical records."
+				},
+				{
+					"header": "Care providers have access to current and past medical records."
+				},
+				{
+					"header": "Medical records are readily retrievable for each patient encounter."
+				},
+				{
+					"header": "Medical records are available within thirty minutes of being requested."
+				},
+				{
+					"header": "Medical records can be retrieved any time of the day."
+				}
+			]
+		},
+		{
+			"serial": 10,
+
+			"header": "Medical records are consistently organized.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Individual medical records are securely compiled."
+				},
+				{
+					"header": "Medical records are organized into sections. (e.g., a section for test results, operative reports, consultations, discharge summary)."
+				},
+				{
+					"header": "The different sections of the medical record are organized chronologically (e.g., the physician orders start with the initial set written when the patient was admitted to the hospital and end with the discharge order)."
+				},
+				{
+					"header": "During each hospitalization episode, both in-patient and outpatient medical records are separated into different sections in the patients’ medical record (e.g., for doctors’ orders, nursing notes, progress notes)."
+				}
+			]
+		},
+		{
+			"serial": 11,
+
+			"header": "The hospital has a system to manage voluminous medical records.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There is a system that enables medical record linkage."
+				},
+				{
+					"header": "When the medical record is divided into volumes, the number of each volume should be clearly visible on the folder and on the sign-out slip (e.g., \"Volume 1 of 2\", \"Volume 2 of 2,\")."
+				},
+				{
+					"header": "When the hospital practices thinning of voluminous medical records:",
+
+					"details": [
+						"The hospital develops thinning guidelines that remain consistent for the type of documentation contained.",
+						"The hospital retains documentation in the medical record that reflects the current plan of care and services provided.",
+						"The hospital removes parts of the medical record older than a certain date and moves them into a secondary record (the overflow record)."
+					]
+				}
+			]
+		},
+		{
+			"serial": 12,
+
+			"header": "The hospital has a system for the retention of medical records in accordance with laws and regulations.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital has a policy on the retention of medical records."
+				},
+				{
+					"header": "The policy is consistent with laws and regulations.",
+
+					"details": [
+						"The medical records are retained for a minimum of five years after the patient was last seen unless otherwise specified by laws and regulations. For minors, records shall be kept until he/she is eighteen years of age, and then for a minimum additional five years.",
+						"The policy addresses the retention period of the different types of the medical records as well as the permanent types (e.g., records of medico-legal cases).",
+						"The policy addresses the retention period of the different parts of the medical records as well as the permanent parts (master patient index, admission and discharge dates, name of the most responsible physician, diseases treated and operations performed; and a discharge summary for each admission)."
+					]
+				},
+				{
+					"header": "The method used for medical records destruction, when the retention period is complete, renders the information unreadable."
+				}
+			]
+		},
+		{
+			"serial": 13,
+
+			"header": "There is a policy that outlines how the medical records are stored.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The policy addresses how the medical records are protected from loss, theft and deliberate alterations or destruction."
+				},
+				{
+					"header": "The procedures for protection of medical records are implemented."
+				},
+				{
+					"header": "The policy addresses how confidentiality, integrity, and security of the records will be maintained during storage."
+				}
+			]
+		},
+		{
+			"serial": 14,
+
+			"header": "The hospital develops and implements a policy for the release of medical records from the medical records department.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There is a policy that describes the process for the release of medical records for patient care encounters (inpatient, outpatient, and emergency department)."
+				},
+				{
+					"header": "The hospital determines when to release medical records for reasons not related to direct patient care (e.g., research, utilization management, quality improvement, morbidity and mortality, and governmental requests)."
+				},
+				{
+					"header": "The hospital has an approval mechanism for the release of medical records for reasons not related to patient care. The approval mechanism is implemented."
+				}
+			]
+		},
+		{
+			"serial": 15,
+
+			"header": "The hospital has a system for tracking of medical records.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There is a medical records tracking system to identify the location of any record not in the medical records department and its date and time of movement as well as subsequent movements, when applicable."
+				},
+				{
+					"header": "The medical records tracking system includes all components of the medical records."
+				}
+			]
+		},
+		{
+			"serial": 16,
+
+			"header": "The hospital uses standardized forms in medical records.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital uses standardized forms in medical records, generated based on hospital needs and the needs of healthcare professionals."
+				},
+				{
+					"header": "The hospital assigns a structure to control the development of medical records forms (e.g., a forms committee or the medical records review committee)."
+				}
+			]
+		},
+		{
+			"serial": 17,
+
+			"header": "The hospital has a system in place for monitoring completion of medical records.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The medical records are reviewed on an ongoing basis (e.g., monthly or quarterly)."
+				},
+				{
+					"header": "The review includes a representative sample."
+				},
+				{
+					"header": "The review is conducted by care providers authorized to make entries in medical records."
+				},
+				{
+					"header": "The review process focuses on the appropriate and comprehensive documentation, timeliness, and legibility."
+				},
+				{
+					"header": "Data collected are analyzed and corrective actions are taken."
+				}
+			]
+		}
+	]
+}

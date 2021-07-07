@@ -1,0 +1,245 @@
+{
+	"code": "RD",
+	"standards": [
+		{
+			"serial": 1,
+
+			"header": "Qualified radiologist is responsible for managing the radiology department.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The head of the radiology department is a radiologist qualified by education, training, and experience."
+				},
+				{
+					"header": "The head of the radiology department supervises the development and implementation of policies and procedures related to radiology services throughout the hospital."
+				}
+			]
+		},
+		{
+			"serial": 2,
+
+			"header": "The radiology department has adequate qualified staff.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The radiology department has adequate staff, including:",
+					
+					"details": [
+						"Technical director.",
+						"Medical physicists.",
+						"Radiation safety officer and supervisor (for radiotherapy nuclear medicine and diagnostics).",
+						"Quality officer.",
+						"PACS administrator, when applicable."
+					]
+				},
+				{
+					"header": "Staff working in the department are trained and qualified in their field."
+				},
+				{
+					"header": "There is twenty four hour coverage by a radiologist and a technologist."
+				}
+			]
+		},
+		{
+			"serial": 3,
+
+			"header": "The radiology department has policies and procedures that guide all radiological activities.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The radiology department has policies and procedures to address all important radiological investigations and procedures, including:",
+
+					"details": [
+						"X-rays.",
+						"Ultrasonography.",
+						"Computed Tomography.",
+						"Magnetic Resonance Imaging.",
+						"Angiogram.",
+						"Interventional radiological procedures.",
+						"Fluoroscopy.",
+						"Contrast agent reactions.",
+						"Nuclear medicine imaging.",
+						"Molecular Imaging (Positron Emission Tomography –PET scanning).",
+						"Bedside and critical care radiography.",
+						"Radiopharmaceuticals calibration and quality control.",
+						"Portable radiological machines.",
+						"Mammography."
+					]
+				}
+			]
+		},
+		{
+			"serial": 4,
+
+			"header": "Requests for radiological investigations utilize a standardized method throughout the hospital.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There is a special request form utilized by the medical staff for all requests related to radiology department."
+				},
+				{
+					"header": "Relevant information, including a brief case description and rationale for the investigation, are documented on the radiology request form for all diagnostic and/or interventional imaging procedures."
+				}
+			]
+		},
+		{
+			"serial": 5,
+
+			"header": "The radiology department implements a policy and procedure that defines the process and time limits of results reporting for all radiological studies.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The radiology department defines and implements the format and content of radiology reports (paper or electronic). Essential elements of the report include:",
+
+					"details": [
+						"Patient identification.",
+						"Type of the procedure.",
+						"Identification of the ordering physician.",
+						"Reporting date and time.",
+						"Identification of the reporting radiologist."
+					]
+				},
+				{
+					"header": "The radiological studies are reported by the radiologist within defined time limits.",
+
+					"details": [
+						"Immediate reporting for emergency cases.",
+						"Urgent cases are reported within twenty four hours.",
+						"Routine cases are reported within forty eight hours."
+					]
+				}
+			]
+		},
+		{
+			"serial": 6,
+
+			"header": "The radiology department implements a policy and procedure for reporting of critical results.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There is a policy and procedure for reporting of critical results developed in consultation with clinical departments."
+				},
+				{
+					"header": "The policy defines the notified party and mean of communication."
+				},
+				{
+					"header": "The policy defines the “read- back“ sequence of reporting of critical results."
+				},
+				{
+					"header": "The policy defines the proper documentation of a notification event, which includes:",
+
+					"details": [
+						"Date and time of notification.",
+						"Patient identification.",
+						"The critical result.",
+						"Documentation of read-back.",
+						"Identification of the notifying person.",
+						"Identification of the notified person."
+					]
+				}
+			]
+		},
+		{
+			"serial": 7,
+
+			"header": "Previous radiological studies can always be accessed.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There is a master X-ray jacket or an access to all archived previous radiological studies (Picture Archiving and Communication System-PACS) for every patient."
+				}
+			]
+		},
+		{
+			"serial": 8,
+
+			"header": "The radiology department has a documented and implemented safety plan.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There is a safety plan that indicates the periodic inspection, maintenance, and calibration of all equipment."
+				},
+				{
+					"header": "The safety plan involves the management of radioactive materials used for therapeutic and diagnostic purposes, particularly with regard to handling, storing, and transportation."
+				},
+				{
+					"header": "The safety plan involves posting of safety warnings on the doors."
+				},
+				{
+					"header": "The safety plan involves checking female patients for pregnancy before exposure."
+				},
+				{
+					"header": "The safety plan indicates monitoring of the staff for radiation exposure, at least quarterly."
+				},
+				{
+					"header": "The safety plan involves the provision and regular testing of radiation protection aprons and thyroid and gonad shields for staff and patients."
+				},
+				{
+					"header": "Records are available indicating the radiation dosimetry tools and staff radiation exposure for the past twelve months."
+				},
+				{
+					"header": "The safety plan is implemented as evidenced by the daily practice."
+				}
+			]
+		},
+		{
+			"serial": 9,
+
+			"header": "The radiology department has a documented and implemented protocol for interventional radiological procedures.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There is a documented protocol for interventional radiological procedures, which indicates pre- procedural assessments (patient and procedure verification, rationale for the procedure, past history and history of allergic reactions, coagulation profile, informed consent with explanation of risks and benefits)."
+				},
+				{
+					"header": "The protocol indicates monitoring requirements during and after the procedure."
+				},
+				{
+					"header": "Findings of patient assessment and monitoring are documented in the patient’s medical record."
+				}
+			]
+		},
+		{
+			"serial": 10,
+
+			"header": "The radiology department ensures the safety of diagnostic imaging equipment.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The radiology department ensures the following tests are conducted at least annually:",
+					
+					"details": [
+						"Automatic Exposure Control (AEC) test.",
+						"Kvp reproducibility and repeatability.",
+						"Half Value Layer test.",
+						"Alignment of collimator and x-ray field.",
+						"Mean glandular dose test (for mammography)."
+					]
+				},
+				{
+					"header": "The radiology department implements corrective actions accordingly."
+				}
+			]
+		}
+	]
+}

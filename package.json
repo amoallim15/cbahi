@@ -1,0 +1,43 @@
+{
+  "name": "cbahi.dev",
+  "version": "0.0.1",
+  "description": "CBAHI",
+  "main": "server.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npm run build:packages && npm run build:stylus && npm run build:bower",
+    "build:packages": "npm update",
+    "build:stylus": "stylus public --compress",
+    "build:bower": "npm run build:bower:angular && npm run build:bower:ui-router && npm run build:bower:font-awesome && npm run build:bower:google-maps && npm run build:bower:bootstrap && npm run build:bower:jquery && npm run build:bower:toastr",
+    "build:bower:angular": "sudo bower install angular --save --allow-root",
+    "build:bower:ui-router": "sudo bower install ui-router --save --allow-root",
+    "build:bower:font-awesome": "sudo bower install font-awesome --save --allow-root",
+    "build:bower:google-maps": "sudo bower install google-maps --save --allow-root",
+    "build:bower:bootstrap": "sudo bower install bootstrap#4 --save --allow-root",
+    "build:bower:jquery": "sudo bower install jquery --save --allow-root",
+    "build:bower:toastr": "sudo bower install toastr --save --allow-root"
+  },
+  "author": "Ali Moallim",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.15.2",
+    "bower": "^1.7.9",
+    "connect-mongo": "^1.2.1",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.14.0",
+    "express-session": "^1.14.0",
+    "moment": "^2.14.1",
+    "mongoose": "^4.5.3",
+    "morgan": "^1.7.0",
+    "nib": "^1.1.0",
+    "passport": "^0.3.2",
+    "q": "^1.4.1",
+    "stylus": "^0.54.5"
+  },
+  "devDependencies": {
+    "bower": "^1.7.9",
+    "stylus": "^0.54.5"
+  }
+}

@@ -1,0 +1,18 @@
+{
+	"serial": 17,
+
+	"title": "Emergency Care",
+
+	"code": "ER",
+
+	"introduction": "To meet the needs of the patient population being served, the hospital has to handle emergency cases that require immediate examination and treatment. The hospital must provide emergency services by setting up an emergency room that is well staffed and equipped. The emergency room services should be organized to provide optimum care for patients in a safe, appropriate, efficient, effective, responsive and caring manner. Emergency services should be directed and coordinated in a collaborative manner.\n A reliable and consistent triage system performed by qualified staff should be established and used to assess all patients on arrival. It is essential that the patient’s problems are assessed and the appropriate treatment arranged taking into account the degree of urgency and clinical condition of the patient. For all patients, documentation should be detailed, accurate, professional and maintained.\n This chapter addresses the following:",
+
+	"concerns": [
+		"Staff qualifications, plan and availability",
+		"Equipment and supplies",
+		"Triage process",
+		"Policies and procedures",
+		"Patient assessment and care",
+		"Medical records documentation"
+	]
+}

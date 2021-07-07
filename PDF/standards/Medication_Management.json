@@ -1,0 +1,1302 @@
+{
+	"code": "MM",
+	"standards": [
+		{
+			"serial": 1,
+
+			"header": "Patient specific information is readily accessible to all healthcare professionals involved in the medication management system.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital has a multidisciplinary policy and procedure on patient specific information to be readily accessible to all healthcare professionals. The information includes, but is not limited to, the following:",
+
+					"details": [
+						"Patient’s age and sex.",
+						"Current medications.",
+						"Diagnoses, co-morbidities.",
+						"Laboratory values.",
+						"Allergies.",
+						"Body weight and height.",
+						"Pregnancy and lactation status."
+					]
+				},
+				{
+					"header": "Except in emergency situations, patient specific information is accessible when needed to all healthcare professionals involved in the medication management system."
+				}
+			]
+		},
+		{
+			"serial": 2,
+
+			"header": "The pharmaceutical care department has a clear organizational structure and is directed by a qualified pharmacist.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The pharmaceutical care department has a clear organizational structure."
+				},
+				{
+					"header": "The head of pharmaceutical care is a licensed pharmacist, qualified by education, training, and experience."
+				},
+				{
+					"header": "The head of pharmaceutical care has a valid professional registration with the Saudi Commission of Health Specialties and Ministry of Health practice license in Saudi Arabia, as applicable."
+				},
+				{
+					"header": "The authorities and accountabilities of the head of the pharmaceutical care is clearly delineated in a job description and updated every three years."
+				}
+			]
+		},
+		{
+			"serial": 3,
+
+			"header": "The pharmaceutical care department has adequate number of qualified staff.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The pharmaceutical care department has adequate number of staff qualified by education, training, and experience."
+				},
+				{
+					"header": "There is a current staffing plan based on work load statistics that ensures availability of sufficient staff resources to deliver the service."
+				},
+				{
+					"header": "The staff responsible for intravenous admixtures, parenteral nutrition, chemotherapy, and drug information services have appropriate training and competency assessment."
+				},
+				{
+					"header": "The quality coordinator has appropriate certification/training."
+				},
+				{
+					"header": "There is a structured orientation program where new staff are briefed on pharmaceutical care and relevant aspects of the facility to prepare them for their roles and responsibilities."
+				},
+				{
+					"header": "There is a process to ensure that the new employee's competency is evaluated before allowed to work independently."
+				},
+				{
+					"header": "There are continuing professional development activities for all pharmaceutical care staff."
+				}
+			]
+		},
+		{
+			"serial": 4,
+
+			"header": "The pharmaceutical care and medication use in the hospital are well planned and comply with laws and regulations of relevant authorities and the Saudi Food and Drug Authority (SFDA).",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Organization and management of medications throughout the hospital (procurement, storage, prescribing, preparing and dispensing, administration, and monitoring) are guided by clear multidisciplinary plan or policy."
+				},
+				{
+					"header": "Policies and procedures are developed in collaboration with relevant staff, such as medical, nursing, and management staff."
+				},
+				{
+					"header": "Updated policies and procedures manual is readily accessible to all healthcare professionals involved in medication use."
+				},
+				{
+					"header": "Appropriate sources of drug information are readily available to all healthcare professionals involved in medication use. (e.g., books, manuals, CDs/DVDs, online subscription to drug information resources)."
+				},
+				{
+					"header": "The pharmaceutical care services are provided twenty four hours a day, seven days a week for inpatients and emergency patients."
+				},
+				{
+					"header": "There is a pharmacist on-call whenever the inpatient pharmacy is closed."
+				}
+			]
+		},
+		{
+			"serial": 5,
+
+			"header": "The hospital has a system for the safety of high-alert medications.",
+
+			"tags": ["ESR"],
+
+			"details": [
+				{
+					"header": "There is a written multidisciplinary plan for managing high-alert medications and hazardous pharmaceutical chemicals. It includes identification, location, labeling, storage, dispensing, and administration of high-alert medications."
+				},
+				{
+					"header": "The hospital identifies an annually updated list of high-alert medications and hazardous pharmaceutical chemicals based on its own data and national and international recognized organizations (e.g., Institute of Safe Medication Practice, World Health Organization). The list contains, but is not limited to, the following:",
+
+					"details": [
+						"Controlled and narcotics medications.",
+						"Neuromuscular blockers.",
+						"Chemotherapeuticagents.",
+						"Concentrated electrolytes (e.g., hypertonic sodium chloride, concentrated potassium salts).",
+						"Antithrombotic medications (e.g., heparin, warfarin).",
+						"Insulins.",
+						"Anesthetic medications (e.g., propofol, ketamine).",
+						"Investigational (research) drugs, as applicable.",
+						"Other medications as identified by the hospital."
+					]
+				},
+				{
+					"header": "The hospital plan for managing high-alert medications and hazardous pharmaceutical chemicals is implemented. This includes, but is not limited to, the following:",
+
+					"details": [
+						"Improving access to information about high-alert medications.",
+						"Limiting access to high-alert medications.",
+						"Using auxiliary labels or computerized alerts if available.",
+						"Standardizing the ordering, transcribing, preparation, dispensing, administration, and monitoring of high-alert medications.",
+						"Employing independent double checks."
+					]
+				},
+				{
+					"header": "The hospital develops and implements standard concentrations for all medications administered by intravenous infusion."
+				}
+			]
+		},
+		{
+			"serial": 6,
+
+			"header": "The hospital has a system for the safety of look-alike and sound-alike (LASA) medications.",
+
+			"tags": ["ESR"],
+
+			"details": [
+				{
+					"header": "There is a multidisciplinary policy and procedure on handling look- alike/sound-alike (LASA) medications."
+				},
+				{
+					"header": "The hospital reviews and revises annually its list of confusing drug names, which include LASA medication name pairs that the hospital stores, dispenses, and administers."
+				},
+				{
+					"header": "The hospital takes actions to prevent errors involving LASA medications including the following, as applicable:",
+
+					"details": [
+						"Providing education on LASA medications to healthcare professionals at orientation and as part of continuing education.",
+						"Using both the brand and generic names for prescribing LASA medications.",
+						"Writing the diagnosis/indication of the LASA medication on the prescription.",
+						"Changing the appearance of look-alike product package.",
+						"Reading carefully the label each time a medication is accessed, and/or prior to administration.",
+						"Minimizing the use of verbal and telephone orders.",
+						"Checking the purpose/indication of the medication on the prescription prior to dispensing and administering.",
+						"Placing LASA medications in locations separate from each other or in non-alphabetical order."
+					]
+				}
+			]
+		},
+		{
+			"serial": 7,
+
+			"header": "The hospital establishes a multidisciplinary pharmacy and therapeutics committee or equivalent to provide oversight of the hospital formulary and medication use.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There is a pharmacy and therapeutics committee chaired by a senior medical or pharmaceutical care staff member."
+				},
+				{
+					"header": "There are terms of reference for the pharmacy and therapeutics committee that include committee’s functions, membership, quorum, frequency of meetings, approval, and distribution of minutes."
+				},
+				{
+					"header": "The pharmacy and therapeutics committee meets on a regular basis (at least quarterly)."
+				},
+				{
+					"header": "The meeting minutes of the committee reflects the members in attendance, items discussed, decisions reached, lead accountability assigned for action undertaken and subsequent reporting, as well as follow-up data for these activities."
+				},
+				{
+					"header": "Functions of the pharmacy and therapeutics committee include, but are not limited to, the following:",
+
+					"details": [
+						"Serve in an evaluative, educational, and advisory capacity to the medical staff and hospital management in all matters pertaining to the use of medications.",
+						"Develop and approve criteria for selecting medications that include at least indications, effectiveness, risks (potential for medication errors, abuse potential, and sentinel events), or cost.",
+						"Develop a formulary of drugs accepted for use in the hospital and provide for its constant revision.",
+						"Establish programs and procedures that help ensure safe and effective drug therapy.",
+						"Establish programs and procedures that help ensure cost-effective drug therapy.",
+						"Establish or plan suitable educational programs for the hospital’s professional staff on matters related to drug use.",
+						"Participate in quality improvement activities related to distribution, administration, and use of medications.",
+						"Monitor and evaluate adverse drug events and make appropriate recommendations to prevent their recurrence.",
+						"Establish evidence-based therapeutic guidelines according to the scope of services of the hospital (e.g., intravenous iron, intravenous immunoglobulin, albumin, heparin, chemo protocols, high alert medications, and electrolyte management guidelines).",
+						"Initiate and/or direct drug use evaluation programs and studies,reviewtheresultsof such activities, and make appropriate recommendations to optimize drug use.",
+						"Advise the pharmaceutical care department in the implementation of effective drug distribution and control procedures.",
+						"Disseminate information on its actions and approved recommendations to all staff.",
+						"The committee conducts an annual review of its hospital formulary based on safety and efficacy information (e.g., Saudi FDA warnings, international medication safety alerts, hospital-based adverse drug reaction reports, and drug utilization evaluation studies)."
+					]
+				}
+			]
+		},
+		{
+			"serial": 8,
+
+			"header": "The hospital has an updated, structured, and well organized drug formulary.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital has a structured and well organized formulary that is updated annually."
+				},
+				{
+					"header": "Healthcare professionals involved in prescribing, ordering, dispensing, administering, and patient monitoring processes are involved in developing, evaluating, updating and maintaining the hospital formulary."
+				},
+				{
+					"header": "The hospital formulary is accessible to all those involved in medication management."
+				},
+				{
+					"header": "The hospital formulary is properly indexed (alphabetical index for generics and trade names of drugs), and properly classified using therapeutic classification."
+				},
+				{
+					"header": "The hospital formulary includes short drug monographs that illustrate the generic drug name, strength, and dosage form(s), indication(s), adverse drug reactions, and prescribing information."
+				},
+				{
+					"header": "The hospital formulary provides guidance on antibiotics use (both prophylactic and therapeutic uses)."
+				},
+				{
+					"header": "he hospital formulary provides a list of approved prescribing abbreviations."
+				},
+				{
+					"header": "The hospital formulary provides a list of prohibited prescribing abbreviations."
+				},
+				{
+					"header": "The hospital formulary provides appendixes on important policies, therapeutic guidelines, drug safety in pregnancy and lactation, and dose adjustment in organ failure."
+				}
+			]
+		},
+		{
+			"serial": 9,
+
+			"header": "The hospital has a system for procurement of medications that are not on the hospital’s formulary (non-formulary medications).",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There is a policy and procedure for selection, approval, and procurement of non-formulary medications within an acceptable time frame."
+				},
+				{
+					"header": "A patient-specific non-formulary drug request form is readily available."
+				},
+				{
+					"header": "There is proper handling of non-formulary drug requisition within an acceptable time frame."
+				},
+				{
+					"header": "There is a regular review of non-formulary drug requests by the pharmacy and therapeutics committee or an equivalent multidisciplinary body."
+				}
+			]
+		},
+		{
+			"serial": 10,
+
+			"header": "The hospital has a system for handling out of stock, shortage and disaster needs of medications.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital implements a policy and procedure on proper communication of medication shortage and outage to prescribers and other healthcare professionals involved in medication management and obtaining medications in the event of a disaster."
+				},
+				{
+					"header": "The pharmacy and therapeutics committee develops and approves medication substitution protocols in the event of medication shortage or outage."
+				},
+				{
+					"header": "There is implementation of the hospital approved medication substitution protocols and staff awareness."
+				},
+				{
+					"header": "There is a plan for emergency preparedness to respond to the special and large demand of medications during internal and external disasters. The plan is tested for effectiveness and integrated with the general hospital plan."
+				}
+			]
+		},
+		{
+			"serial": 11,
+
+			"header": "The hospital has a safe and secure system for the storage of regular medications and nutrition products in stores, pharmacies, and patient care areas.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There is a policy and procedure on proper storage and control of medications, nutrition products, and free medical samples (from the point of receipt until the point of administration)."
+				},
+				{
+					"header": "There is a policy and procedure to control the access of pharmaceutical care and non- pharmaceutical care staff to stores, pharmacies, and patient care areas including after hours and in case of emergency (e.g., fire, flood)."
+				},
+				{
+					"header": "There are measures in place to secure medications storage areas including limited access, proper locking procedures, and door keys handling."
+				},
+				{
+					"header": "Only authorized individuals have access to stored medications."
+				},
+				{
+					"header": "Medications are stored in a way to avoid mixing with labels showing the drug name and expiry date."
+				},
+				{
+					"header": "No medications are stored directly on floor (a minimum of ten centimeters is left to manage spills). Medications are not stacked so high to block sprinklers or come in contact with overhead lights or pipes."
+				},
+				{
+					"header": "Medications are stored according to manufacturer’s recommendations (temperature, light, humidity, sanitation)."
+				},
+				{
+					"header": "There is an appropriate storage area for regular medications with controlled temperature (between 18 and 25 degrees centigrade), twenty four hours a day, seven days a week."
+				},
+				{
+					"header": "The room air temperature is checked and documented at least once daily on the temperature log sheet."
+				},
+				{
+					"header": "Temperature records are kept for at least three years."
+				},
+				{
+					"header": "All antiseptics, disinfectants, and medications for external use are stored separately from enteral and injectable medications."
+				},
+				{
+					"header": "The “first expiry/ first out” (FEFO) principle is followed."
+				},
+				{
+					"header": "All medication storage areas are inspected at least monthly by the pharmaceutical care according to the hospital policy to ensure proper storage of medications. Inspection includes, but is not limited to: availability, stock level, expiry date, and storage conditions."
+				},
+				{
+					"header": "Expired and damaged medications are clearly labeled and separated from other drugs until its removal and proper destruction."
+				},
+				{
+					"header": "Medication quality issues are reported to the Saudi FDA, as required."
+				}
+			]
+		},
+		{
+			"serial": 12,
+
+			"header": "The hospital has a safe and secure system for storage of refrigerated and frozen medications, biologicals, and vaccines in stores, pharmacies, and patient care areas.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There is a policy and procedure on proper storage and control of refrigerated and frozen medications from the point of receipt until the point of administration."
+				},
+				{
+					"header": "There are medication refrigerators and freezers for storing refrigerated and frozen medications, biologicals and vaccines."
+				},
+				{
+					"header": "All medication refrigerators and freezers are equipped with appropriate thermometers or equivalent device for temperature recording."
+				},
+				{
+					"header": "The refrigerators’ temperature is checked and documented at least once daily on the temperature log sheet."
+				},
+				{
+					"header": "The refrigerator’s temperature is kept between (2-8°C)."
+				},
+				{
+					"header": "The freezer’s temperature is kept between (-10 and -25°C)."
+				},
+				{
+					"header": "All vaccine refrigerators are connected to emergency power source and electric outlets are marked accordingly."
+				},
+				{
+					"header": "Vaccine refrigerator’s temperature is continuously recorded around the clock or an equivalent process is in place to monitor temperature around the clock."
+				},
+				{
+					"header": "Temperature records are kept for at least three years."
+				},
+				{
+					"header": "There is a clear and defined mechanism to deal with electric power outage or out-of-range temperature of the medication refrigerators and freezers to ensure the integrity of the affected medications before its reuse."
+				},
+				{
+					"header": "Food, drinks, biological samples, and culture media are not allowed inside any medication refrigerator or freezer."
+				}
+			]
+		},
+		{
+			"serial": 13,
+
+			"header": "The hospital has a safe and secure system for the storage and safe management of hazardous medications and pharmaceutical chemicals.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There is a written policy on proper storage and handling of hazardous medications and pharmaceutical chemicals."
+				},
+				{
+					"header": "The hospital has a list of hazardous medications and pharmaceutical chemicals in areas where they are stored or used."
+				},
+				{
+					"header": "Hazardous medications and pharmaceutical chemicals are stored separately on low shelves and in the original labeled containers."
+				},
+				{
+					"header": "Flammables and volatile substances are stored in appropriate safety cabinets in well ventilated areas."
+				},
+				{
+					"header": "Spill kits and personal protective equipment are readily available."
+				},
+				{
+					"header": "For staff involved in the handling of chemicals and hazardous medications (such as chemotherapeutic agents) who are attempting to conceive, pregnant, or breast feeding, a structured process is in place to review potential exposure risks and offer alternative work assignment."
+				},
+				{
+					"header": "Material safety data sheets (MSDS) for all available hazardous medications and pharmaceutical chemicals are available and accessible to staff."
+				},
+				{
+					"header": "Eye wash station and emergency water shower are available where hazardous medications and pharmaceutical chemicals are located."
+				},
+				{
+					"header": "The hospital staff are well educated on the proper storage and handling of hazardous medications and pharmaceutical chemicals and spill management."
+				}
+			]
+		},
+		{
+			"serial": 14,
+
+			"header": "The hospital has a system for ensuring stability of medications available in multi-dose containers.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital develops and maintains a set of guidelines for ensuring stability of multi-dose vials, vaccines, multi-dose oral liquids, and other multi-dose medications (e.g., eye, ear, and nasal drops, creams, ointments, nebulization solutions)."
+				},
+				{
+					"header": "The hospital ensures that all open multi-dose containers are labeled with open date, expiry date, initials, and time (if necessary)."
+				},
+				{
+					"header": "The hospital ensures that no expired open or unlabeled open multi-dose containers are available in patient care areas."
+				}
+			]
+		},
+		{
+			"serial": 15,
+
+			"header": "The hospital has a system for ensuring accessibility, availability, monitoring, and security of emergency medications.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital develops and maintains a standardized set of guidelines for emergency drugs for crash carts and emergency medical bags in accordance with the current Saudi Heart Association recommendations."
+				},
+				{
+					"header": "Emergency medications are available in the patient care units and readily accessible to meet emergency needs."
+				},
+				{
+					"header": "The emergency medications in the crash carts and emergency medical bags are protected from loss or theft using safety plastic seal."
+				},
+				{
+					"header": "Plastic seals of crash carts and emergency bags are stocked in a safe place under supervision of pharmaceutical care or nursing."
+				},
+				{
+					"header": "There is a process in place for monitoring emergency medications and replenishing them in a timely manner after use or when expired or damaged."
+				},
+				{
+					"header": "The hospital maintains documents of emergency medications inspection on every shift by nursing staff."
+				},
+				{
+					"header": "The hospital maintains documents of emergency medications inspection every month by pharmaceutical care staff."
+				}
+			]
+		},
+		{
+			"serial": 16,
+
+			"header": "The hospital has a safe and secure system for managing medications in the patient care areas.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital implements a multidisciplinary policy and procedure on medications assignment as floor stocks in limited quantities according to the needs of each service unit."
+				},
+				{
+					"header": "Anesthesia reversal agents are available in operating rooms and areas where moderate or deep sedation is performed."
+				},
+				{
+					"header": "Oxytocics are available in the labor and delivery unit."
+				},
+				{
+					"header": "Benzodiazepine and narcotics antagonists are available in all patient care areas where benzodiazepines and narcotics are stocked."
+				},
+				{
+					"header": "All medications in the patient care areas are well separated and properly labeled."
+				},
+				{
+					"header": "Concentrated electrolytes are not allowed in patient care areas (unless patient safety necessitates their immediate use). All necessary precautions and separate locked cabinet with proper signage are in place to prevent inadvertent administration of concentrated electrolytes."
+				}
+			]
+		},
+		{
+			"serial": 17,
+
+			"header": "There is a system to identify all medications brought into the hospital by patients or their families.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital implements a multidisciplinary policy and procedure on handling medications brought into the hospital by patients or their families (patient’s own medications)."
+				},
+				{
+					"header": "Patient’s own medications are checked for integrity and properly labeled if permitted for use, by a qualified pharmacist."
+				},
+				{
+					"header": "There is proper documentation of patient’s own medications in the medical record (ordering, dispensing, and administration records)."
+				},
+				{
+					"header": "When patient’s own medication is not permitted, both patient and prescriber are informed."
+				}
+			]
+		},
+		{
+			"serial": 18,
+
+			"header": "There is a system for storing narcotics, psychotropic and other controlled medications in accordance with relevant laws and regulations.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital implements a multidisciplinary policy and procedure on proper storage of narcotics, psychotropic and other controlled medications."
+				},
+				{
+					"header": "Controlled and narcotics medications are kept behind steel doors with double locks."
+				},
+				{
+					"header": "The hospital allows a limited floor stock supply of controlled and narcotics medications to meet patients’ needs."
+				},
+				{
+					"header": "The hospital maintains proper documentation of drug count, endorsement, and accountability."
+				},
+				{
+					"header": "The hospital maintains proper documentation of empty containers of narcotics and proper disposal of unused portions."
+				}
+			]
+		},
+		{
+			"serial": 19,
+
+			"header": "The hospital identifies qualified healthcare professionals permitted to prescribe or order controlled and narcotic medications.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital has a multidisciplinary policy and procedure on identification of those individuals permitted to prescribe or order controlled and narcotic medications and their prescribing privileges."
+				},
+				{
+					"header": "Only individuals permitted by the hospital and relevant laws and regulations prescribe or order controlled and narcotic medications."
+				},
+				{
+					"header": "Individuals permitted to prescribe or order controlled and narcotic medications are known to pharmaceutical care staff and nursing staff who dispense medications."
+				},
+				{
+					"header": "The hospital implements its policy on prescribing privileges such as those for controlled and narcotic substances, chemotherapy agents, high-alert, radioactive or investigational, and other specialty medications."
+				}
+			]
+		},
+		{
+			"serial": 20,
+
+			"header": "Safe prescribing, ordering, and transcribing of medication orders are guided by a clear policy and procedure.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There is a multidisciplinary policy and procedure that clearly defines a complete prescription."
+				},
+				{
+					"header": "All currently prescribed or ordered medications are written in a uniform location in the patient’s medical record."
+				},
+				{
+					"header": "Medication reconciliation is conducted at the time of admission and discharge."
+				},
+				{
+					"header": "Patient identification, diagnosis, indication, or clinical condition are made available with each medication order."
+				},
+				{
+					"header": "Medications are prescribed by generic name except when brand names are acceptable or required."
+				},
+				{
+					"header": "Staff comply with the proper use of approved and prohibited prescribing abbreviations."
+				},
+				{
+					"header": "The pharmaceutical care team conducts corrective actions when medication order is incomplete, illegible, or unclear."
+				},
+				{
+					"header": "All medications are accurately transcribed into the medication administration record (MAR) after being verified against the original physician order or prescription."
+				}
+			]
+		},
+		{
+			"serial": 21,
+
+			"header": "The hospital ensures safe prescribing, ordering and transcribing of specific types of medication orders.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital implements a policy and procedure on specific types of medication orders including as needed (PRN), standing, automatic stop (ASO), titrating, tapering, range, weight-based, body surface area-based medication orders, and discharge or transfer orders."
+				},
+				{
+					"header": "The hospital prohibits blanket orders (e.g., resume pre-op medications)."
+				},
+				{
+					"header": "Prescribing controlled drugs is according to laws and regulations of the Saudi Food and Drug Authority and other relevant authorities."
+				},
+				{
+					"header": "The transcription of medication order into the medication administration record (MAR) clearly reflects the type of order."
+				}
+			]
+		},
+		{
+			"serial": 22,
+
+			"header": "The hospital has a system for prescribing antibiotics.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital implements updated and approved multidisciplinary guidelines on the proper prescribing of antibiotics."
+				},
+				{
+					"header": "The antibiotics guidelines are updated as recommended by the pharmacy and therapeutics committee utilizing the hospital anti-biogram."
+				},
+				{
+					"header": "There is proper implementation of the approved guidelines for antibiotics prophylaxis before surgery and/or dental procedures."
+				},
+				{
+					"header": "There is proper implementation of the approved guidelines for empiric and therapeutic use of antibiotics."
+				},
+				{
+					"header": "There is proper implementation of the approved prescribing privileges for antibiotics."
+				}
+			]
+		},
+		{
+			"serial": 23,
+
+			"header": "The hospital has a system for managing the use of verbal and telephone orders of medications.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital has a multidisciplinary policy and procedure that control ordering, verifying, authenticating and limiting the use of verbal and telephone orders of medications. The policy includes a list of medications not allowed to be prescribed by verbal and telephone order."
+				},
+				{
+					"header": "The hospital staff understand the proper use of verbal and telephone orders (accepting, documenting, verifying, authenticating, and executing orders)."
+				},
+				{
+					"header": "Verbal and telephone orders are limited to emergent and urgent situation where immediate written or electronic medication order is not feasible. Clear definition of emergent and urgent situations should be included."
+				},
+				{
+					"header": "Time frame for authentication of verbal (as soon as the emergency is over) and telephone orders (within twenty four hours) is clearly stated and implemented."
+				}
+			]
+		},
+		{
+			"serial": 24,
+
+			"header": "The hospital has a system for prescribing non-formulary medications and prescribing formulary medications for off-label (unapproved) indication or investigation.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital has a multidisciplinary policy and procedure on prescribing non-formulary medications."
+				},
+				{
+					"header": "The hospital has a multidisciplinary policy and procedure on prescribing formulary medications for off-label (unapproved) indications."
+				},
+				{
+					"header": "There is clear documentation, on a special request form, of every individual case where non- formulary medication is used."
+				},
+				{
+					"header": "There is clear documentation, on a special request form, of every individual case where a formulary medication is used for unapproved indication or investigation."
+				},
+				{
+					"header": "The department head approves every single case where non-formulary medication is used or where a formulary medication is used for unapproved indication or investigation."
+				},
+				{
+					"header": "The pharmacy and therapeutics committee reviews and monitors all cases of using non-formulary medication and all cases of using formulary medication for unapproved indication or investigation."
+				}
+			]
+		},
+		{
+			"serial": 25,
+
+			"header": "The hospital has a system for reviewing the appropriateness of medication orders before medication is dispensed.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital maintains an updated and complete medication profile (electronic or paper record) for each patient in the pharmaceutical care department."
+				},
+				{
+					"header": "A trained pharmacist reviews all medication orders or prescriptions before dispensing (except in emergencies, life saving situations, or diagnostic imaging where the prescriber is physically present)."
+				},
+				{
+					"header": "All medication orders are reviewed for:",
+
+					"details": [
+						"Patient’s allergies or sensitivities.",
+						"Approved indications for use.",
+						"The rapeutic duplications.",
+						"Existing or potential interactions (drug-drug and drug-food interactions).",
+						"Appropriateness of the medication dose, frequency, and route of administration.",
+						"Contraindications."
+					]
+				},
+				{
+					"header": "All issues, concerns, or questions regarding medication order or prescription are clarified with the prescriber and documented before medication dispensing."
+				}
+			]
+		},
+		{
+			"serial": 26,
+
+			"header": "The hospital has a system for safe preparation of sterile compounded preparations.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital has a manual for proper aseptic technique and intravenous admixture (e.g., the guidelines of the Saudi Food and Drug Authority, the American Society of Health-System Pharmacists, United States Pharmacopoeia USP <797>)."
+				},
+				{
+					"header": "Sterile compounded preparations are performed by the pharmaceutical care except during emergency or urgency situations in which a delay could harm the patient or when product stability is short."
+				},
+				{
+					"header": "Sterile compounded preparations are performed in the clean room by pharmaceutical care staff, qualified in intravenous admixture and aseptic technique."
+				},
+				{
+					"header": "The hospital provides and documents training and competency assessment of non-pharmaceutical care staff involved in compounding sterile preparations outside the pharmaceutical care department during emergency or urgency situations."
+				},
+				{
+					"header": "There is full compliance with aseptic technique in all medication preparation areas all over the hospital."
+				},
+				{
+					"header": "Visual inspection is performed for all compounded sterile products by a trained individual for particulate, discoloration, or evidence of loss of integrity."
+				},
+				{
+					"header": "The pharmaceutical care has a clean room that is a functionally separate facility to maintain product sterility."
+				},
+				{
+					"header": "The design of the clean room is guided by the professional organizations’ standards (e.g., the American Society of Health-System Pharmacists, United States Pharmacopoeia USP <797>)."
+				},
+				{
+					"header": "The pharmaceutical care uses ISO Class 5 laminar airflow hood for preparing sterile injectable preparations and all other sterile preparations."
+				},
+				{
+					"header": "The laminar airflow hood is tested at least every six months and in accordance with the manufacturer’s requirements, the Saudi Food and Drug Authority guidelines and the professional organizations’ standards ( e.g, American Society of Health-System Pharmacists, United States Pharmacopoeia USP <797>)."
+				},
+				{
+					"header": "The hospital implements the written and approved guidelines on intravenous drug stability and compatibility."
+				},
+				{
+					"header": "Any sterile preparation compounded outside the clean room (e.g., in the patient care area during emergency or urgency situation) is done in an appropriate environment (location, space, cleanliness, traffic, etc.) to prevent contamination."
+				},
+				{
+					"header": "The pharmaceutical care regularly (at least once a month) inspects all areas where sterile preparations are compounded outside the pharmaceutical care clean room."
+				},
+				{
+					"header": "The pharmaceutical care monitors the performance and qualifications of non-pharmacists permitted to prepare sterile compounded medications outside the pharmaceutical care department."
+				},
+				{
+					"header": "There are written guidelines for safe recycling of returned (un-used) sterile preparations."
+				}
+			]
+		},
+		{
+			"serial": 27,
+
+			"header": "The hospital has a system for safe preparation of parenteral nutrition products.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There is a multidisciplinary policy and procedure on preparation and dispensing of parenteral nutrition products."
+				},
+				{
+					"header": "All parenteral nutrition products are compounded in the pharmaceutical care clean room under the laminar air flow hood."
+				},
+				{
+					"header": "The hospital permits only pharmaceutical care staff qualified in aseptic technique and parenteral nutrition to prepare parenteral nutrition products."
+				},
+				{
+					"header": "Aseptic technique is strictly followed by all staff in the parenteral nutrition compounding area."
+				},
+				{
+					"header": "Double check policy is implemented at each stage of compounding and visual inspection of the final parenteral nutrition product."
+				},
+				{
+					"header": "All essential macro-and micro-nutrients of parenteral nutrition are available."
+				},
+				{
+					"header": "Appropriate membrane filters are available for the different types of parenteral nutrition and different patient-age groups."
+				},
+				{
+					"header": "The hospital implements the written and approved guidelines on stability and compatibility of parenteral nutrition products."
+				},
+				{
+					"header": "When parenteral nutrition products are compounded by an outside vendor, the pharmaceutical care team maintains a copy of the contract and ensures the compliance of the vendor with quality and safety standards. Contract monitoring is conducted at least annually with corrective actions accordingly."
+				}
+			]
+		},
+		{
+			"serial": 28,
+
+			"header": "The hospital has a system for safe preparation of sterile chemotherapy compounded preparations.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There is a multidisciplinary policy and procedure on preparation and handling of sterile compounded chemotherapy preparations."
+				},
+				{
+					"header": "The chemotherapy compounding services is operated and managed by the pharmaceutical care."
+				},
+				{
+					"header": "The hospital permits only pharmaceutical care staff qualified in chemotherapy compounding to work in the chemotherapy compounding area."
+				},
+				{
+					"header": "Aseptic technique is strictly followed by all staff in the chemotherapy compounding area."
+				},
+				{
+					"header": "Visual inspection is performed for all compounded sterile chemotherapy preparations by a trained pharmacist for particulate, discoloration or evidence of loss of integrity."
+				},
+				{
+					"header": "The chemotherapy compounding area is physically and functionally separate area to maintain product sterility and prevent cross contamination."
+				},
+				{
+					"header": "The design of the chemotherapy compounding area is guided by the professional organizations’ standards (e.g., the American Society of Health-System Pharmacists, United States Pharmacopoeia USP <797>)."
+				},
+				{
+					"header": "The pharmaceutical care uses ISO Class 5 biological safety cabinet with 100% exhaust air outside the building (class II B vertical laminar airflow hood) for preparing chemotherapy."
+				},
+				{
+					"header": "The biological safety cabinet is tested at least every six months and in accordance with the manufacturer requirements. the Saudi Food and Drug Authority guidelines, and the professional organizations’ standards such as the American Society of Health-System Pharmacists (ASHP) and United States Pharmacopoeia (USP <797>)."
+				},
+				{
+					"header": "The hospital implements written and approved guidelines on chemotherapy drug stability and compatibility."
+				},
+				{
+					"header": "The hospital uses chemotherapy ziploc plastic bags to prevent accidental spills during transportation and storage of compounded chemotherapy preparations."
+				},
+				{
+					"header": "Special chemotherapy protective materials such as gloves, gowns, and masks are adequately available and consistently used."
+				},
+				{
+					"header": "Chemotherapy spill kits are available in all areas where chemotherapy agents are stored, prepared, dispensed, and/or administered."
+				},
+				{
+					"header": "Relevant staff are trained on the proper handling of chemotherapy spills."
+				},
+				{
+					"header": "Trash plastic bags for collection and disposal of contaminated materials and articles used for preparation, dispensing and/or administration of chemotherapy are as guided by the Saudi Food and Drug Authority (SFDA) and the international organizations standards such as Occupational Safety & Health Administration (OSHA)."
+				},
+				{
+					"header": "When chemotherapy products are compounded by an outside vendor, the pharmaceutical care team maintains a copy of the contract and ensures compliance of the vendor with quality and safety standards. Contract monitoring is conducted at least annually with corrective actions accordingly."
+				}
+			]
+		},
+		{
+			"serial": 29,
+
+			"header": "The hospital has a system for safe preparation of non-sterile compounded preparations (extemporaneous compounds).",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There is a multidisciplinary policy and procedure on non-sterile compounding of oral and topical preparations not readily available from manufacturers."
+				},
+				{
+					"header": "The pharmaceutical care has proper facilities for non-sterile compounding that include clean work bench with smooth surface, stainless steel sink with water supply, and storage cabinets."
+				},
+				{
+					"header": "The pharmaceutical care has essential equipment and glass wares that include sensitive balance, electric heater, mortar and pestle, beakers, flasks, and measuring cylinders."
+				},
+				{
+					"header": "The pharmaceutical care has a preparation manual (formulation book) that is properly referenced."
+				},
+				{
+					"header": "A log book is maintained for preparation name, strength, prepared quantity, batch number, preparation date and expiration date, prepared by and checked by."
+				},
+				{
+					"header": "When non-sterile compounded preparations are compounded by an outside vendor, the pharmaceutical care team maintains a copy of the contract and ensures compliance of the vendor with quality and safety standards. Contract monitoring is conducted at least annually with corrective actions accordingly."
+				}
+			]
+		},
+		{
+			"serial": 30,
+
+			"header": "The pharmaceutical care enforces the hospital guidelines for infection prevention and control.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "All areas where medications are stored, compounded, prepared, dispensed, and /or administered are clean, neat and well organized."
+				},
+				{
+					"header": "The pharmaceutical care has a separate housekeeping materials dedicated for the clean room."
+				},
+				{
+					"header": "A sink, antiseptic soap, and/or antiseptic hand rub are available in the pharmaceutical care department and all other areas where medications are stored, compounded, prepared, dispensed, and /or administered."
+				},
+				{
+					"header": "Hand washing technique, and antiseptic soap are in accordance with the hospital’s policy and procedures."
+				},
+				{
+					"header": "Pharmaceutical care staff observe the hospital approved standard precautions and understand the hospital’s isolation policy and procedure to reduce the risk of transmission of infection."
+				},
+				{
+					"header": "Food, drinks, or smoking are not allowed in the pharmaceutical care department and all other areas where medications are stored, compounded, prepared, dispensed, and /or administered."
+				},
+				{
+					"header": "Laminar air flow hood certification for operational efficiency and maintenance such as checking, cleaning and/or replacing filter are performed regularly and according to the manufacturer’s specifications."
+				},
+				{
+					"header": "The pharmaceutical care has a schedule for proper cleaning of laminar air flow hood work surface."
+				}
+			]
+		},
+		{
+			"serial": 31,
+
+			"header": "The hospital has a system for safe dispensing of medications.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital has a uniform system for dispensing and distribution of medications."
+				},
+				{
+					"header": "The hospital dispenses medications in the most ready-to-administer form possible (such as repackaged unit-doses) to minimize chance of error during distribution or administration."
+				},
+				{
+					"header": "The hospital dispenses quantities of medications consistent with patient needs."
+				},
+				{
+					"header": "The hospital dispenses no more than twenty four hours supply of medications for inpatient at a time except for bulk oral liquids and topical preparations."
+				},
+				{
+					"header": "The hospital dispenses medications with time frames defined by the hospital (such as STAT, now, routine)."
+				},
+				{
+					"header": "The hospital maintains records for all dispensed medications."
+				},
+				{
+					"header": "There is implementation of the independent double check during preparation and before dispensing of all high-alert medications."
+				}
+			]
+		},
+		{
+			"serial": 32,
+
+			"header": "The hospital has a system for labeling medications.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Medications prepared but not intended for immediate administration are labeled. This includes all injectable medications drawn into syringes or mixed with intravenous fluids for use inside the operating rooms or procedure areas."
+				},
+				{
+					"header": "Multiple medications for a single patient, such as those in the operating room or emergency room, must be labeled for drug name and dose/concentration."
+				},
+				{
+					"header": "All individualized medications prepared for multiple patients are labeled with all necessary information in a standardized format."
+				},
+				{
+					"header": "All individualized medications prepared for multiple patients are labeled with:",
+
+					"details": [
+						"Patient name and medical record number.",
+						"Patient location (ward, unit, room, bed number).",
+						"Medication name, dosage form, strength, and amount.",
+						"Directions for use.",
+						"Relevant cautionary instructions (e.g., refrigerate, shake before use, may cause drowsiness).",
+						"Date of preparation, beyond use date, and time (when beyond use date occurs in less than twenty four hours)."
+					]
+				},
+				{
+					"header": "All compounded intravenous admixture preparations are labeled with diluent name concentration, and its volume."
+				},
+				{
+					"header": "All compounded parenteral nutrition solutions are labeled with individual components quantities, and total volume."
+				},
+				{
+					"header": "All outpatient medications are labeled with patient name, medical record number, medication name, dosage form, strength, direction and duration for use, and cautions in a language and form the patient can understand."
+				}
+			]
+		},
+		{
+			"serial": 33,
+
+			"header": "The hospital has a system for obtaining medications when the pharmacy is closed.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There is a multidisciplinary policy and procedure on obtaining medications when the pharmacy is closed."
+				},
+				{
+					"header": "The hospital permits only trained registered nurses and those authorized to prescribe medications to access pharmacy after working hours."
+				},
+				{
+					"header": "The hospital has a limited list of approved medications to be accessible to non-pharmaceutical care staff when the pharmacy is closed."
+				},
+				{
+					"header": "A qualified on-call pharmacist is available to answer questions and provide medications other than those accessible to non-pharmacists."
+				}
+			]
+		},
+		{
+			"serial": 34,
+
+			"header": "The hospital has a system for handling recalled, discontinued, and damaged medications.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There is a multidisciplinary policy and procedure on retrieval and handling of recalled, discontinued, and damaged medications within specified time frame for patient safety."
+				},
+				{
+					"header": "The hospital recognizes and maintains on file all drug recall memorandums from the Saudi Food and Drug Administration, manufacturer, and/ or other relevant legal bodies."
+				},
+				{
+					"header": "The hospital notifies prescribers and individuals involved in prescribing, dispensing and administration of recalled, damaged, and discontinued medications."
+				},
+				{
+					"header": "The hospital informs patients that their medication has been recalled or discontinued for safety reasons."
+				},
+				{
+					"header": "The hospital complies with handling recalled, discontinued, and damaged medications guidelines."
+				}
+			]
+		},
+		{
+			"serial": 35,
+
+			"header": "The pharmaceutical care department has a system for provision of outpatient education and counseling.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The pharmaceutical care department has a system for provision of outpatient education and counseling that includes verbal explanation and instructions by a pharmacist to patients and their families on the safe and effective use, administration, and storage condition of medications."
+				},
+				{
+					"header": "Written educational information is given in a language and form the patient can understand."
+				},
+				{
+					"header": "Patient privacy is maintained during education and counseling."
+				}
+			]
+		},
+		{
+			"serial": 36,
+
+			"header": "The hospital has a safe system for drug administration.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital defines nurses and other clinical staff authorized to administer medications with or without supervision."
+				},
+				{
+					"header": "Qualifications, experiences, and competency assessments of individuals involved in drug administration are available in their personnel files."
+				},
+				{
+					"header": "The hospital guidelines for safe administration of intravenous push medications are available, disseminated and implemented in all patient care units. The guidelines include medication name, infusion time, nurse qualification and patient care unit."
+				},
+				{
+					"header": "The hospital has approved, disseminated, and implemented guidelines on standard drug administration time."
+				},
+				{
+					"header": "The hospital maintains accurate records of the disposal of the unused portion of narcotic drugs and controlled substances."
+				},
+				{
+					"header": "The hospital maintains updated and accurate records of drug administration."
+				},
+				{
+					"header": "Independent double check of all high alert medications is performed."
+				},
+				{
+					"header": "The hospital adopts safe administration and disposal of chemotherapy."
+				}
+			]
+		},
+		{
+			"serial": 37,
+
+			"header": "The hospital has a system to review and verify medications before administration.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital implements a multidisciplinary policy and procedure on proper verification of dispensed medications before administration (right patient, right medicine, right dose, right frequency, right route, and right time)."
+				},
+				{
+					"header": "Medications are verified against the medication administration record (MAR) before administration."
+				},
+				{
+					"header": "Medications are administered in the prescribed dose and by the correct route."
+				},
+				{
+					"header": "Medications are administered at the correct time (the approved hospital standard administration time)."
+				},
+				{
+					"header": "Medications are administered after verifying the expiry date."
+				},
+				{
+					"header": "Medications are administered after visual inspection for discoloration, particulate, or other clues of loss of integrity or instability."
+				},
+				{
+					"header": "Medications are administered after verifying that there are no contraindications."
+				}
+			]
+		},
+		{
+			"serial": 38,
+
+			"header": "The hospital has a safe system for self-administration of medications.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital educates patients and families involved in self-administration of medications about:",
+
+					"details": [
+						"Medication name, type, and indication.",
+						"Time, frequency, route, and dose of medication.",
+						"Expected medication effect and potential side effects.",
+						"Monitoring and reporting of medication effects."
+					]
+				},
+				{
+					"header": "The hospital does not allow administration of any medication brought from outside the hospital unless prescribed by the treating physician."
+				},
+				{
+					"header": "The hospital does not allow administration of free medical samples."
+				}
+			]
+		},
+		{
+			"serial": 39,
+
+			"header": "The hospital has a system to monitor the patient response to medications.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There is a multidisciplinary policy and procedure on monitoring the patient response to medications."
+				},
+				{
+					"header": "There is an annually updated list of all formulary medications that cause changes in the patient’s equilibrium and may raise the risk of falls."
+				},
+				{
+					"header": "The hospital has a collaborative process, involving physicians, nurses, and pharmacists, to monitor the patient’s response to medications."
+				},
+				{
+					"header": "Monitoring includes the following:",
+
+					"details": [
+						"The medication’s effect on patient’s clinical condition, as well as blood count, liver and renal functions and other relevant therapeutic monitoring parameters.",
+						"The patient’s perception of side effects to the first dose of a new medication. Unanticipated drug-drug interactions.",
+						"Changes in the patient’s equilibrium that may raise the risk of falls.",
+						"Allergic reactions including documentation and flagging of medical records."
+					]
+				}
+			]
+		},
+		{
+			"serial": 40,
+
+			"header": "The hospital has a process for detecting, managing and reporting adverse drug reactions (ADRs).",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital has a multidisciplinary policy and procedure on handling Adverse Drug Reaction (ADR) reports."
+				},
+				{
+					"header": "The policy has a clear definition of ADR and its severity."
+				},
+				{
+					"header": "The treating physician is notified at the appropriate time."
+				},
+				{
+					"header": "The patient affected by ADR receives appropriate care at the appropriate time."
+				},
+				{
+					"header": "The ADR report forms are readily available and in use."
+				},
+				{
+					"header": "All ADRs are documented in the patient’s medical record."
+				},
+				{
+					"header": "The hospital conducts analysis of all significant and serious ADRs."
+				},
+				{
+					"header": "The hospital has a system for improving ADR reporting."
+				},
+				{
+					"header": "The hospital reports all serious or unexpected ADRs to the Saudi Food and Drug Authority."
+				}
+			]
+		},
+		{
+			"serial": 41,
+
+			"header": "The hospital has a process for monitoring, identifying, and reporting significant medication errors, including near misses, hazardous conditions, and at-risk behaviors that have the potential to cause patient harm.",
+
+			"tags": ["ESR"],
+
+			"details": [
+				{
+					"header": "There is a multidisciplinary policy and procedure on handling medication errors, near misses, and hazardous situations (e.g., confusion over look-alike/sound-alike drugs or similar packaging)."
+				},
+				{
+					"header": "The policy has a clear and acceptable definition of significant medication error, near misses, and hazardous situations."
+				},
+				{
+					"header": "The treating physician is notified of the medication error at the appropriate time."
+				},
+				{
+					"header": "Medication error reporting is completed within the specified time frame after discovery of the error."
+				},
+				{
+					"header": "The hospital has a standard format for reporting medication errors."
+				},
+				{
+					"header": "Staff are educated on the process and importance of medication error reporting."
+				},
+				{
+					"header": "There is active reporting of medication errors, near misses, and hazardous situations."
+				},
+				{
+					"header": "The hospital conducts intensive root-cause analysis for all significant or potentially significant medication errors."
+				},
+				{
+					"header": "Medication errors, near misses, and hazardous situations are documented in the patient’s medical record."
+				},
+				{
+					"header": "The hospital utilizes reported data to improve the medication use process, prevent medication errors, and improve patient safety."
+				},
+				{
+					"header": "Healthcare professionals are provided with feedback on reported medication errors, near misses, and hazardous situations."
+				},
+				{
+					"header": "The hospital reports sentinel events related to serious medication errors to the relevant authorities."
+				}
+			]
+		}
+	]
+}

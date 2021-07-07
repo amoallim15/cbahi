@@ -1,0 +1,19 @@
+{
+	"serial": 25,
+
+	"title": "Dental Services",
+
+	"code": "DN",
+
+	"introduction": "The standards included in this chapter represent the minimal standards for dental service delivery in a hospital- based dental unit. Dental care services need to be provided with strict hygiene and infection prevention measures. They represent a type of ambulatory care services that could exist as a part of a healthcare organization or as a stand-alone facility. In general, patients attending ambulatory care should receive care that is similar to the care provided in other departments.\n The standards in this chapter address the following:",
+
+	"concerns": [
+		"Staff qualifications",
+		"Patient and family education",
+		"Patient assessment and care",
+		"Documentation in medical records",
+		"Patient education",
+		"Infection prevention and control",
+		"Safety in dental laboratory"
+	]
+}

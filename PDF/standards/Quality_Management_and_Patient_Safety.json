@@ -1,0 +1,668 @@
+{
+	"code": "QM",
+	"standards": [
+		{
+			"serial": 1,
+
+			"header": "Hospital leaders support a hospital-wide continuous quality improvement program.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Hospital leaders provide resources required for the continuous quality improvement program, including human, financial, and time resources."
+				},
+				{
+					"header": "Hospital leaders actively participate in quality improvement activities including improvement teams."
+				},
+				{
+					"header": "Hospital leaders implement the recommendations resulting from the continuous quality improvement program."
+				},
+				{
+					"header": "Hospital leaders support staff to make and participate in quality improvement initiatives and to attend quality improvement educational activities."
+				}
+			]
+		},
+		{
+			"serial": 2,
+
+			"header": "Hospital leaders support staff training on their roles and responsibilities related to the continuous quality improvement program.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Staff are trained on quality improvement by qualified professionals."
+				},
+				{
+					"header": "Training on quality improvement includes the utilization of quality improvement methodologies and tools (e.g., PDCA, lean six sigma, cause-and-effect analysis, process map, Pareto chart, brain storming)."
+				},
+				{
+					"header": "Staff are trained (formally or through orientation and mentoring) on continuous quality improvement in accordance with their roles and responsibilities in the quality improvement program."
+				}
+			]
+		},
+		{
+			"serial": 3,
+
+			"header": "The hospital has a quality management department that is directed by a qualified individual.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital has a quality management director responsible for directing all aspects of the quality management department."
+				},
+				{
+					"header": "The quality management director is qualified by education, training, and experience in healthcare quality."
+				},
+				{
+					"header": "The quality management department provides ongoing consultation to all departments (e.g., on the development and use of indicators to evaluate and improve performance)."
+				},
+				{
+					"header": "The quality management director reports to the hospital leadership."
+				}
+			]
+		},
+		{
+			"serial": 4,
+
+			"header": "The hospital develops a quality improvement program that provides a structured framework for monitoring and improving performance as well as supporting innovation.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The quality improvement program covers processes of care involving high risk, high volume, problem-prone, and high cost areas."
+				},
+				{
+					"header": "The quality improvement program is in line with the hospital strategic plan."
+				},
+				{
+					"header": "The quality improvement program is integrated with the risk management and patient safety activities."
+				},
+				{
+					"header": "The quality improvement program is based on a documented quality improvement plan that is revised at least annually, with defined scope, goals, and objectives."
+				}
+			]
+		},
+		{
+			"serial": 5,
+
+			"header": "There is a multidisciplinary committee responsible for the coordination of the quality improvement program.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital has a multidisciplinary quality improvement committee that has members from the leadership group (the hospital director, medical director, nursing director, quality management director) and other members/invitees as appropriate."
+				},
+				{
+					"header": "The quality improvement committee provides coordination and oversight of the quality improvement program throughout the hospital.",
+
+					"details": [
+						"Thequalityimprovementcommitteeisresponsiblefordevelopment,implementation, and evaluation of the quality improvement program.",
+						"The quality improvement committee approves all quality improvement initiatives.",
+						"The quality improvement committee receives quality reports and provides feedback to the relevant stakeholders."
+					]
+				},
+				{
+					"header": "The quality improvement committee meets regularly and maintains appropriate documentation of its activities."
+				}
+			]
+		},
+		{
+			"serial": 6,
+
+			"header": "The hospital monitors its performance through regular data collection and analysis.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The performance monitoring is based on valid data that reflect the actual performance.",
+
+					"details": [
+						"Hospital leaders define and implement a set of hospital performance indicators/measures that focus on important managerial and clinical areas.",
+						"Clinical indicators are referenced to current evidence based practice whenever applicable."
+					]
+				},
+				{
+					"header": "For each indicator, there is a clear definition, sample size, data collection method, frequency, analysis, and expression (e.g., a ratio, with defined numerator and denominator)."
+				},
+				{
+					"header": "Indicators represent key care and service structures, processes and outcomes based on the mission and scope of services."
+				},
+				{
+					"header": "Data are collected and aggregated on a regular basis from qualitative and quantitative sources."
+				},
+				{
+					"header": "Data are coordinated with other performance monitoring activities such as patient safety and risk management."
+				}
+			]
+		},
+		{
+			"serial": 7,
+
+			"header": "Hospital leaders select a set of structure indicators based on the mission and scope of services.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Hospital leaders utilize the information provided by structure indicators."
+				},
+				{
+					"header": "Structure indicators may include, but are not limited to, the following:",
+
+					"details": [
+						"Availability of essential supplies and equipment.",
+						"Availability of medical records.",
+						"Availability of blood and blood products.",
+						"Availability of emergency medications.",
+						"Vacancy rates in all departments.",
+						"Surgical volumes.",
+						"Staffing ratios."
+					]
+				}
+			]
+		},
+		{
+			"serial": 8,
+
+			"header": "Hospital leaders select a set of process indicators based on the mission and scope of services.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Hospital leaders utilize the information provided by process indicators."
+				},
+				{
+					"header": "Process indicators may include, but are not limited to, the following:",
+
+					"details": [
+						"The timing and use of antibiotics prior to surgery.",
+						"Blood and blood products administration.",
+						"Documentation in medical records.",
+						"Delay of physicians answering nurses’ phone calls and pagers.",
+						"Waiting times for treatment.",
+						"Venous thrombo-embolism prophylaxis for surgical patients.",
+						"Neuropathy testing in diabetic patients."
+					]
+				}
+			]
+		},
+		{
+			"serial": 9,
+
+			"header": "Hospital leaders select a set of outcome indicators based on the mission and scope of services.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Hospital leaders utilize information provided by outcome indicators."
+				},
+				{
+					"header": "Outcome indicators may include, but are not limited to, the following:",
+
+					"details": [
+						"Mortality rates.",
+						"Healthcare associated infections.",
+						"Staff satisfaction.",
+						"Patient satisfaction.",
+						"Unplanned return to the operating room.",
+						"Return to the emergency room within 24 hours.",
+						"Unplanned transfer to the critical care unit.",
+						"Resuscitation of patients (cardiac/respiratory arrest).",
+						"Various adverse events (e.g., falls, injuries, and pressure ulcers).",
+						"Medication errors.",
+						"Sentinel events.",
+						"Patient complaints.",
+						"Length of stay."
+					]
+				}
+			]
+		},
+		{
+			"serial": 10,
+
+			"header": "Data collected are aggregated and analyzed.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Data collected are analyzed by staff qualified in data management."
+				},
+				{
+					"header": "Data collected are regularly aggregated and analyzed to yield useful trends and variances."
+				},
+				{
+					"header": "Data are utilized for internal and external benchmarking to identify deficiencies and opportunities for improvement."
+				},
+				{
+					"header": "Information is communicated to the appropriate stakeholders in a way they can understand and use."
+				}
+			]
+		},
+		{
+			"serial": 11,
+
+			"header": "The hospital uses the information resulting from data analysis to make improvements.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Information resulting from data analysis is used for prioritizing quality improvement projects as well as strategic and operational planning."
+				},
+				{
+					"header": "When appropriate, the hospital tests improvement interventions prior to full implementation."
+				},
+				{
+					"header": "After implementing improvement interventions, the hospital measures their effectiveness to ensure that interventions have achieved a sustained improvement."
+				}
+			]
+		},
+		{
+			"serial": 12,
+
+			"header": "Quality improvement teams are selected by the service leaders and these teams use quality tools to improve processes.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Quality improvement teams are assigned by the service leaders."
+				},
+				{
+					"header": "The quality improvement team includes staff members who are involved in the process under study."
+				},
+				{
+					"header": "The quality improvement team uses the quality tools to improve processes (e.g., brainstorming and fishbone charts)."
+				}
+			]
+		},
+		{
+			"serial": 13,
+
+			"header": "The hospital develops and maintains a risk management program.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The risk management program addresses potential managerial and clinical risks."
+				},
+				{
+					"header": "The hospital defines the scope and objectives of the risk management program as well as the individual responsible for the program."
+				},
+				{
+					"header": "The hospital educates the staff on their roles and responsibilities related to the activities of the risk management program."
+				},
+				{
+					"header": "The hospital performs a systematic process to identify and analyze potential risks for severity and likelihood of occurrence."
+				},
+				{
+					"header": "The hospital develops interventions to manage identifies potential risks (e.g., reduction and/or prevention)."
+				},
+				{
+					"header": "The hospital adopts a proactive approach to identify, analyze, and reduce potential risks (e.g. failure mode and effects analysis)."
+				},
+				{
+					"header": "Heads of clinical departments and other clinical leaders participate in the risk management program."
+				},
+				{
+					"header": "Heads of clinical departments and other clinical leaders develop, implement, and evaluate interventions to safeguard patients from unintended consequences of care/treatment."
+				},
+				{
+					"header": "The risk management program addresses patient safety issues and makes use of the information developed from investigation of the following:",
+
+					"details": [
+						"All litigations involving the hospital and its staff.",
+						"Adverse incidents including near misses and sentinel events.",
+						"Patient complaints.",
+						"Cases of irregular discharges.",
+						"Data and reports related to patient safety issues.",
+						"Mortality and significant morbidity cases."
+					]
+				},
+				{
+					"header": "The effectiveness of the risk management program is evaluated regularly and improved as required."
+				},
+				{
+					"header": "The hospital maintains appropriate documentation of the risk management activities."
+				},
+				{
+					"header": "The risk management activities and their results are communicated to the staff and other relevant groups and used as a basis for improvement of the hospital’s processes."
+				},
+				{
+					"header": "Relevant information developed from the risk management activities is integrated and coordinated with the quality improvement and patient safety activities."
+				}
+			]
+		},
+		{
+			"serial": 14,
+
+			"header": "The hospital has an incident (occurrence/variance) management mechanism that supports improvements of care processes.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There is a policy and form that are utilized for reporting incidents including adverse events and near misses."
+				},
+				{
+					"header": "The hospital defines reportable incidents."
+				},
+				{
+					"header": "Incidents are reported and investigated in a timely manner."
+				},
+				{
+					"header": "Immediate remedial actions are taken as well as actions to prevent recurrence of similar incidents."
+				},
+				{
+					"header": "Patients receive response when involved in significant incidents with documentation in the medical records."
+				},
+				{
+					"header": "Incidents are monitored over time and the resulting information is used for improvement."
+				},
+				{
+					"header": "Staff are educated on the incident reporting process."
+				}
+			]
+		},
+		{
+			"serial": 15,
+
+			"header": "The hospital has a process to handle sentinel events.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There is a policy for management of sentinel events."
+				},
+				{
+					"header": "Sentinel events are identified in the hospital’s policy and include the following:",
+
+					"details": [
+						"Unexpected death.",
+						"Unexpected loss of limb or function.",
+						"Wrong patient, wrong procedure, or wrong site.",
+						"Retained instrument or sponge.",
+						"Serious medication error leading to death or major morbidity.",
+						"Suicide of a patient in an inpatient unit.",
+						"Infant abduction or discharge to a wrong family.",
+						"Maternal death.",
+						"Hemolytic blood transfusion reaction.",
+						"Air Embolism."
+					]
+				},
+				{
+					"header": "Reportable sentinel events are reported to CBAHI within five working days of the internal notification of the event."
+				},
+				{
+					"header": "The hospital forms a team to complete the root cause analysis along with an action plan for all sentinel events. The team should bring together those who have an intimate knowledge of the normal process."
+				},
+				{
+					"header": "The root cause analysis and risk reduction plan are sent to CBAHI within thirty working days from the date of the internal notification of the event."
+				},
+				{
+					"header": "Reportable sentinel events are reported as required to other relevant authorities."
+				}
+			]
+		},
+		{
+			"serial": 16,
+
+			"header": "The hospital develops and maintains a patient safety program.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Hospital leaders adopt a just culture that promotes both professional accountability and reporting of adverse events/near misses."
+				},
+				{
+					"header": "Hospital leaders provide direction and resources to support the patient safety program."
+				},
+				{
+					"header": "The hospital assigns a qualified individual to provide coordination and supervision of the organization-wide patient safety program."
+				},
+				{
+					"header": "Hospital leaders establish a multidisciplinary patient safety committee (can be integrated with quality improvement committee) to provide direction and oversight of the patient safety program."
+				},
+				{
+					"header": "Hospital leaders conduct patient safety culture assessment at least once annually. Data are analyzed and improvements are made accordingly."
+				},
+				{
+					"header": "Hospital leaders conduct regular leadership patient safety rounds in patient care services to encourage reporting of incidents/near misses and to identify potential risks and hazards."
+				},
+				{
+					"header": "The hospital adopts safe practices that have been proven to improve patient safety and reduce harm to patients such as those from the World Health Organization (WHO) and other national and international organizations concerned with patient safety.",
+
+					"details": [
+						"The hospital develops and implements policies, procedures, protocols, and guidelines for implementation of the patient safety practices.",
+						"The hospital provides equipment/devices with technological features proven to reduce errors and improve safety."
+					]
+				},
+				{
+					"header": "Relevant information developed from patient safety activities is integrated into quality improvement and risk management activities."
+				},
+				{
+					"header": "Patient safety activities and their results are communicated to the staff and other relevant groups and used as the base for improving the hospital’s processes."
+				}
+			]
+		},
+		{
+			"serial": 17,
+
+			"header": "The hospital has a process to ensure correct identification of patients.",
+
+			"tags": ["ESR"],
+
+			"details": [
+				{
+					"header": "At least two patient identifiers (e.g., patient full name and medical record number) are required whenever taking blood samples, administering medications or blood products, or performing procedures."
+				},
+				{
+					"header": "The hospital has a standardized approach to patient identification (e.g., use of ID bands with standardized information)."
+				},
+				{
+					"header": "Patients are actively involved in the process of patient identification."
+				}
+			]
+		},
+		{
+			"serial": 18,
+
+			"header": "The hospital has a process to prevent wrong patient, wrong site, and wrong surgery/procedure.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There is a process implemented to prevent wrong patient, wrong site, and wrong surgery/procedure during all invasive interventions performed in operating rooms or other locations."
+				},
+				{
+					"header": "The process consists of three phases: verification, site marking, and time out."
+				},
+				{
+					"header": "A pre-procedure verification of the patient information is carried out including the patient’s identity, consent, full details of the procedure, laboratory tests and images, and any implant or prosthesis."
+				},
+				{
+					"header": "The surgical/procedural site is marked before conducting the surgery/procedure.",
+
+					"details": [
+						"The site is marked especially in bilateral organs and multiple structures (e.g. fingers, toes, and spine).",
+						"The site is marked by the individual who will perform the procedure.",
+						"The patient is involved in the marking process.",
+						"The marking method is consistent throughout the hospital.",
+						"The mark is visible after the patient is prepped and draped."
+					]
+				},
+				{
+					"header": "A final check (time-out) is conducted before the procedure is initiated.",
+
+					"details": [
+						"The time-out is conducted in the location where the procedure will be done, just before starting.",
+						"The time-out is initiated by a designated member of the team and involves the members of the team, including the individual performing the procedure, the anesthesia providers, and the nurse(s) involved.",
+						"The entire procedure team uses active communication during the time out.",
+						"During the time-out, the team members agree on the correct patient identity, the correct procedure to be performed, the correct site, and when applicable, the availability of the correct implant or equipment."
+					]
+				},
+				{
+					"header": "The hospital documents its processes for preventing wrong patient, wrong site, and wrong surgery/procedure."
+				}
+			]
+		},
+		{
+			"serial": 19,
+
+			"header": "The hospital ensures availability and safety of infusion pumps.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Infusion pumps are available with adequate numbers throughout patient care areas."
+				},
+				{
+					"header": "Infusion pumps have \"free-flow\" protection."
+				},
+				{
+					"header": "Infusion pumps have documented preventative maintenance, inspection and testing on a regular basis."
+				}
+			]
+		},
+		{
+			"serial": 20,
+
+			"header": "The hospital ensures the safety of the alarm systems of patient care equipment.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "All alarm systems for patient care equipment (such as infusion pumps and monitors) have documented preventative maintenance, inspection and testing on a regular basis."
+				},
+				{
+					"header": "All staff are trained on the safe use of alarm systems for patient care equipment and the use of appropriate settings for sound."
+				}
+			]
+		},
+		{
+			"serial": 21,
+
+			"header": "The hospital ensures appropriate communication of patient care information during patient handovers.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Patient care information is appropriately documented in a clearly understandable form to all care providers within and between care settings."
+				},
+				{
+					"header": "The hospital implements a standardized approach to handover communication between staff (e.g., Situation, Background, Assessment, Recommendation-SBAR), change of shift, and between different patient care units in the course of a patient transfer."
+				}
+			]
+		},
+		{
+			"serial": 22,
+
+			"header": "The hospital has a process for effective identification, assessment, and intervention for patients who are at risk for pressure ulcers.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "All patients are assessed for pressure ulcers on admission using a standard risk assessment tool."
+				},
+				{
+					"header": "All patients are re-assessed for pressure ulcers every twenty four hours."
+				},
+				{
+					"header": "The hospital implements evidence-based interventions that prevent pressure ulcers."
+				}
+			]
+		},
+		{
+			"serial": 23,
+
+			"header": "The hospital has a process for effective identification, assessment, and intervention for patients who are at risk for falling.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Patients are assessed for the risk of fall on admission."
+				},
+				{
+					"header": "Patients are reassessed for the risk of fall after a change in risk factors (e.g., post-operatively, after receiving sedating medications) and upon transfer from another unit."
+				},
+				{
+					"header": "The hospital implements evidence-based interventions for falls reduction according to the risks identified."
+				}
+			]
+		},
+		{
+			"serial": 24,
+
+			"header": "The hospital implements evidence-based interventions to prevent catheter and tubing misconnections.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Patients and families are informed not to connect or disconnect devices or infusions."
+				},
+				{
+					"header": "High-risk catheters (e.g., epidural, intra-thecal, arterial) must always be labeled."
+				},
+				{
+					"header": "All lines (tubes or catheters) are always traced from the patient to the point of origin before connecting any new device or administering medications or infusion."
+				},
+				{
+					"header": "All lines (tubes or catheters) are always traced from the patient to the point of origin upon the patient's arrival to a new setting or service as part of the hand-off process. The hospital standardizes this \"line reconciliation\" process as part of the hand-over communication."
+				},
+				{
+					"header": "The hospital prohibits the use of standard luer-connection syringes for oral medications or enteric feedings."
+				},
+				{
+					"header": "The hospital conducts acceptance testing (for performance, safety, and usability) and, as appropriate, risk assessment on new tubing and catheter purchases to identify the potential for misconnections and take appropriate preventive measures."
+				}
+			]
+		},
+		{
+			"serial": 25,
+
+			"header": "There is a written policy on verbal or telephone orders and telephone reporting of critical test results.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The policy defines situations for accepting verbal or telephone orders."
+				},
+				{
+					"header": "The policy defines the time frame for orders authentication."
+				},
+				{
+					"header": "The policy defines staff who may accept verbal or telephone orders."
+				},
+				{
+					"header": "The complete verbal or telephone order or critical test result is written down by the receiver of the order or test result."
+				},
+				{
+					"header": "The complete verbal or telephone order or critical test result is read back by the receiver of the order or test result."
+				},
+				{
+					"header": "The order or test result is confirmed by the individual who gave the order or test result."
+				}
+			]
+		}
+	]
+}

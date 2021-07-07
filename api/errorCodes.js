@@ -1,0 +1,43 @@
+
+//
+
+module.exports = {
+	'000': 'unidentified error, please report',
+	'001': 'not authenticated',
+	'002': 'not authorized',
+	'003': 'already authenticated',
+	'004': 'database error, please report',
+	'005': 'dublicated user, please login or request forgot email to recover credentials',
+	'006': 'invalid password, password must be minimum 8 characters having 1 digit at least',
+	'007': 'login error, please report',
+	'008': 'user does not exist',
+	'009': 'invalid name, name must contain 3 characters at least, and no digits',
+	'010': 'can not update the current password with the same password',
+	'011': 'can not update the current password with the previous password',
+	'012': 'invalid email, email must be well formatted',
+	'013': 'the new password does not match the confirmed password, please correct',
+	// '014': 'invalid phone number, phone number must be well formatted' // TODO:
+	'015': 'invalid credentials, please try again',
+	'016': 'token is expired, please request another token',
+	'017': 'facility does not exist',
+	'018': 'chapter does not exist',
+	'019': 'path not found',
+	'020': 'dublicated facility name',
+	'021': 'invalid arabic name, name must contain 3 arabic characters at least, and no digits',
+	'022': 'invalid facility type, please select correct value',
+	'023': 'invalid facility category, please select correct value',
+	'024': 'invalid facility speciality, please select correct value',
+	'025': 'invalid facility lab services, please select correct value',
+	'026': 'invalid facility nearest airport, please select correct value',
+	'027': 'invalid facility region, please select correct value',
+	'028': 'invalid facility offecial email, offecial email must be well formatted',
+	'029': 'invalid facility offecial website, offecial website must be well formatted',
+	'030': 'invalid facility accreditation status, please select correct value',
+	'031': 'invalid standard status, please select correct value',
+	'032': 'some of the standards ids are not correct, please try again',
+	'033': 'invalid in map location, please insert correct values',
+	'034': 'can not rerequest delete within 24 hours, please wait',
+	'035': 'facility offecial email does not match offecial email confirmation',
+	'036': 'invalid facility address values, please fill them properly',
+	'037': 'invalid parameters'
+}

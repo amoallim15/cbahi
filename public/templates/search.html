@@ -1,0 +1,35 @@
+
+<div class="ap-search m-b-3">
+	<div class="container-fluid ap-search-panel">
+		<div class="row">
+			<div class="col-md-6 offset-md-1">
+				<form role="search" class="form-horizontal ap-search-form">
+					<div class="input-group">
+						<input type="text" class="form-control ap-input" id="search-facilities" ng-model="sr.tags"
+							placeholder="Search facilities name, or regions, cites, airports, etc" />
+						<div class="input-group-btn">
+							<button class="btn btn-primary ap-btn" type="submit" ng-click="search()"><i class="fa fa-search"></i></button>
+						</div>
+					</div>
+				</form>
+			</div>
+		</div>
+	</div>
+	<div class="container-fluid">
+		<div class="row">
+			<div class="col-md-10 offset-md-1">
+				<div class="row ap-facilities-row" id="standards" aria-multiselectable="true">
+					<div class="ap-facility-col" ng-repeat="o in sr.standards">
+						<div class="card card-block" ng-include src="'templates/standard.content.html'"></div>
+					</div>
+				</div>
+				<nav>
+					<ul class="pager">
+					<li ng-class="dirClass(-1)"><a href="#" ng-click="pagination(-1)">Previous</a></li>
+					<li ng-class="dirClass(+1)"><a href="#" ng-click="pagination(+1)">Next</a></li>
+					</ul>
+				</nav>
+			</div>
+		</div>
+	</div>
+</div>

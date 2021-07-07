@@ -1,0 +1,17 @@
+{
+	"serial": 11,
+
+	"title": "Adult Intensive Care Unit",
+
+	"code": "ICU",
+
+	"introduction": "The standards in this chapter are designed to promote the provision of the highest quality of intensive care to critically ill patients. The intensive care unit must be capable of providing services unique to its setting such as mechanical ventilation and invasive cardiovascular monitoring. The standards in this chapter are intended to promote and improve the safe and effective practice of intensive care units including adult, pediatric, neonatal intensive care units as well as coronary care units.\n This chapter addresses the following:",
+
+	"concerns": [
+		"Staff qualifications and plan",
+		"Equipment and supplies",
+		"Admission and discharge criteria",
+		"Proper intensive care practices",
+		"Discharge procedures"
+	]
+}

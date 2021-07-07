@@ -1,0 +1,194 @@
+{
+	"code": "DT",
+	"standards": [
+		{
+			"serial": 1,
+
+			"header": "Dietary services are provided by qualified dietitians.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "A qualified dietitian supervises all aspects of dietary services in the hospital."
+				},
+				{
+					"header": "Services provided by the dietitian include, but are not limited to, the following:",
+
+					"details": [
+						"Nutritional screening, assessment and reassessment of patients. Development of nutritional plan of care.",
+						"Highlighting “food-drug interaction” to clinical staff.",
+						"Making recommendations related to patient dietary needs.",
+						"Nil Per Os (NPO) monitoring.",
+						"Education of other health staff, patients, and families. Reviewing and updating the dietary manual."
+					]
+				},
+				{
+					"header": "Activities conducted by the dietician as part of the process of care is documented in the patient’s medical record."
+				}
+			]
+		},
+		{
+			"serial": 2,
+
+			"header": "Patients identified to be at nutritional risk undergo comprehensive nutritional assessment.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Nutritional screening is conducted by qualified hospital staff (e.g., registered nurse) to determine the patient’s need for comprehensive nutritional assessment by a licensed dietitian."
+				},
+				{
+					"header": "The criteria used for nutritional screening during the initial assessment of patients are developed and approved by a qualified dietitian."
+				},
+				{
+					"header": "Comprehensive nutritional assessment is performed by a qualified dietitian for:",
+
+					"details": [
+						"All patients identified at nutritional risk during the initial screening or assessment.",
+						"All patients identified at nutritional risk during the course of treatment.",
+						"All patients prescribed for a therapeutic diet."
+					]
+				},
+				{
+					"header": "Patients identified at nutritional risk are referred to a licensed dietitian for comprehensive nutritional assessment."
+				},
+				{
+					"header": "Nutritional assessment is preferably completed within twenty four hours of referral."
+				},
+				{
+					"header": "The comprehensive nutritional assessment is described in a policy and procedure that includes, but is not limited to, the following:",
+
+					"details": [
+						"Height and weight chart for children. Body mass index (BMI) for adults.",
+						"Eating habits.",
+						"Food allergies.",
+						"Need for therapeutic diet.",
+						"Physical difficulties with eating and drinking and the need for any assisting devices."
+					]
+				},
+				{
+					"header": "The nutritional screening and assessment findings are documented in the patient’s medical record."
+				}
+			]
+		},
+		{
+			"serial": 3,
+
+			"header": "Patients with nutritional disorders have the appropriate nutritional plans that meet their medical needs.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The dietitian, in collaboration with other clinical staff, develops an appropriate nutritional plan of care for patients with nutritional disorders."
+				},
+				{
+					"header": "Patients cultural and food preferences are respected to the extent possible."
+				},
+				{
+					"header": "The nutritional plan allows for consideration of:",
+
+					"details": [
+						"Enteral tube feeding for malnourished or patients at risk of malnutrition and have inadequate oral intake and a functioning gastrointestinal tract.",
+						"Parenteral nutrition for patients with a non-functioning gastrointestinal tract.",
+						"Therapeutic diet prescribed for specific health conditions."
+					]
+				},
+				{
+					"header": "Patients are reassessed for response by the dietitian at regular intervals and adjustments are made accordingly."
+				},
+				{
+					"header": "The nutritional plan is documented in the patient’s medical record."
+				}
+			]
+		},
+		{
+			"serial": 4,
+
+			"header": "The hospital has a current dietary manual.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There is a current dietary manual that is developed by the dietitian and other relevant staff."
+				},
+				{
+					"header": "The dietary manual is approved by the medical staff."
+				},
+				{
+					"header": "The dietary manual is used as the basis for diet orders and for planning therapeutic diets."
+				},
+				{
+					"header": "The dietary manual includes the following items:",
+
+					"details": [
+						"Different types of diets used in the hospital.",
+						"Nutritional supplements used and how to use them.",
+						"Appropriate storage method for snacks and beverages.",
+						"Mealtimes and working hours of the kitchen."
+					]
+				},
+				{
+					"header": "The dietary manual is reviewed, revised, and updated at least every two years."
+				},
+				{
+					"header": "Copies of the dietary manual are readily available to all medical, nursing, and food services personnel."
+				}
+			]
+		},
+		{
+			"serial": 5,
+
+			"header": "Therapeutic diets are provided when ordered.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Therapeutic diets are prescribed by the most responsible physician based on the patient’s needs."
+				},
+				{
+					"header": "Therapeutic diets are planned, prepared, and served with supervision or consultation from the dietitian."
+				},
+				{
+					"header": "The plan for a therapeutic diet must emphasize:",
+
+					"details": [
+						"Total calories required.",
+						"Any restrictions.",
+						"The route and frequency of feeds.",
+						"When required, education about nutritional needs is provided to the patient and family upon discharge."
+					]
+				},
+				{
+					"header": "Discharge diets are prescribed by the most responsible physician in collaboration with the supervising dietitian."
+				},
+				{
+					"header": "Patients are educated on their nutritional needs upon discharge."
+				},
+				{
+					"header": "Education is documented in the patient’s medical record."
+				}
+			]
+		},
+		{
+			"serial": 6,
+
+			"header": "The hospital provides safe food services.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Food preparation, handling, storage, and distribution is safe and guided by professional organizations standards and management systems (e.g., Hazard Analysis and Critical Control Points, HACCP)."
+				},
+				{
+					"header": "Food preparation, handling, storage, and distribution comply with laws and regulations."
+				}
+			]
+		}
+	]
+}

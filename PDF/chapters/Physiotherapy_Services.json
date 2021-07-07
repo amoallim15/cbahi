@@ -1,0 +1,16 @@
+{
+	"serial": 24,
+
+	"title": "Physiotherapy services",
+
+	"code": "PT",
+
+	"introduction": "Hospitals vary in the services provided according to their size and the population served. However, there are services required to be provided in the majority of hospital settings in coordination and integration with other clinical services. They are collectively labeled as specialized services for the purpose of this manual. They all play a significant role in the outcome of care and also in the degree of patient satisfaction about care and services.\n Specialized Services include:",
+
+	"concerns": [
+		"Respiratory Care Services",
+		"Dietary Services",
+		"Social Care Services",
+		"Physiotherapy Services"
+	]
+}

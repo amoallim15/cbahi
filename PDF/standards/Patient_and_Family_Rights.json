@@ -1,0 +1,438 @@
+{
+	"code": "PFR",
+	"standards": [
+		{
+			"serial": 1,
+
+			"header": "Hospital leaders support and protect the patient and family rights.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Hospital leaders establish and maintain a structure that involves hospital’s leaders and others to support and oversee all patient rights activities (e.g. patient relations, patient rights/patient advocacy committee)."
+				},
+				{
+					"header": "Patients and families have an access to communicate their concerns/inquiries regarding their rights."
+				},
+				{
+					"header": "Hospital leaders develop and maintain patient rights and responsibilities statement that includes all patient and family rights and responsibilities."
+				},
+				{
+					"header": "The hospital develops and implements policies and procedures that protect and support the implementation of patient and family rights."
+				},
+				{
+					"header": "The hospital makes patient rights and responsibilities available to patients and families in a format and language they can understand (e.g., providing patient rights and responsibilities document or posting in the patient’s room and public places throughout the hospital)."
+				},
+				{
+					"header": "The hospital ensures that patients are informed about their rights and responsibilities."
+				},
+				{
+					"header": "The hospital helps patients to exercise their rights."
+				},
+				{
+					"header": "The hospital educates staff on their responsibilities regarding patient and family rights (e.g., during orientation as well as refresher courses)."
+				},
+				{
+					"header": "Staff are aware of their responsibilities in protecting patient and family rights."
+				}
+			]
+		},
+		{
+			"serial": 2,
+
+			"header": "Cultural, psychosocial, religious, and spiritual needs of patients are respecte and supported.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital recognizes and provides staff training on responding to patient’s cultural, psychosocial, religious and spiritual beliefs, values and needs."
+				},
+				{
+					"header": "The hospital provides separate facilities for women where appropriate."
+				},
+				{
+					"header": "The hospital provides access to spiritual care or advice that meets the needs of the different populations served."
+				},
+				{
+					"header": "Staff members provide care to patients with respect and dignity."
+				}
+			]
+		},
+		{
+			"serial": 3,
+
+			"header": "Privacy of patients is maintained throughout the care process.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Patient privacy is respected during all interviews, examinations, and treatments."
+				},
+				{
+					"header": "Patient private parts are not exposed unnecessarily during care process."
+				},
+				{
+					"header": "The hospital mandates a written consent to photograph patients."
+				}
+			]
+		},
+		{
+			"serial": 4,
+
+			"header": "The hospital protects patient belongings.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There is a process described in a policy for the protection of patient belongings."
+				},
+				{
+					"header": "Patients receive information about the hospital’s responsibility for safeguarding and protecting their belongings."
+				},
+				{
+					"header": "When the hospital assumes responsibility for safeguarding patient belongings, the hospital has a process to protect them from theft or loss.",
+
+					"details": [
+						"The hospital defines where the patient belongings are kept.",
+						"The hospital defines who is responsible for obtaining the required signatures on the related form when receiving and handing over the patient’s belongings."
+					]
+				},
+				{
+					"header": "The hospital addresses how the valuables of those patients unable to make decisions regarding their belongings (e.g., traumatized patients, patients in comatose state, confused patients, elderly and children) are handled and safeguarded."
+				}
+			]
+		},
+		{
+			"serial": 5,
+
+			"header": "The hospital provides protection for patients.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Patients are protected from neglect and abuse by physicians, nurses, or any other staff."
+				},
+				{
+					"header": "The hospital provides appropriate security and prevents unauthorized access to remote or sensitive areas (e.g., female wards)."
+				},
+				{
+					"header": "The hospital provides visitors with identification badges."
+				},
+				{
+					"header": "The hospital has a process in place to protect infants/children from abduction."
+				},
+				{
+					"header": "The hospital has a process in place to protect vulnerable patients (e.g., disabled and elderly patients)."
+				}
+			]
+		},
+		{
+			"serial": 6,
+
+			"header": "The hospital provides assistance to patients with special needs.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": " The hospital provides the necessary assistance to patients with special needs where and when needed (e.g., providing assistance in case of fire, off-street parking spaces near the entrance for disabled patients, handicapped accessible bathrooms, accessibility for wheelchair users)."
+				}
+			]
+		},
+		{
+			"serial": 7,
+
+			"header": "Staff members respect and protect patient health information confidentiality throughout the care process.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital implements a policy that ensures the confidentiality of information related to the patient’s health and how to protect it from loss or misuse."
+				},
+				{
+					"header": "The policy indicates the circumstances under which such information may be released and how to obtain patient’s permission if required."
+				}
+			]
+		},
+		{
+			"serial": 8,
+
+			"header": "Staff members assist patients and their families to participate in making informed decisions about the care process, treatment and services.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Patients are informed about how they can actively participate in their care decisions."
+				},
+				{
+					"header": "Patients’ choices are respected."
+				},
+				{
+					"header": "Staff members provide patients and, when appropriate, their families with honest, accurate and reasonable information in a manner they can understand about their illness, the proposed treatment and other alternatives, potential benefits, potential complications and likelihood of success of treatment."
+				},
+				{
+					"header": "When it is medically inadvisable to provide the patient with such information, the information is provided to a legally authorized person or a person designated by the patient."
+				},
+				{
+					"header": "Patients are supported to discuss their plans of care with the responsible staff members and have all their questions answered.",
+
+					"details": [
+						"The patient is provided with the name and the professional status of the physician or other professional who has the primary responsibility for managing the care process.",
+						"Staff members identify themselves by introduction and by displaying the name."
+					]
+				},
+				{
+					"header": "Patients are informed of how to contact care providers in case of emergency."
+				},
+				{
+					"header": "Staff members respond appropriately to patients’ requests of a second opinion if necessary."
+				},
+				{
+					"header": "The hospital respects patients’ demands and needs including their preferences in personal issues such as food, drink, clothing, and self-care."
+				}
+			]
+		},
+		{
+			"serial": 9,
+
+			"header": "The hospital informs patients, and families as appropriate, of the outcome of care.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital has a defined process for informing patients, and families as appropriate, of the outcome of care including adverse events or unanticipated negative outcomes."
+				},
+				{
+					"header": "The disclosure process is documented in the patient’s medical record."
+				}
+			]
+		},
+		{
+			"serial": 10,
+
+			"header": "Informed consent is obtained prior to high risk treatments/procedures.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital has a policy and form(s) for obtaining the informed consent from the patient or a legal representative prior to starting high risk treatments and procedures."
+				},
+				{
+					"header": "The informed consent process includes explanation of the nature of the treatment or procedure, expected benefits and risks, alternative courses of action, and the likely consequences of not undergoing the treatment."
+				},
+				{
+					"header": "The informed consent is always obtained before any invasive surgery/ procedure, sedation/ anesthesia, and transfusion of blood and blood components."
+				},
+				{
+					"header": "The hospital identifies a list of high risk treatments and procedures that require informed consent including, but are not limited to, the following:",
+
+					"details": [
+						"Endoscopy (e.g., colonoscopy, bronchoscopy, cystoscopy, J-tube placement, nephrostomy).",
+						"Biopsy (e.g., bone marrow, breast, liver, kidney, prostate).",
+						"CT examination with contrast.",
+						"MRI examination with or without contrast.",
+						"Invasive radiological procedures (e.g., angiography, angioplasty,drainage of an abscess under CT guidance).",
+						"Percutaneous aspiration of body fluids or air through the skin (e.g., arthrocentesis, bone marrow aspiration, lumbar puncture, chest tube, paracentesis).",
+						"Epidural injections and anesthesia.",
+						"Treatment with chemotherapy and radiation oncology procedures.",
+						"Use of radio-active material.",
+						"Central line placement."
+					]
+				},
+				{
+					"header": "When a patient is incapable of giving informed consent (e.g., minors or mentally incompetent patients), consent is sought from the patient’s next of kin or guardian."
+				}
+			]
+		},
+		{
+			"serial": 11,
+
+			"header": "The hospital has a policy to deal with patients who refuse or discontinue the treatment.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There is a policy and procedure that addresses the patient’s right to refuse or discontinue treatment offered."
+				},
+				{
+					"header": "The consequences of treatment refusal are explained to the patient."
+				},
+				{
+					"header": "Patients are informed about available care and treatment alternatives."
+				},
+				{
+					"header": "Whenever appropriate, family members are involved in the process."
+				},
+				{
+					"header": "Patient and family choices are respected."
+				},
+				{
+					"header": "The relevant discussion is documented in the patient’s medical record."
+				}
+			]
+		},
+		{
+			"serial": 12,
+
+			"header": "The hospital has a policy regarding withholding resuscitation efforts.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There is a written (No Code) policy that is implemented and consistent with laws and regulations for withholding resuscitation efforts for the terminally ill or end of life patients."
+				},
+				{
+					"header": "Patient/family decision about the resuscitative order is documented in the patient’s medical record."
+				}
+			]
+		},
+		{
+			"serial": 13,
+
+			"header": "The hospital informs patients about their responsibilities.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Patients are provided with appropriate information regarding their responsibilities."
+				},
+				{
+					"header": "Patient responsibilities require the patient to:",
+
+					"details": [
+						"Provide complete and accurate information about his health, including medications, dietary supplements, and any allergies.",
+						"Follow the plan of care prescribed by his provider.",
+						"Be respectful to all staff as well as other patients.",
+						"Be respectful to the hospital policies and procedures (e.g., visiting hours, no smoking policy, use of electrical appliances, and safety of belongings).",
+						"Be responsible for the safe use of the hospital’s facilities and equipment."
+					]
+				}
+			]
+		},
+		{
+			"serial": 14,
+
+			"header": "The hospital has an effective process to respond to patient complaints.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There is a policy and procedure for the fair management of patient complaints in a reasonable timeframe."
+				},
+				{
+					"header": "The hospital assigns a specific unit or person (e.g., patient relations) responsible for managing patients’ complaints."
+				},
+				{
+					"header": "Hospital leaders ensure taking quality improvement and strategic actions based on trended data (e.g., quarterly and annually)."
+				}
+			]
+		},
+		{
+			"serial": 15,
+
+			"header": "The hospital seeks feedback from patients regarding the services provided.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital conducts patient satisfaction surveys on a regular basis."
+				},
+				{
+					"header": "The hospital makes improvements based on the patient satisfaction trended survey results."
+				}
+			]
+		},
+		{
+			"serial": 16,
+
+			"header": "The hospital has an effective system for clinical research activities.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital implements policies, procedures, and code of ethics for the selection and participation of patients in research activities."
+				},
+				{
+					"header": "The policies and procedures that guide experimental research activities are in accordance with laws and regulations, professional standards, and codes of conduct."
+				},
+				{
+					"header": "The hospital has a research committee or another structure to oversee all research activities and ensure their appropriateness and safety."
+				},
+				{
+					"header": "Patient's informed consent is obtained before entering in a research protocol."
+				},
+				{
+					"header": "The hospital informs patients of their right to refuse participation in experimental research with no effect on access to care or the quality of care provided and respects their wishes."
+				},
+				{
+					"header": "The hospital implements the research outcomes to improve its services."
+				}
+			]
+		},
+		{
+			"serial": 17,
+
+			"header": "Hospital leaders develop and adopt ethical standards in dealing with patients and their supporters and sponsors.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Guidance is provided for clinical and non-clinical staff covering patient-care and non-patient care ethical issues."
+				},
+				{
+					"header": "The hospital accurately bills for services."
+				},
+				{
+					"header": "The hospital honestly portrays its services to patients."
+				},
+				{
+					"header": "The hospital maintains ethical marketing."
+				},
+				{
+					"header": "The hospital has a clear process to provide care for impoverished patients presenting with emergent situations."
+				},
+				{
+					"header": "Outcomes of ethical considerations are reviewed and system improvements are made accordingly."
+				}
+			]
+		},
+		{
+			"serial": 18,
+
+			"header": "Hospital leaders ensure that patients, families, and staff members are informed about the choices and procedures of organ donations.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital makes patients or families aware of the options of organ donation."
+				},
+				{
+					"header": "The hospital assigns trained staff to inform patients and families about organ donation in a manner that is sensitive to their situation and respectful of their beliefs and wishes."
+				},
+				{
+					"header": "The hospital provides the family with all the necessary information about what can be donated, who can donate, how to donate, and the procedures involved in donation."
+				},
+				{
+					"header": "The hospital provides the family with all the necessary information about the official ”Fatwa” regarding organ donation."
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"serial": 28,
+
+	"title": "Infection Prevention and Control",
+
+	"code": "IPC",
+
+	"introduction": "The hospital requires processes in place to support the prevention and control of infections that might be acquired or transmitted by patients, staff, and visitors while in the hospital. These processes reduce risk and spread of infection and ensure that care is provided in a clean environment. To ensure staff and patient safety, the hospital needs an effective organization-wide infection prevention and control program that identifies, reduces and eliminates risks for infection.\n This chapter outlines the requirements for the following processes and activities related to infection prevention and control:",
+
+	"concerns": [
+		"Infection control program",
+		"Staff education",
+		"Personal protective equipment",
+		"Hand hygiene",
+		"Sharps safety",
+		"Cleaning, decontamination, disinfection, and sterilization",
+		"Healthcare-associated infections",
+		"Employees health",
+		"Blood exposure",
+		"Communicable diseases",
+		"Waste management",
+		"Laundry",
+		"Infection control precautions during renovations and constructions"
+	]
+}

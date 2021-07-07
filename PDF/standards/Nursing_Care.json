@@ -1,0 +1,366 @@
+{
+	"code": "NR",
+	"standards": [
+		{
+			"serial": 1,
+
+			"header": "Qualified nursing director is responsible for managing nursing services in the hospital.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital has a full time nursing director."
+				},
+				{
+					"header": "The nursing director is licensed and registered with the Saudi Commission for Health Specialties."
+				},
+				{
+					"header": "The nursing director is qualified by appropriate education, training, and experience (minimum bachelor degree of science in nursing and five years of managerial experience)."
+				},
+				{
+					"header": "The nursing director is responsible for the direction, provision, and quality of nursing services provided to patients."
+				},
+				{
+					"header": "The nursing director develops the nursing organizational chart as well as the nursing education and quality improvement."
+				},
+				{
+					"header": "The hospital designates a deputy director of nursing to coordinate nursing activities and handle administrative and clinical issues during the absence of the nursing director."
+				}
+			]
+		},
+		{
+			"serial": 2,
+
+			"header": "The nursing director assumes a leadership position in the hospital.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The nursing director represents the nursing staff as one of the hospital leaders."
+				},
+				{
+					"header": "The nursing director participates with the other hospital leaders in the decision making processes, including planning and budgeting."
+				},
+				{
+					"header": "The nursing director participates in the hospital's multi-disciplinary structures (e.g., committees such as quality improvement, infection control and pharmacy and therapeutics)."
+				},
+				{
+					"header": "The nursing director oversees and assures that committees' recommendations are implemented at the nursing level."
+				}
+			]
+		},
+		{
+			"serial": 3,
+
+			"header": "The nursing director assumes the authority, responsibility, and accountability for assuring proper and effective nursing services.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The nursing director establishes, oversees, and approves nursing policies and procedures and nursing professional standards of practice and patient care."
+				},
+				{
+					"header": "Nursing policies, procedures, and standards include all nursing units (e.g. intensive care, medical, surgical, emergency room, operating room, and dialysis units)."
+				},
+				{
+					"header": "Nursing policies, procedures, and standards are accessible to all nursing staff at all times."
+				},
+				{
+					"header": "Nursing staff are familiar with the nursing policies and procedures."
+				},
+				{
+					"header": "The nursing director ensures participation with other hospital leaders in the development of practices that promote patients and staff safety (e.g., infection control, safe medication management, safe use of medical equipment, and fire safety)."
+				},
+				{
+					"header": "The nursing director together with other relevant staff work to develop essential policies and procedures including, but are not limited to, the following:",
+
+					"details": [
+						"Admission procedures.",
+						"Basic hygiene of patients and skin care.",
+						"Patient and family rights.",
+						"How to transcribe physician’s orders.",
+						"Patient education.",
+						"General infection control policies.",
+						"Calling physicians.",
+						"Patient transfer (internal and external).",
+						"Patient discharge."
+					]
+				},
+				{
+					"header": "The nursing director implements an effective method for organizing the delivery of patient care (e.g. functional, team, primary care)."
+				},
+				{
+					"header": "The nursing director ensures the implementation of a policy and procedure that defines patient care delivery method(s)."
+				}
+			]
+		},
+		{
+			"serial": 4,
+
+			"header": "Nursing reference manuals and policies are readily available and accessible to all nursing units.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There are nursing reference manuals and policies that are available and accessible to all nursing units. This includes, but is not limited to, the following:",
+
+					"details": [
+						"Nursing policies and procedures manual.",
+						"Current nursing practice manuals/books.",
+						"Infection control manual.",
+						"Safety manual or safety policies.",
+						"Operating manuals for the safe use of equipment.",
+						"Laboratory services guide.",
+						"Dietary manual.",
+						"Material Safety Data Sheet (MSDS)."
+					]
+				},
+				{
+					"header": "Policies and content of manuals are implemented as evidenced by the daily practice and the patient’s medical record."
+				}
+			]
+		},
+		{
+			"serial": 5,
+
+			"header": "The nursing director ensures the competency of the nursing staff.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The nursing director participates in the recruitment and hiring of qualified nurses as outlined in the leadership chapter."
+				},
+				{
+					"header": "The nursing director monitors the performance of the nursing staff and assures their ongoing competency.",
+
+					"details": [
+						"The nursing department develops policies and procedures to define the nursing competency assessment program aiming to ensure that nursing skills and knowledge remain current.",
+						"Nursing staff competencies are assessed on an ongoing basis (atleastannually,and whenever needed).",
+						"Nursing staff competencies are assessed by using different methods (e.g. written test, return demonstration, peer review, feedback from health professionals and supervisors)."
+					]
+				},
+				{
+					"header": "Nursing competencies to be assessed include, but are not limited to, the following:",
+
+					"details": [
+						"Monitoring patient’s vital signs and knowledge of acceptable deviations from the norm.",
+						"Assessment/reassessment of patients according to the scope of services (e.g.critical care, labor and delivery, and surgical units).",
+						"Medications administration.",
+						"Intravenous therapy (insertion, maintenance, discontinuing).",
+						"Infection control guidelines.",
+						"Patient falls (assessment of risk and methods to prevent falls).",
+						"Use of pulse oximetry.",
+						"Nursing role in cardiac/respiratory arrest.",
+						"Nasogastric, gastrostomy and feeding tubes.",
+						"Urinary catheters.",
+						"Sterile dressings.",
+						"Skin care and prevention and care of pressure ulcers.",
+						"Nursing role in disaster, fire, and other emergencies.",
+						"Use of restraints.",
+						"Operation of blood sugar testing equipment.",
+						"Managing chemical spills.",
+						"Use of blood, blood products, and blood –related procedures (e.g., phlebotomy and blood administration)."
+					]
+				}
+			]
+		},
+		{
+			"serial": 6,
+
+			"header": "Sufficient nurses are available to meet the needs of patients.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The nursing director develops a staffing plan that maintains an adequate staffing level in all nursing units."
+				},
+				{
+					"header": "The staffing plan identifies an evidence-based estimation of the number of staff needed per shift, considering all relevant factors (e.g., patient acuity, patient care hours, size of the hospital, scope of services provided)."
+				},
+				{
+					"header": "Nursing staff are allocated according to the skill level, qualifications, patients volume and acuity, and in accordance with laws and regulations and nursing licensing boards."
+				}
+			]
+		},
+		{
+			"serial": 7,
+
+			"header": "The nursing department provides regularly updated work schedule.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There is a nursing scheduling policy that defines:",
+
+					"details": [
+						"Duration of working shifts (e.g., 12 hours, or 8 hours).",
+						"Assignment of overtime when needed.",
+						"On-call requirements.",
+						"Vacation schedules.",
+						"Method for approving change of schedule.",
+						"Participation in education/training activities.",
+						"Participation in designated committees, departmental meetings, andquality improvement activities."
+					]
+				},
+				{
+					"header": "The work schedule provides an adequate number of staff on every shift."
+				}
+			]
+		},
+		{
+			"serial": 8,
+
+			"header": "There is a process for assignment of nurses out of their normal working areas.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The nursing director ensures that nurses assigned out of their normal working area have the competency required for safe and effective patient care."
+				},
+				{
+					"header": "The nursing director maintains a list of cross-trained nurses and makes it available for all nursing units."
+				}
+			]
+		},
+		{
+			"serial": 9,
+
+			"header": "Nursing services are provided by qualified nurses.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The nursing director ensures the availability of adequate number of licensed registered nurses to provide nursing care for all patients."
+				},
+				{
+					"header": "Each unit has a head nurse/nurse manager with the required nursing and managerial experience."
+				},
+				{
+					"header": "Nursing services are provided by registered nurses in accordance with their license and scope of practice."
+				},
+				{
+					"header": "Qualified registered nurses are readily available to provide bedside nursing care to all patients twenty four hours a day, seven days a week."
+				},
+				{
+					"header": "Nursing assistants or aides are supervised by a registered nurse at all times."
+				},
+				{
+					"header": "Nursing assistants have clearly defined job description and responsibilities."
+				},
+				{
+					"header": "There is an education program for nursing assistants performing patient-care services to orient them to their role."
+				}
+			]
+		},
+		{
+			"serial": 10,
+
+			"header": "There is a comprehensive nursing assessment for each patient upon admission.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The nursing assessment is timely completed by a registered nurse."
+				},
+				{
+					"header": "The scope and content of the nursing assessment is defined in hospital policies and may include:",
+
+					"details": [
+						"History of the patient’s main complaint.",
+						"Drug allergies.",
+						"Physical condition.",
+						"Psychosocial status.",
+						"Pain assessment.",
+						"Nutritional Status.",
+						"Discharge planning.",
+						"Skin assessment.",
+						"Fall risk assessment."
+					]
+				},
+				{
+					"header": "The nursing assessment identifies nursing care needs for each patient upon admission."
+				},
+				{
+					"header": "All patients are reassessed at appropriate intervals (at least on every shift) to determine their response to treatment and to plan for continued treatment and discharge."
+				},
+				{
+					"header": "The nursing assessment is documented in the patient’s medical record."
+				}
+			]
+		},
+		{
+			"serial": 11,
+
+			"header": "There is a nursing plan of care for each patient.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "A nursing plan of care is developed for all inpatients."
+				},
+				{
+					"header": "The nursing plan of care is consistent with the medical plan of care."
+				},
+				{
+					"header": "The nursing plan of care is reviewed on every shift, upon any significant change in the patient’s condition, and when new treatments are added or current treatments are discontinued."
+				},
+				{
+					"header": "The nursing plan of care is documented in the patient’s medical record."
+				}
+			]
+		},
+		{
+			"serial": 12,
+
+			"header": "The nursing department ensures adequate supplies and equipment for the safe and effective provision of care.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The nursing department ensures the availability of equipment and supplies necessary for the safe and effective provision of care. This includes, but is not limited to, the following:",
+
+					"detials": [
+						"Scales appropriate to the age group and mobility needs of the patient.",
+						"Stretchers with safety straps.",
+						"Equipment for taking vital signs.",
+						"Wheelchairs with safety straps.",
+						"Sharp boxes.",
+						"Foot stools.",
+						"Lifting devices.",
+						"Soft restraints.",
+						"Bed rails.",
+						"Devices for treatment and prevention of skin break down.",
+						"Patient call bell.",
+						"Oxygen and suction.",
+						"Glucometer.",
+						"Nebolizers.",
+						"Blood Warmer.",
+						"ECG machines"
+					]
+				},
+				{
+					"header": "The Nursing department has a process to maintain adequate supplies and linen to meet patient needs.",
+
+					"details": [
+						"Critical levels are identified.",
+						"Ordering requests are made when critical levels are reached and as needed.",
+						"There is an emergency backup process when there are issues/delays receiving supplies.",
+						"There is a method to track issues with supplies and linen so that patterns can be studied for quality improvement."
+					]
+				}
+			]
+		}
+	]
+}

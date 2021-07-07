@@ -1,0 +1,1969 @@
+{
+	"code": "LB",
+	"standards": [
+		{
+			"serial": 1,
+
+			"header": "Laboratory services are available to meet patient needs and are in accordance with applicable national standards.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The laboratory has a clearly defined scope of services."
+				},
+				{
+					"header": "The laboratory services are in compliance with applicable national standards."
+				},
+				{
+					"header": "Basic laboratory services (e.g., hematology, blood bank and biochemistry) are available twenty four hours a day, seven days a week."
+				},
+				{
+					"header": "When laboratory services are provided through a contract, the hospital provides oversight and management of the contract through the process described in the “Leadership” chapter in this manual."
+				},
+				{
+					"header": "The laboratory has a defined organizational chart that displays key positions including the laboratory director, sections’ heads and supervisors, quality management officer, facility and safety officer, and, as applicable, infection control officer, point of care testing coordinator, and training and education coordinator."
+				}
+			]
+		},
+		{
+			"serial": 2,
+
+			"header": "The laboratory has adequate and functional space and facilities that maintain safe and proper working conditions.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There is a space allocated for the laboratory which provides:",
+
+					"details": [
+						"Proper location and design.",
+						"Adequate patient and donor waiting areas and lavatories.",
+						"Adequate area for each laboratory activity/section.",
+						"Proper, safe, and adequate storage space for reagents, supplies, consumables, samples, records, paraffin blocks, and glass slides.",
+						"Adequate area for administrative and clerical staff."
+					]
+				},
+				{
+					"header": "The laboratory management ensures the availability of the following facilities:",
+
+					"details": [
+						"Adequate water taps and sinks.",
+						"Adequate electrical outlets and emergency power.",
+						"Adequate temperature and humidity control.",
+						"Adequate ventilation.",
+						"Adequate lighting.",
+						"Adequate emergency exits, access control, and all ways are not obstructed.",
+						"Adequate safety signs.",
+						"Clean and well maintained floors, walls, ceilings, bench tops, and sinks.",
+						"Conveniently located telephones."
+					]
+				},
+				{
+					"header": "Personnel safety, quality of work, patient care, and donor care are not compromised by the allocated laboratory space."
+				}
+			]
+		},
+		{
+			"serial": 3,
+
+			"header": "The laboratory services are carried out by qualified staff.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The laboratory services are provided by staff qualified by education, training, and experience."
+				},
+				{
+					"header": " The laboratory director, sections’ heads and supervisors are appropriately qualified according to the complexity of laboratory scope of services.",
+
+					"details": [
+						"The laboratory director of a high complexity laboratory (laboratories of tertiary care hospitals/referral facilities or laboratories providing anatomical pathology and/ or transfusion medicine services) is a licensed/registered anatomical or clinical pathology consultant (board certified or equivalent).",
+						"The laboratory director of a moderate or low complexity laboratory (laboratories with no anatomical pathology and transfusion medicine services) is a licensed/registered clinical scientist or laboratory specialist.",
+						"The sections’ heads/supervisors are qualified (by education, training and experience) in the discipline of their assigned sections.",
+						"The laboratory staff participate in relevant hospital committees."
+					]
+				}
+			]
+		},
+		{
+			"serial": 4,
+
+			"header": "The laboratory has a system for personnel audit trail.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The system allows for the identification of who performed a critical task/step."
+				},
+				{
+					"header": "The system allows for the identification of when, where, and why the task/step is performed."
+				}
+			]
+		},
+		{
+			"serial": 5,
+
+			"header": "The laboratory has a comprehensive training and competency assessment program.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The laboratory implements an orientation, training and competency assessment program that ensures:",
+
+					"details": [
+						"Satisfactory completion of training program for all lab personnel in their assigned area.",
+						"Training on new equipment or method.",
+						"Competency assessment of all laboratory personnel before working independently and annually thereafter.",
+						"Corrective action plan and reassessment in the event of unsatisfactory performance.",
+						"Utilization of the appropriate competency assessment tools, including technique observation for technical competency, assessment of personnel’s knowledge about the contents of the procedures and instruments operation manuals (written/verbal exam), and assessment of personnel’s problem solving skills (unknown samples).",
+						"Laboratory personnel performing tests or tasks requiring color discrimination undergo a color discrimination test."
+					]
+				}
+			]
+		},
+		{
+			"serial": 6,
+
+			"header": "The laboratory has a system for the receipt of incoming supplies and services, inventory management, and tracking of critical materials.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The laboratory implements policies and procedures on documenting the receipt, inspection, and testing (as applicable) of incoming critical material or service."
+				},
+				{
+					"header": "The laboratory implements policies and procedures on inventory management and tracking the use of critical materials, supplies, and reagents to ensure the following:",
+
+					"details": [
+						"Materials are used within their expiration dates.",
+						"New reagents lot numbers are tested against old lots or suitable reference materials before use.",
+						"Kit components are used within the kit lot number.",
+						"Lot number use is traceable to patient/blood donors or inclusive dates of use."
+					]
+				}
+			]
+		},
+		{
+			"serial": 7,
+
+			"header": "The laboratory has reagents and solutions management system.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The laboratory implements policies and procedures to ensure that prepared/reconstituted reagents and solutions are labeled, as applicable, with:",
+
+					"details": [
+						"Content",
+						"Concentration/titer.",
+						"Preparation/reconstitution date.",
+						"Expiration Date.",
+						"Storage requirements."
+					]
+				},
+				{
+					"header": "Laboratory supplies and reagents are stored under appropriate conditions.",
+
+					"details": [
+						"Critical laboratory supplies and reagents are stored according to the manufacturer’s recommendations under controlled conditions or in an appropriate storage device.",
+						"Critical supplies and reagents storage conditions are continuously monitored using appropriate temperature monitoring/recording system.",
+						"In the event of monitoring systems failure, the storage temperature is monitored and recorded every eight hours using a standardized thermometric device."
+					]
+				},
+				{
+					"header": "The laboratory defines and specifies water types.",
+
+					"details": [
+						"There is definition of the specific type of water required for each of its testing procedures.",
+						"Water quality is tested at least annually."
+					]
+				}
+			]
+		},
+		{
+			"serial": 8,
+
+			"header": "The laboratory has a process describing its role in equipment management.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The laboratory has a role in the selection of critical laboratory equipment (equipment that must be operated at defined specifications to ensure the quality of the product or service)."
+				},
+				{
+					"header": "The laboratory has a role in the receipt, installation and identification of critical laboratory equipment."
+				}
+			]
+		},
+		{
+			"serial": 9,
+
+			"header": "The laboratory has a system for equipment validation.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The laboratory implements policies and procedures describing the validation of critical laboratory equipment for its intended use, including:",
+
+					"details": [
+						"Installation Qualification.",
+						"Operational Qualification.",
+						"Detailed functional validation study with predefined acceptance criteria.",
+						"Critical laboratory equipment are not used before completing the validation studies."
+					]
+				}
+			]
+		},
+		{
+			"serial": 10,
+
+			"header": "The laboratory develops a process for test method validation.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The laboratory implements policies and procedures on test method validation including:",
+
+					"details": [
+						"Verification of accuracy/precision.",
+						"Verification of sensitivity (lower detection limit).",
+						"Verification of carryover acceptability.",
+						"Verification of the Analytic Measurement Range (AMR).",
+						"Approval of the method for clinical use."
+					]
+				}
+			]
+		},
+		{
+			"serial": 11,
+
+			"header": "The laboratory develops a process for establishing or verifying and evaluating reference ranges/intervals and cut off values for each analyte and specimen source.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The laboratory implements policies and procedures that define:",
+
+					"details": [
+						"Circumstances and method for establishing reference ranges.",
+						"Circumstances and method for verifying published reference ranges.",
+						"Circumstances and method for the re-evaluation of reference ranges."
+					]
+				}
+			]
+		},
+		{
+			"serial": 12,
+
+			"header": "The laboratory has a system for standardizing critical laboratory instruments.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The laboratory implements policies and procedures defining the calibration, adjustment and/or standardization of critical laboratory instruments. This includes:",
+
+					"details": [
+						"Calibrations and adjustment are performed before use, after activities that may alter the calibration and at predefined intervals.",
+						"All thermometers used in the laboratory are checked against certified standardized thermometric device before being placed in use and annually thereafter.",
+						"All stopwatches and instrument timers are checked against standardized stopwatch before the initial use and every six months thereafter.",
+						"All pipettes (fixed volume and/or adjustable) are checked for accuracy and reproducibility before being placed in use and semi-annually thereafter.",
+						"Balances are placed on vibration resistance surface and checked against standardized weights before being placed in use and every six months thereafter.",
+						"Actions are taken in the event of unsatisfactory results."
+					]
+				},
+				{
+					"header": "Calibration, adjustment and/or standardization procedures conform to the manufacturer’s instructions and best practices."
+				}
+			]
+		},
+		{
+			"serial": 13,
+
+			"header": "The laboratory has a system for instruments/methods correlation.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "When the laboratory uses more than one method and/or instruments to test for a given analyte, the laboratory develops and implements policies and procedures on correlation to ensure the following:",
+
+					"details": [
+						"The correlation studies are conducted every six months.",
+						"There is clear description of the correlation study.",
+						"There are clearly defined acceptance criteria.",
+						"There is a process for review and approval of the correlation results."
+					]
+				}
+			]
+		},
+		{
+			"serial": 14,
+
+			"header": "The laboratory has a system for controlling the quality of test methods.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The laboratory implements policies and procedures on quality control of test methods to satisfy the following:",
+
+					"details": [
+						"Assignment of performance and review responsibility (control specimens are handled and tested in the same manner and by the same laboratory personnel testing patient samples).",
+						"Number and frequency of running controls.",
+						"Tolerance limits of controls results.",
+						"Corrective action to be taken in the event of unacceptable results."
+					]
+				},
+				{
+					"header": "The laboratory quality control system conforms to the manufacturer's instructions."
+				}
+			]
+		},
+		{
+			"serial": 15,
+
+			"header": "The laboratory has comprehensive work instructions and procedures manuals.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The laboratory develops work instructions and procedures manuals that fulfill the following:",
+
+					"details": [
+						"Conform to the hospital document control/management system.",
+						"Readily available at the work areas.",
+						"Prepared in accordance with the instrument operating manual, reagent inserts and/ or manufacturer’s instructions."
+					]
+				}
+			]
+		},
+		{
+			"serial": 16,
+
+			"header": "The Laboratory develops a process for the control of deviations and exceptions.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There is a written policy, process, and forms for the control and documentation of deviations and exceptions to policies and procedures."
+				},
+				{
+					"header": "Deviations and exceptions warranted by clinical situations or special circumstances are justified, pre-approved, and documented on a case-by-case basis."
+				},
+				{
+					"header": "Deviations and exceptions must be approved for only one implementation event by the authorized person who signs the policy or procedure for implementation."
+				}
+			]
+		},
+		{
+			"serial": 17,
+
+			"header": "The laboratory has a comprehensive safety and infection control programs.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The laboratory implements safety and infection control policies and procedures that are in compliance with the national and international laboratory safety standards as well as the hospital safety and infection control plan. Policies define the following:",
+
+					"details": [
+						"Chemical hygiene plan.",
+						"Mercury reduction/elimination plan.",
+						"Mechanism of fumes and vapors monitoring.",
+						"Mechanism of compressed and flammable gases control.",
+						"Radiation safety plan.",
+						"Biological safety procedures and use of standard precautions.",
+						"Tuberculosis and other biological hazards exposure plan.",
+						"Electrical safety plan.",
+						"Fire prevention and control plan.",
+						"Provision and use of Personal Protective Equipment (PPE).",
+						"Provision and control of negative pressure in sections dealing with highly infectious materials.",
+						"Provision, use, and control of fume hoods.",
+						"Provision, use, and control of biological safety cabinets.",
+						"Provision of safety equipment (eye wash, emergency shower, fire extinguisher, fire blanket, biological and chemical spill kits).",
+						"Waste disposal/control plan (chemical, biological and sharps) using prick proof containers and leak proof bags.",
+						"Provision and use of first aid kits.",
+						"Reporting of infection and safety incidents."
+					]
+				},
+				{
+					"header": "The laboratory has safety and infection control training program that includes:",
+
+					"details": [
+						"Initial training and competency assessment.",
+						"Annual training, recertification and competency assessment."
+					]
+				},
+				{
+					"header": "The laboratory has a system for monitoring the laboratory safety and infection control program.",
+
+					"details": [
+						"Documented safety and infection control audits are conducted at regular predefined- intervals (at least twice yearly).",
+						"Findings of the audits are reported to the laboratory director, the facility safety officer, the infection control department, and other concerned parties.",
+						"Corrective actions, whenever needed, are taken and documented."
+					]
+				}
+			]
+		},
+		{
+			"serial": 18,
+
+			"header": "The laboratory has a services/specimen collection manual.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The laboratory develops a services/specimen collection manual that includes the following:",
+
+					"details": [
+						"Available tests and services on and off-site (reference laboratory) and their Turn Around Times (TAT).",
+						"Methods of patient preparation.",
+						"Procedures for positive patient identification.",
+						"Quality and quantity of sample.",
+						"Phlebotomy and sample collection procedures.",
+						"Recognizing and handling adverse reactions to phlebotomy.",
+						"Specimen labeling.",
+						"Requisition and required clinical data.",
+						"Specimen handling and transportation.",
+						"Specimen rejection criteria."
+					]
+				},
+				{
+					"header": "Laboratory services/specimen collection manual is available to all relevant departments."
+				}
+			]
+		},
+		{
+			"serial": 19,
+
+			"header": "The laboratory establishes Turn Around Times (TAT) for routine and STAT tests.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Turnaround Times are clearly defined for routine and STAT tests."
+				},
+				{
+					"header": "Turnaround Times are established in agreement with relevant clinical departments."
+				},
+				{
+					"header": "Turnaround Times are communicated, Implemented, and monitored."
+				}
+			]
+		},
+		{
+			"serial": 20,
+
+			"header": "Requests for laboratory tests or services are complete and legible.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Requests for laboratory tests or services bear sufficient information, including:",
+
+					"details": [
+						"Two patient’s identifiers (patient’s full name and medical record number).",
+						"Patient Age and Sex.",
+						"Patient location.",
+						"Identification of the authorized ordering physician.",
+						"Type of specimen and required test.",
+						"Date and time of specimen collection.",
+						"Identification of the phlebotomist or the person who collected the specimen.",
+						"Additional clinical information, as required."
+					]
+				}
+			]
+		},
+		{
+			"serial": 21,
+
+			"header": "The laboratory ensures correct specimen labeling.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The laboratory implements policies and procedures to ensure correct specimen labeling, including:",
+
+					"details": [
+						"Labeling of the specimen containers is conducted immediately after sample collection at the patient side.",
+						"Two Patient’s identifiers (patient’s full name and medical record number).",
+						"Date and time of sample collection.",
+						"Identification of the person collecting the specimen."
+					]
+				}
+			]
+		},
+		{
+			"serial": 22,
+
+			"header": "The laboratory develops a process for sample handling after collection.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The laboratory has policies and procedures on proper sample handling, transporting, and tracking. This covers:",
+
+					"details": [
+						"Packing instructions (use of biohazard leak-proof containers).",
+						"Personnel training (including safety and proper packaging).",
+						"Specimen tracking system."
+					]
+				},
+				{
+					"header": "The laboratory has a system to maintain the identity of laboratory specimen during receipt, processing, examination, and archiving."
+				}
+			]
+		},
+		{
+			"serial": 23,
+
+			"header": "The laboratory develops a process for specimen receipt.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The laboratory implements policies and procedures for the receipt and inspection of laboratory specimen to ensure the performance and documentation of:",
+
+					"details": [
+						"Date and time of specimen reception.",
+						"Check for proper packaging.",
+						"Check for quality and quantity of specimen.",
+						"Check for adequacy of specimen labeling.",
+						"Check for request completion.",
+						"Check for label/request discrepancies.",
+						"The use of suboptimal specimen is clearly highlighted in the reported results.",
+						"Final decision (accept/reject)."
+					]
+				}
+			]
+		},
+		{
+			"serial": 24,
+
+			"header": "The laboratory has a written description for the format and contents of its reports.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The laboratory has a written description for the format and contents of its reports which include:",
+
+					"details": [
+						"Identification of the testing laboratory.",
+						"Patient identification (full name and medical record number, age and sex).",
+						"Identification of the ordering physician.",
+						"Date and time of specimen collection and the source of specimen.",
+						"Reporting date and time.",
+						"Test results and reference intervals.",
+						"Identification of the authorized person releasing the report."
+					]
+				}
+			]
+		},
+		{
+			"serial": 25,
+
+			"header": "The laboratory develops a process for critical results reporting.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The laboratory implements policies, procedures and records in consultation with clinical departments to address the following:",
+
+					"details": [
+						"Identification of results that should be reported as critical.",
+						"Identification of the notified party.",
+						"Identification of the means of communicating critical results.",
+						"Description of the sequence of conveying the result and read-back."
+					]
+				},
+				{
+					"header": "Documentation of critical results notification event includes:",
+
+					"details": [
+						"Date and time of notification.",
+						"Patient identification.",
+						"Test results.",
+						"Documentation of read-back.",
+						"Identification of the notifying person.",
+						"Identification of the notified person."
+					]
+				}
+			]
+		},
+		{
+			"serial": 26,
+
+			"header": "The laboratory develops a process for amending reported laboratory results.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The laboratory implements policies and procedures for amending/correcting reported results. This includes:",
+
+					"details": [
+						"Definitions of report corrections and amendments.",
+						"Format of the corrected report.",
+						"Requirement to include the previous result in the corrected report.",
+						"Notification of clinical departments.",
+						"Application of general reporting requirements."
+					]
+				}
+			]
+		},
+		{
+			"serial": 27,
+
+			"header": "The laboratory has a process for reference laboratory services.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There is a clearly defined and implemented process describing the laboratory role in selecting and evaluating providers of reference laboratory service, including:",
+
+					"details": [
+						"Selection criteria (including accreditation status) for the provider of reference laboratory services.",
+						"Inclusive list of send-out tests.",
+						"Detailed procedure for specimen transportation and results reporting."
+					]
+				}
+			]
+		},
+		{
+			"serial": 28,
+
+			"header": "The laboratory develops a comprehensive system for Point-of Care-Testing (POCT).",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The laboratory implements policies and procedures to address the following:",
+
+					"details": [
+						"Clear definition of POCT.",
+						"Assignment of the responsibility of managing the POCT to the laboratory.",
+						"Guidelines describing the process of acquiring POCT devices/methods.",
+						"Training and competency testing requirements.",
+						"Maintenance, quality control, and quality management of the POCT devices/methods."
+					]
+				},
+				{
+					"header": "The laboratory assigned a qualified individual as POCT coordinator."
+				}
+			]
+		},
+		{
+			"serial": 29,
+
+			"header": "Laboratory records are retained for defined periods.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The laboratory implements a general laboratory records retention system that ensures the following:",
+
+					"details": [
+						"Laboratory test request forms, specimen accessioning logs, instrument printouts, reported results, records of quality control, proficiency testing records, and quality management reports (quality indicators, audits, process improvement projects) are retained for three years.",
+						"Method/instrument validation records are retained for the entire period of using the method/instrument and three years after discontinued.",
+						"Maintenance records are retained for the life time of the instrument and three years after retirement.",
+						"Employee identification records (signature, initials, identification code, and inclusive dates of hiring) are retained for the entire period of hiring and three years after departure."
+					]
+				},
+				{
+					"header": "The implemented blood bank and transfusion services records retention system ensures the following:",
+
+					"details": [
+						"nspection records (blood, blood components and critical supplies), proficiency testing records, and quality management reports (quality indicators, audits, process improvement projects) are retained for five years.",
+						"Whole blood collection, apheresis collection, therapeutic phlebotomy, therapeutic apheresis, component preparation, component modification, quality control, and normal pre-transfusion testing records are retained for ten years.",
+						"Donation history, donor testing, donor notification, deferred donors, final disposition of blood/blood components, and look back records are retained permanently.",
+						"Abnormal patients testing records (records of patients with antibodies, transfusion reactions or special requirements), patient’s transfusion history, transfusion reaction, and transfusion transmitted diseases investigation records are retained permanently."
+					]
+				},
+				{
+					"header": "The implemented anatomical pathology records retention system ensures the following:",
+
+					"details": [
+						"Surgical pathology reports, outside consultations reports and images of studies are retained for ten years."
+					]
+				},
+				{
+					"header": "Discontinued (retired) blood bank and transfusion controlled documents are retained for five years after the retirement date."
+				},
+				{
+					"header": "Discontinued (retired) general laboratory controlled documents are retained for three years after the retirement date."
+				}
+			]
+		},
+		{
+			"serial": 30,
+
+			"header": "The laboratory has a system for sample retention.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There is a sample retention policy to ensure that general laboratory specimens are retained under appropriate conditions for no less than the periods specified below:",
+
+					"details": [
+						"Whole blood specimens and urine specimens are retained for twenty four hours.",
+						"Serum, plasma, cerebrospinal fluid and other body fluids specimens are retained for forty eight hours.",
+						"Permanently fixed and stained blood films are retained for seven days.",
+						"Permanently fixed and stained microbiology slides are retained for seven days."
+					]
+				},
+				{
+					"header": "The sample retention policy ensures that donors and patients samples are retained under appropriate conditions for no less than the periods specified below:",
+
+					"details": [
+						"Outpatient specimens (not for compatibility testing) are retained for twenty four hours.",
+						"Inpatient specimens are retained for seventy two hours.",
+						"Specimens of patients who receive blood transfusion are retained for seven days after transfusion.",
+						"Segment/specimens from transfused RBC are retained for seven days after transfusion.",
+						"Specimens for transfusion reaction investigation are retained for seven days."
+					]
+				},
+				{
+					"header": "The sample retention policy ensures that anatomical pathology specimen are retained under appropriate conditions for no less than the periods specified below:",
+
+					"details": [
+						"Gross specimens of wet or fixed tissues are retained for fourteen days after the release of final report.",
+						"Paraffin blocks are retained for ten years.",
+						"Glass slides are retained for ten years."
+					]
+				}
+			]
+		},
+		{
+			"serial": 31,
+
+			"header": "The laboratory develops a process for internal (self) and external assessment of operations and quality management system.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The laboratory develops and implements policies and procedures on quality indicators and systems checks."
+				},
+				{
+					"header": "The implemented system covers the selection, data collection, reporting, and monitoring of quality indicators."
+				},
+				{
+					"header": "The laboratory selects and monitors key quality indicators covering the pre-analytical, analytical, and post-analytical phases of the laboratory operations."
+				},
+				{
+					"header": "Selected general laboratory indicators may include, but are not limited to, the following:",
+
+					"details": [
+						"Patient identification errors.",
+						"Rejected specimens.",
+						"Turnaround Time (TAT) of routine, STAT and urgent requests.",
+						"Critical value reporting failures.",
+						"Customer satisfaction.",
+						"Corrected laboratory reports.",
+						"Blood culture contamination."
+					]
+				},
+				{
+					"header": "The selected transfusion services indicators may include, but are not limited to, the following:",
+
+					"details": [
+						"Rejected donors.",
+						"Rejected units.",
+						"Donor satisfaction.",
+						"Adverse donor reactions.",
+						"Usage and discards.",
+						"Ability to meet the patient's needs.",
+						"Blood ordering practices (cross matched/transfused ratio).",
+						"Blood administration practices."
+					]
+				},
+				{
+					"header": "The laboratory has a system for process improvement that covers the following activities:",
+
+					"details": [
+						"Identification of opportunities for improvement.",
+						"Corrective and preventive actions.",
+						"Description of the selected quality improvement tool used in the laboratory."
+					]
+				},
+				{
+					"header": "The laboratory is involved in hospital-wide/multidisciplinary improvement projects. During the current accreditation cycle, the laboratory was engaged in at least four quality improvement projects, including:",
+
+					"details": [
+						"Two general laboratory projects.",
+						"One blood bank project.",
+						"One transfusion services project."
+					]
+				}
+			]
+		},
+		{
+			"serial": 32,
+
+			"header": "The laboratory has a comprehensive system for Proficiency Testing (PT) sufficient for the extent and complexity of the laboratory scope of services.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The laboratory implements policies, processes and procedures on Proficiency Testing to ensure the following:",
+
+					"details": [
+						"All laboratory analytes are covered with Proficiency Testing.",
+						"Alternative Proficiency Testing is performed when appropriate.",
+						"Clear instruction for the receipt, processing and reporting of Proficiency Testing results.",
+						"Proficiency Testing samples are tested by the same personnel handling patient/ donor samples.",
+						"Proficiency Testing sample are tested by the same method used for testing patient/ donor samples.",
+						"Proficiency Testing samples are not referred to other laboratory for testing.",
+						"Proficiency Testing results are not shared with other laboratories.",
+						"Proficiency Testing results are evaluated and compared to the acceptable performance.",
+						"Whenever appropriate, unacceptable performance is investigated and appropriate corrective actions are taken.",
+						"Proficiency Testing records are reviewed and approved by laboratory management.",
+						"Corrective actions are implemented and monitored (if applicable)."
+					]
+				}
+			]
+		},
+		{
+			"serial": 33,
+
+			"header": "The blood bank has a process for identifying and delivering pre-donation education to prospective blood donors.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There are policies and procedures to ensure proper donor identification through:",
+				
+					"details": [
+						"Definition of acceptable form(s) of identification (Saudi national I.D/Iqama).",
+						"Linking the donor identification information to existing donor history (records) on each donor encounter."
+					]
+				},
+				{
+					"header": "The policies and procedures ensure that donors receive appropriate information/education materials, including:",
+
+					"details": [
+						"Educational materials regarding the donation process.",
+						"Educational materials regarding infectious diseases transmitted by blood transfusion.",
+						"Importance of providing accurate information.",
+						"Importance of withdrawing themselves from the donation process if they believe that their blood is not suitable for transfusion.",
+						"Donors acknowledge that the educational materials have been read and understood."
+					]
+				}
+			]
+		},
+		{
+			"serial": 34,
+
+			"header": "The blood bank develops acceptance criteria for blood donors.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The laboratory implements criteria for accepting blood donors to minimize the risk of harm to them. The criteria include:",
+
+					"details": [
+						"Whole blood is not collected from a donor weighing less than fifty Kilograms or under seventeen years of age.",
+						"Whole blood is not collected from a donor more frequently than once every eight weeks and not from donors who donated apheresis product less than forty eight hours ago.",
+						"The blood pressure and pulse rate of prospective donor are within normal ranges; Diastolic blood pressure less than 100 mm Hg, Systolic blood pressure less than 180 mm Hg and pulse rate between 50-100 beats/minute.",
+						"The hemoglobin level of the prospective donor should be greater than 12.5g/dL or a hematocrit of more than 38%.",
+						"The prospective donor has no history of heart or lung disease.",
+						"Female donors are not pregnant or have been pregnant within the last six weeks.",
+						"Prospective donor’s history is evaluated and the donor examined by a qualified person before whole blood collection."
+					]
+				},
+				{
+					"header": "The policies and procedures minimize the risk of harm to blood recipients by preventing donations by individuals who has:",
+
+					"details": [
+						"Evidence of disease transmissible by blood transfusion.",
+						"Conditions thought to compromise the suitability of the blood or blood component. Body temperature exceeding 37.5C.",
+						"History of liver diseases, cancer or bleeding tendency.",
+						"History of laboratory or clinical evidence for viral hepatitis, HIV, HTLV.",
+						"History of laboratory or clinical evidence for malaria within the last three years.",
+						"History of syphilis treatment or unconfirmed test result for syphilis within the past twelve months.",
+						"Been excluded as per the current recommendations for the prevention of HIV infection."
+					]
+				},
+				{
+					"header": "The prospective donor’s travel history checked against the current travel deferral list for the risk of HIV, vCJD and Malaria."
+				},
+				{
+					"header": "The prospective donor’s medications checked against current deferral list. Other medications are assessed by the blood bank physician."
+				},
+				{
+					"header": "The prospective donor’s vaccinations checked against the current vaccination deferral list. Other vaccinations must be assessed by the blood bank physician."
+				},
+				{
+					"header": "Prospective donor’s arms are free of lesions suggestive of skin disease or parenteral drug abuse."
+				}
+			]
+		},
+		{
+			"serial": 35,
+
+			"header": "The blood bank develops acceptance criteria for platelets pheresis donors.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The laboratory implements additional acceptance criteria for platelet pheresis donors. The criteria include:",
+
+					"details": [
+						"Donation Intervals meet the following conditions: eight weeks after whole blood donations, not more than once every forty eight hours, not more than twice a week, not more than four times a month, not more than twenty four times a year, and eight weeks after failure to return the donor red cells during apheresis procedure or the total RBC loss during apheresis procedure exceeds 200 ml."
+					]
+				},
+				{
+					"header": "Use of medications that inhibit platelet function (such as Aspirin and Piroxicam) defers the platelet apheresis donation for seventy two hours after the last dose."
+				},
+				{
+					"header": "The prospective apheresis donor should have a qualifying platelet count of more than 150,000/μl."
+				},
+				{
+					"header": "The acceptance criteria of blood donors outlined in this chapter apply."
+				}
+			]
+		},
+		{
+			"serial": 36,
+
+			"header": "The blood bank has a process for consenting blood donors.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The laboratory implements a process for consenting blood donors to ensure:",
+
+					"details": [
+						"Receiving explanation of the donation procedure.",
+						"Being informed about the risks of the procedure.",
+						"Being informed about the tests performed and the risks of transmission of infectious diseases.",
+						"Being informed about the donor confidentiality and the requirement to report test results to health authorities.",
+						"Being informed that there are circumstances in which blood/blood components are released for transfusion before the completion of infectious disease testing.",
+						"Having read and understood the information presented to him/her.",
+						"Having the opportunity to ask questions and having them answered."
+					]
+				}
+			]
+		},
+		{
+			"serial": 37,
+
+			"header": "The blood bank develops a system for donor notification of significant findings detected during donor screening or after performing laboratory testing.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "A policy and procedure defines events requiring official donor notification."
+				},
+				{
+					"header": "The policy and procedure mandates the provision of proper education, counseling, and referral for donors with significant findings."
+				},
+				{
+					"header": "The policy and procedure mandates that acknowledgment of the notification is documented within eight weeks of donation."
+				}
+			]
+		},
+		{
+			"serial": 38,
+
+			"header": "The Blood Bank develops a system for the calibration of collected blood volume regulators.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The laboratory implements a system for calibration/adjustment of blood volume regulators (blood shakers) to ensure that calibration and adjustment are performed at regular intervals, on every day of use, and after activities that may alter the calibration."
+				},
+				{
+					"header": "Calibration and adjustment procedures conform to the manufacturer’s instructions."
+				}
+			]
+		},
+		{
+			"serial": 39,
+
+			"header": "The blood bank adopts the appropriate system for providing the necessary care for blood donors before, during, and after the procedure.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There is a policy and procedure for venipuncture site preparation to reduce the risk of bacterial contamination of the collected blood/blood component that includes:",
+
+					"details": [
+						"Detailed and appropriate procedure for the collection site preparation.",
+						"Regular assessment of personnel competency on proper venipuncture site preparation."
+					]
+				},
+				{
+					"header": "The blood bank uses appropriate whole blood and apheresis products collection sets. The collection sets used in the blood bank are:",
+
+					"details": [
+						"Sterile and pyrogen-free.",
+						"Closed system.",
+						"Equipped with diversion pouch."
+					]
+				},
+				{
+					"header": "The blood bank has sufficient provisions for providing appropriate care for blood donors during and after the procedure.",
+
+					"details": [
+						"Donors are given proper written post donation instructions.",
+						"Supplies and equipment needed for donors’ care are available.",
+						"Personnel are trained and competent in recognition and handling of adverse donor reactions.",
+						"Personnel have valid basic life support certification."
+					]
+				},
+				{
+					"header": "The blood bank has a process for confidential self unit exclusion and handling post donation information.",
+
+					"details": [
+						"The policies and procedures describe the receiving and documenting self or third party information about the donor.",
+						"The blood/blood product is kept in quarantine for further actions.",
+						"The laboratory management review and decision are documented."
+					]
+				}
+			]
+		},
+		{
+			"serial": 40,
+
+			"header": "The blood bank develops a system for managing adverse donation events.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The laboratory has a system for managing adverse donation events that covers:",
+
+					"details": [
+						"Recognition and handling of adverse donation events.",
+						"Reporting and monitoring of adverse donation events."
+					]
+				}
+			]
+		},
+		{
+			"serial": 41,
+
+			"header": "The blood bank develops a process for the collection of donor blood specimen.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The Laboratory implements a process to ensure that donor blood specimens are:",
+
+					"details": [
+						"Collected during the donation.",
+						"Properly labeled and crosschecked with the collected product label.",
+						"Stored under appropriate and controlled conditions."
+					]
+				}
+			]
+		},
+		{
+			"serial": 42,
+
+			"header": "The blood bank develops a system for the preparation, storage, transportation, and quality control of Red Blood Cells (RBC) components.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "RBC components are prepared by separating the RBC from the plasma proteins."
+				},
+				{
+					"header": "RBC components are stored under properly controlled conditions between 1 and 6°C."
+				},
+				{
+					"header": "RBC components are transported in properly insulated container between 1 and 10°C."
+				},
+				{
+					"header": "RBC components are assigned an expiration date according to the manufacturer’s recommendations or:",
+
+					"details": [
+						"21 Days for RBC in CPD.",
+						"35 Days for RBC in CPDA-1.",
+						"42 Days for RBC in additive solution.",
+						"24 hours post opening the RBC unit."
+					]
+				},
+				{
+					"header": "Policies and procedures ensure that 1% of the monthly production- but not less than 4 units every month- are subjected to quality control testing. All tested RBC units have a hematocrit of less than 80% (RBC in additive solution are exempted from quality control requirement)."
+				}
+			]
+		},
+		{
+			"serial": 43,
+
+			"header": "The blood bank develops a system for the preparation, storage, transportation, and quality control of Platelet Concentrates (PC) components.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "PC components are prepared by separating the platelets from whole blood within eight hours of collection."
+				},
+				{
+					"header": "PC components are stored under properly controlled conditions between 20 and 24°C with continuous agitation."
+				},
+				{
+					"header": "PC components are transported in properly insulated container as close as possible to 20 and 24°C."
+				},
+				{
+					"header": "PC components are assigned an expiration date of twenty four hours to five days from the day of whole blood collection according to the manufacturer’s recommendations or four hours of opening PC unit."
+				},
+				{
+					"header": "Policies and procedures ensure that 1% of the monthly production but not less than four units every month are subjected to quality control testing. On the expiration date or at issue, 90% of the subjected units have a platelet count of 5.5X1010 platelets/unit or more and a minimum pH of 6.2."
+				}
+			]
+		},
+		{
+			"serial": 44,
+
+			"header": "The blood bank develops a system for the preparation, storage, transportation, and quality control of Fresh Frozen Plasma (FFP).",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "FFP components are prepared by separating and freezing the plasma from the whole blood within eight hours of collection and within six hours for plasma collected by apheresis."
+				},
+				{
+					"header": "FFP components are stored under properly controlled conditions below -18°C."
+				},
+				{
+					"header": "During transportation, FFP units are maintained at frozen state in properly insulated container."
+				},
+				{
+					"header": "FFP components are assigned an expiration date of one year from the day of whole blood collection."
+				},
+				{
+					"header": "If cryoprecipitate is not prepared, 1% of the quarterly production- but not less than twelve units every three months- are subjected to quality control testing. 75% of the tested units must have minimum factor VIII level of 700 IU/L."
+				}
+			]
+		},
+		{
+			"serial": 45,
+
+			"header": "The blood bank develops a system for the preparation, storage, transportation, and quality control of Cryoprecipitate (CRYO).",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "CRYO components are prepared by separating cold insoluble proteins from Fresh Frozen Plasma and re-freezing of the product within one hour of preparation."
+				},
+				{
+					"header": "CRYO components are stored under properly controlled conditions below -18°C."
+				},
+				{
+					"header": "During transportation, the CRYO units are maintained at frozen state in properly insulated container."
+				},
+				{
+					"header": "CRYO components are assigned an expiration date of one year from the day of whole blood collection."
+				},
+				{
+					"header": "Policies and procedures ensure that 1% of the quarterly production- but not less than twelve units every three months- are subjected to quality control testing. 75% of the tested units must have minimum factor VIII level of 80 IU/unit and 150mg of fibrinogen/bag."
+				}
+			]
+		},
+		{
+			"serial": 46,
+
+			"header": "The blood bank develops a system for the preparation, storage, transportation, and quality control of platelet apheresis units.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Platelet apheresis units are prepared by separating the platelets from whole blood using apheresis machine."
+				},
+				{
+					"header": "Policies and procedures ensure that 1% of the monthly production-but not less than 4 units every month- subjected to quality control testing. On the expiration date or at issue, all of the subjected units must have a platelet count of 3.0X1011 platelets/unit or more, a minimum pH of 6.2, and a residual WBC count of 5X106 WBC/ unit."
+				},
+				{
+					"header": "Requirements for PC storage, transport, and expiration apply."
+				}
+			]
+		},
+		{
+			"serial": 47,
+
+			"header": "The blood bank and transfusion services develop policies and procedures to ensure that the prepared and/or transfused Leukocyte-Reduced Red Blood Cells (LR-RBC) units are handled in an appropriate manner.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Policies and procedures ensure that LR-RBC units are prepared by a method known to retain 85% of the RBC in the original product and a residual WBC count of less than 5X106 WBC/ unit."
+				},
+				{
+					"header": "Policies and procedures ensure that 1% of the quarterly production -but not less than 12 units every three months- are subjected to quality control testing. All tested LR-RBC units have a RBC recovery rate of more than 85% and a residual WBC count of less than 5X106 WBC/unit in all subjected units."
+				},
+				{
+					"header": "Requirements for RBC preparation, storage, transport and expiration apply."
+				}
+			]
+		},
+		{
+			"serial": 48,
+
+			"header": "The blood bank and transfusion services develop policies and procedures to ensure that the prepared and/or transfused Leukocyte-Reduced Platelet concentrates (LR-PC) units are handled in an appropriate manner.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Policies and procedures ensure that LR-PC units are prepared by a method known to retain 85% of the platelets in the original product and a residual WBC count of less than 8.3X105 WBC/ unit or 5X106 WBC/pool of six units."
+				},
+				{
+					"header": "Policies and procedures ensure that 1% of the quarterly production -but not less than twelve units every three months- are subjected to quality control testing. All tested LR-PC units have a platelets recovery rate of more than 85% and a residual WBC count of less than 8.3X105 WBC/ unit or 5X106 WBC/pool of six units."
+				},
+				{
+					"header": "Requirements for PC preparation, storage, transport and expiration apply."
+				}
+			]
+		},
+		{
+			"serial": 49,
+
+			"header": "The blood bank and transfusion services develop policies and procedures to ensure that the prepared and/or transfused irradiated cellular blood products are handled in an appropriate manner.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Policies and procedures ensure that irradiated cellular blood products are prepared by a method known to ensure that irradiation has occurred at each time of use."
+				},
+				{
+					"header": "Policies and procedures ensure that the preparation method used is known to deliver a minimum of 25 GY to the central part of the canister and a minimum of 15 GY at any point. Verification of dose delivered must be performed and evaluated annually."
+				},
+				{
+					"header": "Policies and procedures ensure that irradiated RBC components assigned an expiration date not exceeding twenty eight days from the date of irradiation or the original assigned expiration date (whichever occurs first)."
+				},
+				{
+					"header": "Policies and procedures ensure that irradiated platelet components retain their original expiration date."
+				}
+			]
+		},
+		{
+			"serial": 50,
+
+			"header": "The blood bank develops a process for initial immune-hematological testing of blood donor samples.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There are policies and procedures mandating that a sample of blood obtained from the donor during blood/ blood component collection is subjected to the following testing:",
+
+					"details": [
+						"Determination of the donor’s forward ABO group (RBC grouping).",
+						"Determination of the donor’s reverse ABO group (serum grouping).",
+						"Determination of the donor’s Rh-D type (including a test for weak-D).",
+						"Detection of unexpected antibodies to red cell antigens (antibody screening).",
+						"There is a confirmation of agreement between donor’s current and historical group/ type."
+					]
+				},
+				{
+					"header": "Discrepancies are solved before releasing any blood/blood components."
+				}
+			]
+		},
+		{
+			"serial": 51,
+
+			"header": "The blood bank develops a process to prevent disease transmission by blood/platelet transfusion.",
+
+			"tags": ["ESR"],
+
+			"details": [
+				{
+					"header": "There are policies and procedures mandating that a sample of blood obtained from the donor during blood/ blood component collection is subjected to the following infectious diseases testing:",
+
+					"details": [
+						"HBsAg.",
+						"Anti-HBc.",
+						"Anti-HCV.",
+						"Anti-HIV-1/2.",
+						"Anti-HTLV-I/II.",
+						"HIV-1 RNA.",
+						"HCV RNA.",
+						"HBV DNA.",
+						"Serological test for syphilis.",
+						"Other additional or supplemental tests as mandated by relevant health authorities."
+					]
+				},
+				{
+					"header": "The blood bank has a process to limit and detect bacterial contamination in platelet components. The process:",
+
+					"details": [
+						"Describes the blood bank approach to limit bacterial contamination and the investigations of positive cases.",
+						"Ensures the employed detection method is sensitive enough to detect significant bacterial contamination."
+					]
+				}
+			]
+		},
+		{
+			"serial": 52,
+
+			"header": "The blood bank establishes a process for the identification and discard of unacceptable blood/blood product.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The process mandates two qualified staff members to perform and document this activity."
+				},
+				{
+					"header": "The process mandates discarding unacceptable components before the initial labeling of blood and blood components."
+				}
+			]
+		},
+		{
+			"serial": 53,
+
+			"header": "The blood bank develops a process for initial labeling of blood and blood components.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There are policies and procedures to ensure that:",
+
+					"details": [
+						"Blood and blood components are not labeled before completion of the donor testing.",
+						"Blood and blood components are not labeled before the discard of unacceptable units."
+					]
+				},
+				{
+					"header": "Initial labeling requirements include:",
+
+					"details": [
+						"Identification of the collecting facility. Product name.",
+						"Unit number.",
+						"ABO/Rh.",
+						"Expiration date and time."
+					]
+				}
+			]
+		},
+		{
+			"serial": 54,
+
+			"header": "The blood bank has a process to confirm the ABO/Rh-D of donated blood.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There is a process to confirm the ABO/Rh-D of donated blood which mandates that segment from RBC components is subjected to the following testing:",
+
+					"details": [
+						"Determination of the donor’s forward ABO group (RBC grouping).",
+						"Determination of the donor’s Rh-D type.",
+						"ABO/Rh-D conformation is performed after initial labeling."
+					]
+				},
+				{
+					"header": "Discrepancies are solved before releasing any blood/blood components."
+				}
+			]
+		},
+		{
+			"serial": 55,
+
+			"header": "The blood bank establishes a process to prevent the release of units that are not suitable for transfusion to the available inventory.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Policies, processes, and procedures ensure the accuracy and legibility of identification information."
+				},
+				{
+					"header": "Policies, processes, and procedures ensure the agreement of the identification information (records and donor units)."
+				},
+				{
+					"header": "Policies, processes, and procedures ensure the performance of visual inspection for discoloration, clots, hemolysis, and adequacy of seal."
+				},
+				{
+					"header": "Policies, processes, and procedures ensure two qualified staff members perform and document this activity."
+				}
+			]
+		},
+		{
+			"serial": 56,
+
+			"header": "The transfusion services establish a process for the release of incompletely tested blood/blood components.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There are implemented policies, processes and procedures to ensure that incompletely tested blood/blood components can be released under the following circumstances:",
+
+					"details": [
+						"For urgent need only.",
+						"Upon the discretion of the medical director of the transfusion medicine, the agreement of the attending physician and the consent of the patient or next of kin, when applicable.",
+						"Approved only for a particular patient and one transfusion event.",
+						"The released blood products are conspicuously labeled to this effect."
+					]
+				},
+				{
+					"header": "Testing of the blood/blood components must be completed and reported promptly to the attending physician."
+				},
+				{
+					"header": "Deviations and exceptions standard in this chapter applies."
+				}
+			]
+		},
+		{
+			"serial": 57,
+
+			"header": "The blood bank has a process for request, approval, and execution of therapeutic procedures.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The process ensures all therapeutic procedures are ordered and justified by an authorized physician."
+				},
+				{
+					"header": "The process ensures the blood bank medical director or designee is responsible for reviewing therapeutic procedures orders for appropriateness and evaluating patient clinical and laboratory data before approving the procedure."
+				},
+				{
+					"header": "The process ensures therapeutic procedures are explained to the patient and consented."
+				},
+				{
+					"header": "The process ensures that blood/ blood components discarded immediately after collection."
+				}
+			]
+		},
+		{
+			"serial": 58,
+
+			"header": "The blood bank and transfusion services use appropriate blood and blood components storage devices.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The blood and blood components storage devices are:",
+
+					"details": [
+						"Designed for the intended use.",
+						"Equipped with continuous temperature monitoring system (temperature recording).",
+						"Equipped with audio/visual alarm systems."
+					]
+				},
+				{
+					"header": "The device's alarm and monitoring system conforms with the following:",
+
+					"details": [
+						"Activates at a temperature that allows for intervention before the contents reaches unacceptable temperature.",
+						"Activates at an area staffed 24 hours a day, seven days a week.",
+						"Connected to a separate or DC power supply."
+					]
+				},
+				{
+					"header": "The alarm system is checked weekly."
+				},
+				{
+					"header": "Alarm activation temperatures are checked quarterly."
+				},
+				{
+					"header": "The inner temperature of blood storage devices is monitored and recorded at least once a day using a standardized thermometric device."
+				},
+				{
+					"header": "In the event of failure of continuous temperature monitoring, temperature recording, or alarm systems, the inner temperature is monitored and recorded every four hours."
+				}
+			]
+		},
+		{
+			"serial": 59,
+
+			"header": "The blood bank and transfusion services develop policies and procedures to ensure that the thawed Fresh Frozen Plasma (FFP) units are handled in an appropriate manner.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Thawed FFP units are prepared by thawing the FFP between 30 and 37°C without direct contact with the water."
+				},
+				{
+					"header": "Thawed FFP units are stored under properly controlled conditions between 1 and 6°C."
+				},
+				{
+					"header": "Thawed FFP units are transported in properly insulated container between 1 and 10°C."
+				},
+				{
+					"header": "Thawed FFP units are assigned an expiration time of twenty four hours from the thawing time."
+				},
+				{
+					"header": "Requirements for FFP preparation, storage, transport and expiration apply."
+				}
+			]
+		},
+		{
+			"serial": 60,
+
+			"header": "The blood bank and transfusion services develop policies and procedures to ensure that the thawed CRYO units are handled in an appropriate manner.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Thawed CRYO units are prepared by thawing CRYO units between 30 and 37°C without direct contact with the water."
+				},
+				{
+					"header": "Thawed CRYO units are stored and transported at room temperature (between 20 and 24°C)."
+				},
+				{
+					"header": "Thawed CRYO units are assigned an expiration time of six hours from the thawing time for individual units and four hours from the thawing time of pooled units."
+				},
+				{
+					"header": "Requirements for CRYO preparation, storage, transport and expiration apply."
+				}
+			]
+		},
+		{
+			"serial": 61,
+
+			"header": "The Blood bank and transfusion services develop a system for reagents quality control.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Policies and procedures ensure performance of reagents quality control on each day of use."
+				},
+				{
+					"header": "Policies and procedures ensure anti-sera are checked against known positive and negative cells."
+				},
+				{
+					"header": "Policies and procedures ensure reagent Red Blood Cells are checked against known positive and negative anti-sera."
+				},
+				{
+					"header": "Policies and procedures ensure results are checked against predefined acceptable results."
+				},
+				{
+					"header": "Policies and procedures ensure results are reviewed and reagents are approved before use for patient testing."
+				},
+				{
+					"header": "Corrective actions are taken for unacceptable results."
+				}
+			]
+		},
+		{
+			"serial": 62,
+
+			"header": "The blood bank and transfusion services implement a system for receiving or sending blood and blood products to outside facilities.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There are written blood supply/exchange agreements with outside facilities covering the following:",
+
+					"details": [
+						"Agreement conditions (including accreditation status).",
+						"Agreement on adequate blood/blood components inventory.",
+						"Role of the involved parties in look back and transfusion transmitted diseases investigation.",
+						"Release of blood, blood components or information to a third party.",
+						"Validity of agreement and agreement review schedule.",
+						"Resolving disputes."
+					]
+				},
+				{
+					"header": "There is a written procedure describing the process for requesting or releasing blood from or to outside facilities."
+				},
+				{
+					"header": "Policies and procedures on receipt and inspection of incoming blood/blood components include:",
+
+					"details": [
+						"Evaluation and verification of the shipping condition of each blood component.",
+						"Checking for meeting predefined acceptance criteria for each blood component received.",
+						"Evaluation and verification of the agreement of units’ identification information (unit numbers, ABO/Rh-D and Expiration dates).",
+						"Conformation of ABO/Rh-D for RBC components.",
+						"Actions taken for unsatisfactory consignment."
+					]
+				}
+			]
+		},
+		{
+			"serial": 63,
+
+			"header": "The blood bank and transfusion services implement a system for pre-transfusion testing of the recipient.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Pre-transfusion testing is performed on a specimen collected from the recipient with every admission and within three days of the scheduled transfusion time."
+				},
+				{
+					"header": "There is a consistency between patient’s current and historical records (including group/type, antibody screening). Discrepancies are resolved before performing compatibility testing."
+				},
+				{
+					"header": "When there is no history for the patient in the transfusion services records or computer system, two determinations of the patients ABO/RhD must be made on two specimens collected during the current admission."
+				},
+				{
+					"header": "Pre-transfusion testing includes:",
+
+					"details": [
+						"Determination of the patient’s forward ABO group (RBC grouping).",
+						"Determination of the patient’s reverse ABO group (Serum Grouping).",
+						"Determination of the patient’s Rh-D type.",
+						"Detection and Identification (if applicable) of unexpected antibodies to red cell antigens."
+					]
+				}
+			]
+		},
+		{
+			"serial": 64,
+
+			"header": "The transfusion services develop a system for the selection of blood/ blood product for transfusion.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There are policies and procedures for the selection of blood/blood product for transfusion to ensure the following:",
+
+					"details": [
+						"The selected red blood cells component is ABO group-specific or ABO group- compatible with the recipient’s plasma.",
+						"Only Rh-D negative red blood cell components are transfused to Rh-D negative patients.",
+						"Identification of the conditions for the release of Rh-D positive red blood cells components to Rh-D negative patients.",
+						"If the patient has current or previous history of clinically significant antibodies in the patient serum, the selected red cells must lack the corresponding antigen(s)."
+					]
+				},
+				{
+					"header": "There are policies and procedures for the selection of plasma components for transfusion to ensure the following:",
+
+					"details": [
+						"The selected plasma component is ABO group-specific or ABO group-compatible with the recipient’s RBC.",
+						"Conditions for the release of ABO-incompatible plasma are identified.",
+						"In the presence of clinically significant antibody in the donor’s plasma, the recipient red cells must lack the corresponding antigen.",
+						"If the plasma components are visually contaminated with red blood cells (more than 2 ml of RBC), RBC selection criteria apply."
+					]
+				},
+				{
+					"header": "There are policies and procedures for the selection of blood/blood components for patients with special requirements that address the following:",
+
+					"details": [
+						"The use of leukocyte-reduced cellular blood components.",
+						"The use of irradiated-cellular blood components.",
+						"Transfusion of known hemoglobin-S patients.",
+						"Massive transfusions."
+					]
+				}
+			]
+		},
+		{
+			"serial": 65,
+
+			"header": "The transfusion services establish a process for compatibility testing.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There is a process to ensure the detection of ABO incompatibility between the recipient’s serum/plasma and the donor’s RBC."
+				},
+				{
+					"header": "The process ensures the compatibility testing is performed on integrally attached segment from the donor’s RBC unit."
+				},
+				{
+					"header": "The process ensures the checking for presence, now or in the past, of clinically significant antibody in the patient’s serum."
+				},
+				{
+					"header": "The process ensures the proper labeling of cross-matched units with patient’s name, patient’s identification number and patient’s ABO /Rh-D."
+				}
+			]
+		},
+		{
+			"serial": 66,
+
+			"header": "The transfusion services develop a process for intra-uterine and neonatal testing and transfusion.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There is a process for intra-uterine and neonatal testing and transfusion that entails determination of the neonate ABO/Rh and conditions for repeat of ABO/Rh testing."
+				},
+				{
+					"header": "The process entails performance and interpretation of Direct Anti-globulin Test (DAT)."
+				},
+				{
+					"header": "The process describes conditions for omitting re-typing and serological cross-match."
+				},
+				{
+					"header": "The process considers the clinically significant antibodies of maternal origin."
+				},
+				{
+					"header": "The process describes selection of RBC and plasma components for top-up, exchange and intrauterine transfusions."
+				}
+			]
+		},
+		{
+			"serial": 67,
+
+			"header": "The transfusion services develop a process for the issue of blood/blood component for transfusion.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There is a process for the issue of blood/blood component to ensure accurate identification of the intended recipient and the required blood components."
+				},
+				{
+					"header": "The process ensures the integrity of the donor unit identification label and the recipient identification label."
+				},
+				{
+					"header": "The process ensures confirmation that the donor’s ABO/Rh is identical with the recipient’s, or marked compatible."
+				},
+				{
+					"header": "The process ensures proper documentation of the release event."
+				}
+			]
+		},
+		{
+			"serial": 68,
+
+			"header": "The transfusion services develop a process for emergency release of uncross-matched or incompletely cross-matched blood.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There is a process for emergency release of uncross-matched or incompletely cross-matched blood that ensures a proper ordering procedure and required ordering information."
+				},
+				{
+					"header": "The process considers age and sex factors."
+				},
+				{
+					"header": "The process ensures ABO/Rh-D and labeling of the selected blood."
+				},
+				{
+					"header": "The process ensures subsequent compatibility testing and notification of the results."
+				},
+				{
+					"header": "The process ensures documentation of the release event (including the ordering physician signature)."
+				}
+			]
+		},
+		{
+			"serial": 69,
+
+			"header": "The medical director of the transfusion services participates (through the blood transfusion committee) in the development of a process for the management of adverse or suspected transfusion events.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There is a process for the management of adverse transfusion events which covers:",
+
+					"details": [
+						"Recognition and handling of adverse transfusion events.",
+						"Reporting and monitoring of adverse transfusion events."
+					]
+				},
+				{
+					"header": "There is a process for management of suspected transfusion reactions which covers:",
+
+					"details": [
+						"Clerical check of the identification information and records.",
+						"Visual inspection of the blood product, pre and post transfusion samples.",
+						"Initial immune-hematological testing and conditions for performing additional testing (minor/major cross-match, urine analysis, biochemistry, microbial culture).",
+						"Conclusion and instructions for future transfusion."
+					]
+				},
+				{
+					"header": "Transfusion reaction reports are reviewed by the transfusion services medical director and the transfusion committee."
+				}
+			]
+		},
+		{
+			"serial": 70,
+
+			"header": "The medical director of the transfusion services participates (through the blood transfusion committee) in the development and implementation of a process for the investigation of suspected cases of post-transfusion infection.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There is a process for the investigation of suspected cases of post-transfusion infection which ensures the following:",
+
+					"details": [
+						"Prompt identification of the implicated donors.",
+						"Prompt notification of the collecting facility (if applicable).",
+						"Prompt quarantine of available components from the implicated donors.",
+						"Investigating the implicated donors.",
+						"Assigning appropriate deferrals to the implicated donors.",
+						"Reporting the investigation results (internally and externally), as applicable."
+					]
+				},
+				{
+					"header": "The process for investigation of donors subsequently found to have transfusion transmissible disease (Look Back)ensures the following:",
+
+					"details": [
+						"Prompt quarantine of available components from the same donor.",
+						"Prompt identification of the recipients.",
+						"Prompt notification of the facility where the transfusion was conducted (if applicable).",
+						"Prompt notification of the patient’s physician and/or infection control.",
+						"Investigation and follow-up of recipients.",
+						"Reporting the investigation results (internally and externally), as applicable."
+					]
+				}
+			]
+		},
+		{
+			"serial": 71,
+
+			"header": "Gross examination of surgical pathology specimens is performed by a qualified pathologist.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Surgical specimens are subjected to gross examination by a qualified pathologist or another qualified individual under the supervision of a qualified pathologist."
+				},
+				{
+					"header": "When gross examination is performed by individuals other than pathologists, the laboratory maintains the following:",
+
+					"details": [
+						"Training records.",
+						"Extent of their activity.",
+						"Scheme of supervision."
+					]
+				}
+			]
+		},
+		{
+			"serial": 72,
+
+			"header": "There is a process for daily review by a pathologist of all technical activities in the anatomical pathology laboratory.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There is a process that mandates a documented daily review of all activities in the anatomical pathology lab, including :",
+
+					"details": [
+						"Specimen processing.",
+						"Quality of histology and cytology preparation.",
+						"Quality of routine and special stains."
+					]
+				}
+			]
+		},
+		{
+			"serial": 73,
+
+			"header": "The anatomical pathology develops a process for the provision of intra-operative surgical pathology services.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There is a process for the provision of intra-operative surgical pathology services which addresses:",
+
+					"details": [
+						"Scheduling of cases.",
+						"Specimen acceptance, accessioning, processing and testing.",
+						"Documentation of direct verbal communication with the surgeon.",
+						"Inclusion of the frozen section results with the final surgical pathology report."
+					]
+				}
+			]
+		},
+		{
+			"serial": 74,
+
+			"header": "The anatomical pathology develops a process for intra-departmental and extra-departmental consultations.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There is a process for intra-departmental and extra-departmental consultations that addresses circumstances for the inclusion of the consultation in the final pathology report."
+				},
+				{
+					"header": "The process addresses circumstances for separate filing of the consultation report."
+				}
+			]
+		},
+		{
+			"serial": 75,
+
+			"header": "The anatomical pathology develops guidelines for compiling surgical pathology reports.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There are implemented guidelines for compiling surgical pathology reports, addressing the following elements:",
+
+					"details": [
+						"Gross description (type, number, dimensions).",
+						"Essential processing information and performed studies.",
+						"Other relevant report elements necessary for the management of the patient."
+					]
+				}
+			]
+		},
+		{
+			"serial": 76,
+
+			"header": "The anatomical pathology has a process for reviewing the previous cytology and histology material and solving disparities.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There is a policy mandating the inclusion of review results with the current patient report."
+				},
+				{
+					"header": "The policy covers solving and documenting disparities between frozen section/ cytology/ gross examination and the final pathology report."
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,326 @@
+{
+	"code": "ER",
+	"standards": [
+		{
+			"serial": 1,
+
+			"header": "Qualified physician is responsible for managing the emergency department.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The head of the emergency department is a physician qualified by education, training, and experience in managing emergency patients."
+				},
+				{
+					"header": "The head of the emergency department supervises the development and implementation of policies and procedures related to managing emergency patients."
+				}
+			]
+		},
+		{
+			"serial": 2,
+
+			"header": "Emergency department staff members have the appropriate qualifications.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The emergency department is covered twenty four hours a day, seven days a week by qualified emergency physicians."
+				},
+				{
+					"header": "On call rosters for all specialties are available and posted in the emergency department."
+				},
+				{
+					"header": "There is an established policy on how to call consultants for opinions."
+				},
+				{
+					"header": "All staff members are qualified and experienced in emergency care."
+				},
+				{
+					"header": "Clinical staff who participate in caring for patients in the emergency department are certified in advanced life support as appropriate to the ages of the patients served (including Advanced Trauma Life Support) and are present on site or at least one certified individual is assigned on every shift."
+				}
+			]
+		},
+		{
+			"serial": 3,
+
+			"header": "Qualified nurse manager supervises nursing services in the emergency department.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The nurse manager in charge of the emergency department is a qualified registered nurse with bachelor degree in nursing and appropriate education, training, and experience in emergency care."
+				}
+			]
+		},
+		{
+			"serial": 4,
+
+			"header": "The emergency department has adequate nursing coverage by qualified staff.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Nursing staffing plan is based on patient volume and patient acuity and ensures adequate coverage twenty four hours a day, seven days a week."
+				}
+			]
+		},
+		{
+			"serial": 5,
+
+			"header": "Nursing staff in the emergency department receive continuous training with competency assessment.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Nursing staff in the emergency department receive training and education as relevant to the scope of services."
+				},
+				{
+					"header": "There is ongoing competency assessment for the nursing staff."
+				},
+				{
+					"header": "The competency assessment of the nursing staff is documented."
+				}
+			]
+		},
+		{
+			"serial": 6,
+
+			"header": "The emergency department has adequate resources that support the provision of safe care.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The emergency department has the necessary equipment, supplies, and medications as appropriate to the scope of services."
+				},
+				{
+					"header": "There is a documented process to check equipment and stock refill on a regular basis or when needed."
+				},
+				{
+					"header": "Resuscitation/trauma rooms have adequate space to perform resuscitation."
+				},
+				{
+					"header": "The medical bag contains all essential resuscitation medications."
+				},
+				{
+					"header": "The medical bag is checked daily and refilled after use."
+				},
+				{
+					"header": "Waiting areas are available and are visually accessible to the medical staff."
+				},
+				{
+					"header": "Registration clerk is available to register emergency patients."
+				},
+				{
+					"header": "Security measures and trained personnel are planned for protection of emergency department patients and staff."
+				}
+			]
+		},
+		{
+			"serial": 7,
+
+			"header": "The clinical records of the emergency department are properly completed.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There is an emergency department record form that is completed for every patient presenting for care in the emergency room."
+				},
+				{
+					"header": "The emergency record is kept in the patient’s medical record."
+				}
+			]
+		},
+		{
+			"serial": 8,
+
+			"header": "There is an effective triage process to prioritize emergency patients.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There is a process to identify patients with urgent or emergent care needs."
+				},
+				{
+					"header": "Patients with urgent or emergent needs are given priority for assessment and appropriate and timely care."
+				},
+				{
+					"header": "Re-triage is performed when appropriate (e.g., change of medical condition, long waiting time)."
+				}
+			]
+		},
+		{
+			"serial": 9,
+
+			"header": "Policies, procedures, pathways and guidelines guide the care of patients in the emergency department.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There are policies and procedures that are consistent with the hospital scope of services as well as the hospital wide policies and procedures."
+				},
+				{
+					"header": "The policies and procedures include, but are not limited to, the following:",
+
+					"details": [
+						"Management of medico-legal cases such as alcohol and narcotic abuse and criminal acts.",
+						"Management of suspected victims of abuse, neglect, and domestic violence.",
+						"Management of suicidal patients.",
+						"Care of trauma patients.",
+						"Care of patients not competent to care for themselves.",
+						"Care of minors.",
+						"Patient transfer from emergency department to inpatient areas or to another organization.",
+						"Patients who leave against medical advice.",
+						"Patients who leave without being seen."
+					]
+				},
+				{
+					"header": "here are clinical practice guidelines developed as guided by the most common emergencies and the top emergency diagnoses."
+				},
+				{
+					"header": "The policies, procedures, and guidelines are developed by the emergency department head, the nurse manager, and staff in collaboration with other relevant department heads."
+				}
+			]
+		},
+		{
+			"serial": 10,
+
+			"header": "The hospital implements a policy that defines the responsibility for patients in the emergency department.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The policy defines the physician responsible for the care of patients in the emergency department including patients under observation, patients waiting for admission, patients waiting for admission with no bed available (boarding patients) and patients waiting for transfer to another organization."
+				},
+				{
+					"header": "Boarding patients receive the same care as inpatients."
+				},
+				{
+					"header": "The transfer of responsibility is documented at times of shifts, handovers, referral and admission."
+				}
+			]
+		},
+		{
+			"serial": 11,
+
+			"header": "Emergency diagnostic tests are performed and results communicated on a timely manner.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Laboratory and radiological diagnostic investigations required for a safe patient care are available twenty four hours a day, seven days a week."
+				},
+				{
+					"header": "The hospital has a process to provide all investigations that are essential but not available."
+				},
+				{
+					"header": "Results of investigations are available to the emergency staff within a defined time frame."
+				}
+			]
+		},
+		{
+			"serial": 12,
+
+			"header": "The emergency department has a channel of communication with the designated regional drug and poison information center when needed.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The contact details of the regional drug and poison information center are available and accessible to the staff in the emergency department."
+				},
+				{
+					"header": "The hospital communicates with regional poison center when a need arises."
+				},
+				{
+					"header": "The emergency department is equipped to deal with the most common and/or risky poisonous injuries in the community it serves."
+				}
+			]
+		},
+		{
+			"serial": 13,
+
+			"header": "There is an efficient process for emergency consultations.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital implements a clear policy and procedure that regulates consultation requests coming from the emergency department."
+				},
+				{
+					"header": "Levels of consultations are identified including Immediate (life, limb, or function threatening) and emergent consultations."
+				},
+				{
+					"header": "Level of consulted physicians and the ways of communications are included."
+				},
+				{
+					"header": "Timelines of phone response and physical presence to different types of consultations are included."
+				},
+				{
+					"header": "If a consultation from outside the hospital is needed, the process is included in the policy (e.g., admit and consult, patient transfer, city wide on call specialty)."
+				}
+			]
+		},
+		{
+			"serial": 14,
+
+			"header": "Emergency department quality indicators are monitored and reported.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The Emergency department selects and monitors key quality indicators that are monitored and reported on a regular basis."
+				},
+				{
+					"header": "The selected emergency department indicators may include, but are not limited to, the following:",
+
+					"details": [
+						"Time to ECG in chest pain patients.",
+						"Time to antibiotics in sepsis patients.",
+						"Triage to physician time."
+					]
+				}
+			]
+		},
+		{
+			"serial": 15,
+
+			"header": "The hospital maintains effective ambulance services.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Emergency department has appropriate channels of communication with Red Crescent services upon receiving or transferring patients."
+				},
+				{
+					"header": "The ambulance services are supervised by emergency department director or emergency department nursing manager."
+				},
+				{
+					"header": "The ambulances have adequate equipment and supplies to be ready for transfer of patients twenty four hours a day, seven days a week."
+				},
+				{
+					"header": "Equipment and supplies are based on Trauma/resuscitation area preparation to transfer critically ill patients."
+				},
+				{
+					"header": "A documented daily check is conducted on both medical and mechanical functions of ambulances."
+				},
+				{
+					"header": "Maintenance of ambulance equipment is regularly conducted and documented."
+				}
+			]
+		}
+	]
+}

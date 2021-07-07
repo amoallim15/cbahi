@@ -1,0 +1,108 @@
+{
+	"code": "PT",
+	"standards": [
+		{
+			"serial": 1,
+
+			"header": "Physiotherapy services are provided by qualified therapists.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "A physiotherapist qualified by education, training, and experience manages the physiotherapy department.",
+
+					"details": [
+						"The department head supervises all aspects of physiotherapy services in the hospital.",
+						"The department head develops a written scope of services of the physiotherapy department.",
+						"The department head recommends space and equipment to meet the scope of services."
+					]
+				},
+				{
+					"header": "Staff members are qualified by appropriate education, training, and experience in physical rehabilitation."
+				}
+			]
+		},
+		{
+			"serial": 2,
+
+			"header": "Policies, procedures and protocols guide the care of patients undergoing physiotherapy in the hospital.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Policies, procedures, and protocols include, but are not limited to, the following:",
+
+					"details": [
+						"Management of strokes.",
+						"Management of hip replacements.",
+						"Management of knee replacements.",
+						"Management of back pain.",
+						"Safety measures.",
+						"Communication with the physicians."
+					]
+				},
+				{
+					"header": "Policies are collaboratively developed with the medical staff, nursing staff, and other relevant departments."
+				}
+			]
+		},
+		{
+			"serial": 3,
+
+			"header": "Patients identified to be at functional risk have comprehensive functional assessment performed.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Functional screening is conducted by qualified hospital staff (e.g., registered nurse) to determine the patient’s need for a comprehensive functional assessment by a licensed therapist."
+				},
+				{
+					"header": "The criteria used for functional screening during the initial assessment of patients are developed and approved by qualified therapists"
+				},
+				{
+					"header": "Comprehensive functional assessment is performed by a qualified therapist for each patient identified at functional risk during the initial screening or assessment."
+				},
+				{
+					"header": "Functional assessment is completed within twenty four hours of referral."
+				},
+				{
+					"header": "The comprehensive functional assessment is described in a policy and procedure."
+				},
+				{
+					"header": "Functional screening and assessment findings are documented in the patient’s medical record."
+				}
+			]
+		},
+		{
+			"serial": 4,
+
+			"header": "Patients with functional disorder(s) have an appropriate plan of care that meets their needs.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The physiotherapist, in collaboration with other clinical staff, develops a suitable plan of care for patients with functional disorders."
+				},
+				{
+					"header": "The plan of care meets the medical needs of the patient."
+				},
+				{
+					"header": "The plan of care has measurable goals."
+				},
+				{
+					"header": "Patients are educated about the plan of care and the procedures and rehabilitative exercises."
+				},
+				{
+					"header": "Patients are reassessed by a physiotherapist at regular intervals, their response to the plan of care is monitored, and adjustments are made accordingly."
+				},
+				{
+					"header": "The plan of care is documented in the patient’s medical record as part of multidisciplinary team planning, whenever applicable."
+				}
+			]
+		}
+	]
+}

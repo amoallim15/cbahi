@@ -1,0 +1,23 @@
+{
+	"serial": 30,
+
+	"title": "Laboratory",
+
+	"code": "LB",
+
+	"introduction": "The assessment/reassessment of patients to determine the proper diagnosis, the course of treatment, and evaluation of treatment plan for future decisions almost always require the utilization of laboratory services. To meet the patient needs, the hospital should provide appropriate laboratory services required by its patient population, clinical services offered, and healthcare provider needs. The critical importance of quality control and safety measures in medical laboratories is unquestionable, and hence this chapter includes extended number of quality and safety standards that look in depth into almost every single aspect of the daily work in hospital-based medical laboratories.\n This chapter addresses the following:",
+
+	"concerns": [
+		"Physical structure of the medical laboratory",
+		"Staffing plan and qualifications",
+		"Safety program",
+		"Specimen collection, handling and management",
+		"Equipment management program",
+		"Labeling",
+		"Results reporting",
+		"Quality management program",
+		"Point of care testing",
+		"Blood bank and blood transfusion services",
+		"Anatomical pathology"
+	]
+}

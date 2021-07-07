@@ -1,0 +1,21 @@
+{
+	"serial": 6,
+
+	"title": "Quality Management and Patient Safety",
+
+	"code": "QM",
+
+	"introduction": "This chapter addresses the senior leaders and the hospital staff's responsibility towards implementing programs that effectively improve quality and safety and reduce risks to patients, staff and visitors. The hospital leadership plays an essential role in ensuring the provision of the resources required and clearing the direction towards achieving this goal. When the hospital leaders are themselves involved and encourage and support everyone in the organization to be involved in the quality management initiatives, a general atmosphere of confidence and inspiration to work harder and to achieve high quality of care and maximum degree of safety is established. Leadership, therefore, has to set up a planned and ongoing program where processes and systems are the focus of the improvement, not only individuals.\n To be able to effectively improve quality and safety of care and reduce risks, the hospital must constantly use indicators to measure its performance and use the resulting information to identify processes which can be improved. The hospital must also be able to identify significant unexpected or adverse events and intensively analyze them to understand their underlying causes and, as a result, make the necessary improvement interventions.\n This chapter defines the processes required to improve quality and safety and reduce risks as follows:",
+
+	"concerns": [
+		"A planned and organization wide approach for quality improvement The required structure (quality and patient safety committee)",
+		"The quality management department",
+		"The quality management program",
+		"Leadership and other staff quality concepts education",
+		"Data collection for structure, process and outcome indicators of quality Prioritization and implementation of appropriate improvements",
+		"Risk management",
+		"Identification and analysis of significant events",
+		"Patient safety program",
+		"Incidents reporting and management"
+	]
+}

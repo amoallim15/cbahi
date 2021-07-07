@@ -1,0 +1,51 @@
+
+<header>
+	<nav class="navbar navbar navbar-dark ap-bluish">
+		<div class="row">
+			<div class="col-md-10 offset-md-1">
+				<a class="navbar-brand" href="home">CBAHI</a>
+				<ul class="nav navbar-nav pull-xs-right">
+					<li class="nav-item" ng-class="nav('standards')">
+						<a class="nav-link" ui-sref=".standards">Standards</a>
+					</li>
+					<li class="nav-item" ng-class="nav('policies')">
+						<a class="nav-link" ui-sref=".policies">Accreditation Policies</a>
+					</li>
+					<li class="nav-item" ng-class="nav('facilities')">
+						<a class="nav-link" ui-sref=".facilities">Projects Improvements</a>
+					</li>
+					<li class="nav-item" ng-class="nav('about')"">
+						<a class="nav-link" ui-sref=".about">About</a>
+					</li>
+					<!-- <li class="nav-item" ng-show="showAuth(1)" ng-class="nav('login')">
+						<a class="nav-link" ui-sref=".login">Login</a>
+					</li> -->
+					<li class="nav-item" ng-show="showAuth(0)">
+						<a class="nav-link" ui-sref=".profile.info" ng-bind="auth.current.name"></a>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</nav>
+</header>
+
+<div ui-view></div>
+
+<footer class="text-xs-center container-fluid">
+	<div class="row">
+		<div class="col-xs-10 offset-xs-1">
+			<div class="ap-copyright">
+				<hr />
+				<ul>
+					<li>© 2016 CBAHI</li>
+					<li>
+						<i class="fa fa-circle ap-period"></i>
+					</li>
+					<li>
+						The Saudi Central Board for Accreditation of Healthcare Institutions
+					</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</footer>

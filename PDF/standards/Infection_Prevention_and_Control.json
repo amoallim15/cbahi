@@ -1,0 +1,1106 @@
+{
+	"code": "IPC",
+	"standards": [
+		{
+			"serial": 1,
+
+			"header": "Hospital leaders support an infection prevention and control program.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Hospital leaders allocate adequate resources such as equipment and supplies for the support of the infection prevention and control program."
+				},
+				{
+					"header": "Information management system supports the infection prevention and control program."
+				},
+				{
+					"header": "When some infection prevention and control functions are outsourced (e.g., sterilization or laundry), the hospital provides oversight and management of the contract through the process described in the “Leadership” chapter in this manual."
+				}
+			]
+		},
+		{
+			"serial": 2,
+
+			"header": "There is a qualified professional responsible for directing the infection prevention and control program.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The infection prevention and control Program is supervised by a healthcare professional qualified by education, training and experience."
+				},
+				{
+					"header": "The supervisor of the infection prevention and control program reports to the hospital leadership."
+				},
+				{
+					"header": "The supervisor of the infection prevention and control program is responsible for managing and strategizing the infection prevention and control program, including:",
+
+					"details": [
+						"Developing the annual infection prevention and control plan and assuring its implementation.",
+						"Reviewing the daily activities of the structure responsible for infection prevention and control (e.g., infection prevention and control department or team).",
+						"Ensuring coordination of all aspects of the infection prevention and control activities.",
+						"Ensuring effective implementation of infection prevention and control policies.",
+						"Ensuring that healthcare associated infection surveillance is conducted in a systematic manner.",
+						"Providing ongoing consultation to all hospital departments."
+					]
+				}
+			]
+		},
+		{
+			"serial": 3,
+
+			"header": "The hospital has an infection prevention and control structure (e.g., department, team) with adequate qualified staff, based on its size, level of risks, and program scope and complexity.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "At least one full time infection prevention and control practitioner is assigned per hundred beds (including emergency beds, dental chairs, day case, dialysis and others).",
+
+					"details":[
+						"An additional ratio of one infection prevention and control practitioner per thirty intensive care beds is considered where ventilation and hemodynamic monitoring are routinely performed.",
+						"An additional ratio of one infection prevention and control practitioner per one hundred twenty patients dialyzed per day."
+					]
+				},
+				{
+					"header": "The infection prevention and control practitioners are qualified in infection prevention and control practices by education (physician, registered nurse, or certified professional in infection prevention and control), training or experience."
+				},
+				{
+					"header": "The infection prevention and control practitioners acquire and maintain current knowledge and skills in the field of infection prevention and control and epidemiology."
+				}
+			]
+		},
+		{
+			"serial": 4,
+
+			"header": "There is a designated multidisciplinary committee that provides oversight of the infection prevention and control program.",
+
+			"tags": ["ESR"],
+
+			"details": [
+				{
+					"header": "The infection prevention and control committee is chaired by the hospital director or the medical director."
+				},
+				{
+					"header": "The membership of the infection prevention and control committee includes representatives from the medical staff, nursing staff, microbiology, operating room, central sterilization service, pharmaceutical care, dietary services, housekeeping, infection prevention and control staff, and other departments as needed."
+				},
+				{
+					"header": "The infection prevention and control committee meets on a regular basis (at least quarterly)."
+				},
+				{
+					"header": "Functions of the infection prevention and control committee include, but are not limited to, the following:",
+
+					"details": [
+						"Review of the hospital infection prevention and control policies and procedures.",
+						"Review of the reports of healthcare-associated infections surveillance submitted regularly by the infection prevention and control team and suggestion of appropriate actions.",
+						"Revision of the yearly plan submitted by infection prevention and control team and suggestion of additions/changes if necessary.",
+						"Evaluates and revises on a continuous basis the procedures & the mechanisms developed by the infection prevention & control team to serve established standards and goals.",
+						"Brings to the attention of the infection prevention & control team new infection control issues arising in different departments of the hospital & suggests solutions.",
+						"Each member of the committee acts as an advocate of infection prevention & control in his department, trying to promote its principles, and ensures application of its rules."
+					]
+				}
+			]
+		},
+		{
+			"serial": 5,
+
+			"header": "The hospital designs and implements a coordinated program to reduce the risk of healthcare-associated infections (HAIs) in patients, visitors, and healthcare workers.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There is a program to reduce the risk of healthcare-associated infections which involves patients, families, staff, volunteers, trainees and visitors."
+				},
+				{
+					"header": "The program applies to all areas of the hospital."
+				},
+				{
+					"header": "The program is guided by an annual infection prevention and control plan."
+				},
+				{
+					"header": "The program addresses the unique situations of the hospital and its community such as patient populations, complexity of care provided, climate, and location."
+				},
+				{
+					"header": "The infection prevention and control program is based on:",
+
+					"details": [
+						"Risk assessment.",
+						"Current scientific knowledge.",
+						"Referenced practice guidelines.",
+						"Applicable laws and regulations."
+					]
+				}
+			]
+		},
+		{
+			"serial": 6,
+
+			"header": "The hospital has an infection prevention and control annual plan.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital has infection prevention and control annual plan that addresses the epidemiologically important infections, processes, and devices that are associated with risk of healthcare-associated infections as identified by the hospital."
+				},
+				{
+					"header": "The plan includes measures for patient safety (standard precautions, transmission based isolation, different care bundles)."
+				},
+				{
+					"header": "The plan includes measures for staff safety (e.g., staff immunization and post exposure management)."
+				},
+				{
+					"header": "The plan includes measures for staff, and patient/family education."
+				},
+				{
+					"header": "The plan is evaluated and approved annually by the infection prevention and control committee."
+				},
+				{
+					"header": "The plan includes metrics of required changes in targets and goals to reduce hospital acquired infections."
+				}
+			]
+		},
+		{
+			"serial": 7,
+
+			"header": "Policies and procedures guide the infection prevention and control program.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Infection prevention and control policies and procedures are developed by the infection prevention and control staff and approved by the infection prevention and control committee."
+				},
+				{
+					"header": "Infection prevention and control policies and procedures are collaboratively developed with medical staff, nursing staff, and other internal and external relevant stakeholders."
+				},
+				{
+					"header": "Infection prevention and control policies and procedures are organized in one manual."
+				},
+				{
+					"header": "The infection prevention and control manual is readily available to all relevant staff and in all patient care areas."
+				}
+			]
+		},
+		{
+			"serial": 8,
+
+			"header": "The hospital provides continuing education on infection prevention and control practices to staff, patients, families, and other caregivers as indicated by their involvement in the care process.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital provides continuing education for relevant staff on:",
+
+					"details": [
+						"Hospital wide policies, procedures, and practices of the infection prevention and control program.",
+						"Departmental policies, procedures, and practices of the infection prevention and control program based on the service provided."
+					]
+				},
+				{
+					"header": "The hospital provides education on infection prevention and control to patients, families, and other caregivers as appropriate."
+				},
+				{
+					"header": "New staff receive an orientation to the hospital's infection prevention and control policies and procedures upon hiring. Training records are maintained in their files."
+				}
+			]
+		},
+		{
+			"serial": 9,
+
+			"header": "There is a continuous surveillance of healthcare-associated infections.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There are policies and procedures which define the types of surveillance to be carried out with regard to healthcare-associated infections."
+				},
+				{
+					"header": "There are written standardized definitions for identification of healthcare-associated infections."
+				},
+				{
+					"header": "The policies and procedures define how data will be collected, analyzed, and used."
+				},
+				{
+					"header": "The monitoring process includes using indicators related to infection issues that are epidemiologically important to the hospital."
+				}
+			]
+		},
+		{
+			"serial": 10,
+
+			"header": "Results of healthcare-associated infections surveillance are integrated into the hospital’s quality improvement program.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital selects indicators based on the projected use of data (internal and external benchmarking)."
+				},
+				{
+					"header": "The hospital defines the data collection methods and sources (e.g., hospital information system, verbal and written communication, medical record review, direct observation and review of clinical indicators)."
+				},
+				{
+					"header": "The results of infection monitoring in the hospital are regularly communicated to staff, physicians, and management."
+				},
+				{
+					"header": "The hospital uses risk, rate, and trend information to design or modify processes to reduce healthcare-associated infections to the lowest possible level."
+				},
+				{
+					"header": "The hospital makes the necessary improvements for the identified epidemiologically important infections, processes, and devices that are associated with risk of healthcare-associated infections."
+				}
+			]
+		},
+		{
+			"serial": 11,
+
+			"header": "The hospital designs and implements a comprehensive system for investigation and management of outbreaks of infectious diseases.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There is a policy and procedure that guides staff for investigation and control of outbreaks of infectious diseases."
+				},
+				{
+					"header": "The policy defines how an outbreak is determined."
+				},
+				{
+					"header": "The infection prevention and control team leads the investigation and control of outbreaks of infectious diseases."
+				},
+				{
+					"header": "The results of investigation of an outbreak are used to prevent recurrence."
+				}
+			]
+		},
+		{
+			"serial": 12,
+
+			"header": "The hospital implements a comprehensive program for preventing and managing sharp injuries.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There is a policy and procedure that addresses handling of sharps."
+				},
+				{
+					"header": "Needles are not bent, broken, or recapped except in special and approved circumstances (if recapping is necessary, the \"scoop method\" is used)."
+				}
+			]
+		},
+		{
+			"serial": 13,
+
+			"header": "Sharps are discarded in appropriate containers.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Sharp boxes used are puncture-proof, leak-proof, and present no risk to staff or patients."
+				},
+				{
+					"header": "Sufficient number of sharp boxes is available in patient care areas (ideally one per patient’s room or at least one per procedure trolley)."
+				},
+				{
+					"header": "Sharp boxes are available in appropriate size according to the size of sharps used."
+				},
+				{
+					"header": "Sharp boxes are properly used: not overfilled, not opened to transfer sharps into other containers, and mounted at or below eye level."
+				},
+				{
+					"header": "Sharp boxes are disposed in accordance to laws and regulations when their contents are 3/4 of their sizes and/or when an odor arises."
+				}
+			]
+		},
+		{
+			"serial": 14,
+
+			"header": "There is a system that separates patients with communicable diseases and those who are colonized or infected with epidemiologically important organisms.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There are policies and procedures that address standard and transmission-based precautions.",
+
+					"details": [
+						"The policies and procedures address separating patients with communicable diseases and those who are colonized or infected with epidemiologically important organisms from other patients, staff, and visitors."
+					]
+				},
+				{
+					"header": "The transfer of patient outbound or inbound should secure the prevention of spread of Methicillin- resistant staphylococcus aureus (MRSA) or other epidemiologically significant organisms.",
+
+					"details": [
+						"All patients for transfer outbound known to have MRSA or other epidemiologically significant organisms must be reported upon requesting the transfer with the supporting document.",
+						"All patients transferred to the hospital must be kept under contact transmission-based precaution unless proving otherwise."
+					]
+				}
+			]
+		},
+		{
+			"serial": 15,
+
+			"header": "Facility design and available supplies support isolation practices.",
+
+			"tags": ["ESR"],
+
+			"details": [
+				{
+					"header": "There is at least one negative pressure airborne isolation room in the emergency room and one in patient care areas (one negative pressure room for every 25-30 beds in general hospitals)."
+				},
+				{
+					"header": "The infection prevention and control team decides the need for more airborne isolation rooms depending on the volume of patients in need for airborne isolation admitted to the hospital."
+				},
+				{
+					"header": "The ventilation system serving airborne isolation facilities provides pressure patterns that prevent airborne pathogens from being distributed to other areas of the hospital.",
+
+					"details": [
+						"Rooms designed for airborne isolation patients are under negative pressure.",
+						"Air is exhausted to the outside and is not re-circulated unless it is filtered through High-Efficiency Particulate Air (HEPA) Filter.",
+						"There is evidence of daily air exchange monitoring (12 air changes per hour) when a patient is isolated. Weekly monitoring of the air exchange is needed when no patient is isolated."
+					]
+				},
+				{
+					"header": "The entry of the isolation room is through a work area or ante-room that serves as a site for hand washing, gowning and storage of protective clothing (gloves, aprons, masks)."
+				},
+				{
+					"header": "Toilet, shower, or tub and hand washing facilities are provided for each isolation room."
+				},
+				{
+					"header": "Transmission-based precaution cards (isolation signs) are consistent with the patient diagnosis and are posted in Arabic and English and indicate the type of precautions required.",
+
+					"details": [
+						"Transmission-based precaution cards (isolation signs) are color coded for isolation of different categories (e.g., contact: green, airborne: blue, droplet: pink or red).",
+						"Transmission-based precaution cards (isolation signs) should contain short statements and supported with the required figures.",
+						"Isolation instructions must highlight the transmission-based precaution cards (isolation signs) needed while transporting the patients under transmission-based precautions to other department (e.g., radiology)."
+					]
+				},
+				{
+					"header": "Respirator (high filtration) masks (N-95, N-99) are used by staff during direct care of patients on airborne precautions and are available on all units likely to admit patients on airborne precautions."
+				},
+				{
+					"header": "Respirator (high filtration) masks (N95, N-99) can be reused by the same patient care giver as per the period specified by the manufacturer."
+				}
+			]
+		},
+		{
+			"serial": 16,
+
+			"header": "Disinfectants use is supervised by the infection prevention and control team.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The purchase of equipment and supplies used for sterilization and disinfection is reviewed by the infection prevention and control team."
+				},
+				{
+					"header": "Antiseptics and disinfectants are used in accordance with current scientific guidelines and recommended practice (e.g., approved by recognized professional organizations such as the Food and Drug Administration and Environmental Protection Agency)."
+				}
+			]
+		},
+		{
+			"serial": 17,
+
+			"header": "The hospital ensures environmental safety when disinfectants are used outside the central sterilization service.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "In endoscopy units, a proper approved disinfectant is used in a way to protect the patient, the staff and the environment from possible infectious hazard.",
+
+					"details": [
+						"The procedure room and the decontamination room are physically separated and the decontamination room has infection control requirements to prevent spread of infection to healthcare workers and to patients.",
+						"Appropriate personal protective equipment (respirator, gloves: nitrile or butyl rubber, goggles and gowns) are used.",
+						"Unauthorized persons are not allowed in the processing area.",
+						"Well closed containers are used to keep the disinfectant solution.",
+						"A policy and procedure is implemented on how the end oscope is processed (cleaning, decontamination, and disinfection) between patients.",
+						"End oscopes are cleaned with disposable brushes or with reusable brushes that are sterilized after every use. Heat-stable parts and accessories of the endoscopes such as biopsy forceps are cleaned by mechanical cleaners and stabilized after use.",
+						"Quality tests (strips or other method) used to confirm the stability of the disinfectant are performed every day and records are maintained."
+					]
+				},
+				{
+					"header": "For bronchoscopy, the following is applied:",
+
+					"details": [
+						"Bronchoscopy is performed in a room with negative air pressure and at least twelve air changes per hour. Personal protective equipment are available including N-95/N-99 masks.",
+						"Cleaning of the bronchoscopes begins immediately after the procedure to prevent drying or hardening of organic debris.",
+						"Bronchoscopes are disinfected as per manufacturer’s recommendation."
+					]
+				}
+			]
+		},
+		{
+			"serial": 18,
+
+			"header": "The hospital ensures efficient and quality sterilization service.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital provides central sterilization service."
+				},
+				{
+					"header": "There are policies and procedures for the central sterilization service.",
+
+					"details": [
+						"The policies and procedures are consistent with scientific guidelines.",
+						"The policies and procedures are reviewed and approved by the infection prevention and control committee.",
+						"There are policies and procedures on transportation, cleansing, decontamination, disinfection, sterilization, storage, and recall of sterile items."
+					]
+				},
+				{
+					"header": "Contaminated items are transported in safe closed containers with biohazards sign from the outside to prevent spills or aerosolization of infectious fluids."
+				}
+			]
+		},
+		{
+			"serial": 19,
+
+			"header": "Central sterilization service staff are qualified by education, certification, or training in the field of sterilization and disinfection.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The supervisor of the central sterilization service has experience, knowledge, and certification in sterilization practice and is registered with the Saudi Commission for Health Specialties as a central sterilization service technician."
+				},
+				{
+					"header": "Central sterilization service staff are qualified by education, certification, or training in the field of sterilization and disinfection."
+				},
+				{
+					"header": "Staff are able to explain the sterilizers’ operation and to name the main parameters to be followed: sterilization time, temperature, and pressure."
+				},
+				{
+					"header": "Proper sterilization parameters are recorded.",
+
+					"details": [
+						"Records include load list, daily function test, spore test results, lotnumber, andname of operator.",
+						"Sterilization records are kept for one year to allow inspection."
+					]
+				},
+				{
+					"header": "Sterilization time and temperature cycles used are in accordance with the manufacturer’s guidelines."
+				}
+			]
+		},
+		{
+			"serial": 20,
+
+			"header": "The central sterilization service design supports its functions.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There is a uni-directional flow of traffic from dirty to clean areas (i.e. decontamination area ? packing ? sterilization ? storage areas)."
+				},
+				{
+					"header": "Traffic control signs are in place."
+				},
+				{
+					"header": "The decontamination area is under negative pressure with exhaust to the outside; the clean area is under positive pressure with at least ten air cycles/hour."
+				},
+				{
+					"header": "There is complete physical separation between the decontamination area, the area where clean items are packaged and sterilized, and the area were sterilized items are stored."
+				}
+			]
+		},
+		{
+			"serial": 21,
+
+			"header": "The central sterilization service has measures to ensure staff safety and proper function.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Personal protective equipment are available and used during decontamination (heavy-duty gloves, waterproof aprons, facemask, plastic durable boots and goggles or face shield)."
+				},
+				{
+					"header": "If manual cleaning is performed, at least two sinks are used, one for soaking and cleaning and one for rinsing before the final wash."
+				},
+				{
+					"header": "The cleansing brushes are disposable. When the cleansing brushes are auto-clavable, the manufacturer’s instructions are followed and the brushes are replaced when needed."
+				},
+				{
+					"header": "Staff inspect instrument after cleansing to ensure that they are in good practical condition and fit to be used."
+				},
+				{
+					"header": "Sterilizers are in good working order. Instructions on sterilizers’ use are available."
+				},
+				{
+					"header": "Preventive maintenance records for sterilizers are available and clearly show the maintenance history of the sterilizers."
+				},
+				{
+					"header": "Chemical indicators are used in every package. Biological indicators are used at least weekly. Records of results are kept for one year."
+				},
+				{
+					"header": "Use of flash steam sterilizer is limited to urgent situations which preclude use of other sterilizer methods. This use is closely monitored and recorded. Policies in this regard are reviewed by central sterilization service staff."
+				},
+				{
+					"header": "Where ethylene oxide is used, safety and health hazards are addressed."
+				}
+			]
+		},
+		{
+			"serial": 22,
+
+			"header": "The hospital ensures safe reprocessing of single use items.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital implements a policy and procedure regarding reprocessing of single use items. The policy defines the following:",
+
+					"details": [
+						"The items that can be reused.",
+						"Patients and conditions for reuse of single-use items.",
+						"Measures taken to ensure safety and integrity including testing and maintenance by biomedical engineering.",
+						"Manufacturer approval as a prerequisite, whenever applicable."
+					]
+				},
+				{
+					"header": "The policy is approved by the infection prevention and control committee and hospital director."
+				},
+				{
+					"header": "Justification of reprocessing is provided by the head(s) of the concerned department(s)."
+				}
+			]
+		},
+		{
+			"serial": 23,
+
+			"header": "The hospital has policies and procedures for housekeeping.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The housekeeping has policies and procedures that describe the areas to be cleaned, the schedule for cleaning, and the procedures to be used for cleaning different environmental surfaces. "
+				},
+				{
+					"header": "Policies and procedures, schedules, and agents utilized are reviewed by infection prevention and control staff."
+				},
+				{
+					"header": "All units have a cleaning/ disinfection schedule which lists all environmental surfaces to be cleaned."
+				}
+			]
+		},
+		{
+			"serial": 24,
+
+			"header": "The hospital environment is kept clean.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Hospital environment, lockers, and cabinets are clean."
+				},
+				{
+					"header": "Food is stored under sanitary conditions and is consumed in designated places."
+				},
+				{
+					"header": "Food refrigerators are clean and are used only for food storage."
+				},
+				{
+					"header": "There are separate clean and dirty utility areas in each patient care area."
+				},
+				{
+					"header": "There are policies and procedures on pest control that address the regular schedule for pest control, chemical list, and time and place of exposure."
+				},
+				{
+					"header": "Routine environmental microbiological cultures are not performed unless recommended by the infection prevention and control team."
+				}
+			]
+		},
+		{
+			"serial": 25,
+
+			"header": "There is a system to handle blood/body fluids spills.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital implements a policy on blood/body fluids spill kit use."
+				},
+				{
+					"header": "Blood spill kits are available in all patient care units, including all necessary components. Hospital staff working in patient care areas are capable of cleaning of blood/body fluids spills."
+				}
+			]
+		},
+		{
+			"serial": 26,
+
+			"header": "The hospital implements a program that is consistent with laws and regulations for safe disposal of medical waste.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There is a policy and procedure for safe disposal of medical waste."
+				},
+				{
+					"header": "Medical waste is disposed by specialized company and includes all types of medical waste."
+				},
+				{
+					"header": "Medical waste segregation, collection, and storing is conducted as per applicable laws and regulations."
+				},
+				{
+					"header": "Yellow bags are used for all non-sharp disposable materials contaminated with patient’s blood and/or body fluids."
+				},
+				{
+					"header": "Yellow bags are distributed in the hospital in sufficient number and location."
+				},
+				{
+					"header": "Red bags are used for tissues, body parts, and amputated parts to be saved and then collected by the municipality to be buried."
+				},
+				{
+					"header": "Medical waste containers are cleaned and maintained regularly."
+				},
+				{
+					"header": "Hazard signs are fixed on all medical waste containers."
+				},
+				{
+					"header": "Medical waste collection points are cleaned and maintained regularly."
+				},
+				{
+					"header": "Labor working in medical disposal are well trained and vaccinated against blood borne pathogens."
+				}
+			]
+		},
+		{
+			"serial": 27,
+
+			"header": "The mortuary and postmortem area are supervised by infection prevention and control.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There are written policies on how to handle bodies post mortem especially bodies that have multiple open wounds."
+				},
+				{
+					"header": "The temperature of the morgue is kept at 2-4°C and logged daily."
+				},
+				{
+					"header": "For long term preservation of dead bodies, the facility must provide a deep freezing compartment (temp < -15°C)."
+				},
+				{
+					"header": "The morgue is regularly cleaned and disinfected."
+				}
+			]
+		},
+		{
+			"serial": 28,
+
+			"header": "Kitchen environment and functions are supervised by infection prevention and control.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Kitchen design supports its function."
+				},
+				{
+					"header": "Kitchen areas are separated based on assigned function. (Separate area for vegetables, meat, desert preparation, etc.)."
+				},
+				{
+					"header": "Adequate number of hand washing facilities are present in each area."
+				},
+				{
+					"header": "Food containers are properly labeled and expiry dates noted."
+				},
+				{
+					"header": "Temperature requirements are met during storage, preparation, and transportation."
+				},
+				{
+					"header": "Food is protected from environment during storage, preparation, display, and transportation."
+				},
+				{
+					"header": "Garbage containers or receptacles are adequate in number, insect and rodent proof, and are covered."
+				},
+				{
+					"header": "Refrigerator temperatures are checked daily and documented on log sheets."
+				},
+				{
+					"header": "Kitchen environment is clean."
+				},
+				{
+					"header": "The kitchen environment and functions are addressed in policies and procedures that are reviewed by the infection prevention and control team."
+				},
+				{
+					"header": "Food delivery to the receiving area must be checked for quality and temperature."
+				},
+				{
+					"header": "Fruits and vegetables are washed and disinfected thoroughly."
+				},
+				{
+					"header": "Food containers are washed immediately after being emptied from food."
+				},
+				{
+					"header": "Boards used to cut meat, poultry, chicken, or vegetables are identifiably separated and immediately washed after use."
+				}
+			]
+		},
+		{
+			"serial": 29,
+
+			"header": "Kitchen staff hygiene and health are supervised by infection prevention and control.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There are policies and procedures that address staff hygiene and health in the kitchen and are reviewed by infection prevention and control team."
+				},
+				{
+					"header": "While handling food, hands are washed, hair is covered, and gloves are worn."
+				},
+				{
+					"header": "Personnel with respiratory infections or gastroenteritis are restricted from handling food."
+				},
+				{
+					"header": "Stool tests and cultures are performed routinely upon hiring, every six months, and after returning back from vacation."
+				},
+				{
+					"header": "Results of stool analysis and cultures are reviewed by the infection prevention and control practitioner."
+				}
+			]
+		},
+		{
+			"serial": 30,
+
+			"header": "Laundry functions are supervised by infection prevention and control team.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There are policies and procedures on linen management that cover all steps starting from collecting linen from patients’ rooms until completion of the cleaning process."
+				},
+				{
+					"header": "Clean linen is transported, handled, and stored in a way that keeps it protected from contamination and dust."
+				},
+				{
+					"header": "Clean and used linen are separated during storage and transport."
+				},
+				{
+					"header": "Linen carts used for clean and used linen are clearly identified."
+				},
+				{
+					"header": "Loose (un-bagged) linen is not to be put down a laundry chute."
+				},
+				{
+					"header": "Hand washing facilities are located in all areas where un-bagged linen is handled."
+				},
+				{
+					"header": "Soiled linen (contaminated with patient’s blood, excreta, or other body fluids) and linen from patients under isolation precautions are contained and transported in accordance with current professional standards:",
+
+					"details": [
+						"Soiled linen must be handled as little as possible and with minimal agitation.",
+						"Appropriate barriers (gloves, gowns, and masks) should be used when handling soiled linen.",
+						"Linen is bagged at the location where it is used and is not stored or pre-rinsed in patient’s care areas.",
+						"Linen is put into special color-coded and water-proof laundry bags."
+					]
+				},
+				{
+					"header": "Laundry functions are supervised by the infection prevention and control team."
+				}
+			]
+		},
+		{
+			"serial": 31,
+
+			"header": "The infection prevention and control team reviews and supervises construction projects in the hospital.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There are policies that address infection prevention and control considerations during demolition, renovation, and construction projects."
+				},
+				{
+					"header": "There is a mechanism to ensure involvement of infection prevention and control team prior to any demolition, renovation, and construction projects."
+				},
+				{
+					"header": "Accepted infection prevention & control measures are followed during any demolition, renovation & construction projects e.g. infection control risk assessment (ICRA)."
+				}
+			]
+		},
+		{
+			"serial": 32,
+
+			"header": "Personal protective equipment use is supervised by infection prevention and control team.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Personal protective equipment (gown, gloves, masks, and protective eyewear) are readily available in all patient care areas."
+				},
+				{
+					"header": "Policies and procedures are available on the appropriate use of gloves, gowns, facemasks, protective eyewear, and high filtration respirator masks (N-95, N-99)."
+				},
+				{
+					"header": "Proper training for the use of personal protective equipment is conducted."
+				}
+			]
+		},
+		{
+			"serial": 33,
+
+			"header": "The hospital supports appropriate hand hygiene practices.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital develops policies and procedures on the proper hand hygiene practices."
+				},
+				{
+					"header": "Hand hygiene is practiced according to the relevant policies."
+				},
+				{
+					"header": "Compliance with hand hygiene is regularly monitored."
+				}
+			]
+		},
+		{
+			"serial": 34,
+
+			"header": "The hospital provides sufficient hand hygiene facilities.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Toilets, hand washing, and bathing facilities meet the needs of the hospital and are clean and in good repair."
+				},
+				{
+					"header": "Hand washing sinks are available in all patients’ rooms (including clinics and emergency rooms) and nursing stations."
+				},
+				{
+					"header": "Hand washing sinks and bathing facilities are supplied with hot and cold water under pressure."
+				},
+				{
+					"header": "Hand washing sinks are conveniently accessible to staff."
+				},
+				{
+					"header": "Antiseptic soap and towels are available for hand washing."
+				},
+				{
+					"header": "Hand disinfectants are available in adequate number (one dispenser per patients room in general wards and clinics, one per bed in critical care areas and emergency rooms, and one in every nursing station)."
+				}
+			]
+		},
+		{
+			"serial": 35,
+
+			"header": "The hospital reports communicable diseases to the relevant authorities.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Communicable diseases are timely reported internally to the infection prevention and control team by the treating team."
+				},
+				{
+					"header": "The hospital reports communicable diseases to the Ministry of Health in accordance with laws and regulations and to other authorities whenever required."
+				}
+			]
+		},
+		{
+			"serial": 36,
+
+			"header": "There are policies and procedures that address employees’ immunization and post exposure management.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "There is a structure (e.g., staff health clinic) that provides pre-employment counseling and medical services related to screening, immunization, and post exposure management."
+				},
+				{
+					"header": "Employees’ immunization and post exposure management are addressed in written policies and procedures."
+				},
+				{
+					"header": "Employees’ immunization and post exposure management are consistent with laws and regulations and recommendations of professional organizations."
+				},
+				{
+					"header": "All employees have baseline screening for hepatitis B, C, HIV, and tuberculosis."
+				},
+				{
+					"header": "The immune status of newly hired staff against hepatitis B, measles, mumps, rubella, and varicella is determined by serological testing. Appropriate vaccine(s) is administered to those who are susceptible."
+				},
+				{
+					"header": "Response to hepatitis B vaccination is monitored in vaccinated employees four weeks after completing vaccine series."
+				},
+				{
+					"header": "Non-responders to hepatitis B vaccine are offered at least a second series of the vaccine."
+				},
+				{
+					"header": "Newly hired staff are screened for tuberculosis upon contracting with PPD test, and the test is repeated annually for those who are non-reactive."
+				},
+				{
+					"header": "PPD conversion rates are calculated and monitored."
+				},
+				{
+					"header": "There is a system for reporting, follow up and management of exposure to open pulmonary TB and vaccine-preventable viruses: chickenpox, measles, mumps, and rubella."
+				},
+				{
+					"header": "There is a system for reporting, follow up, and management of needle prick and sharp injuries. The infection prevention and control team regularly monitors exposure of staff to pathogens and take corrective actions to prevent recurrence."
+				},
+				{
+					"header": "The screening, immunization, and post exposure management data are kept in staff medical records."
+				}
+			]
+		},
+		{
+			"serial": 37,
+
+			"header": "The hospital develops an anti-biogram that is regularly reviewed.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The anti-biogram is prepared at least once yearly."
+				},
+				{
+					"header": "The anti-biogram is regularly discussed by infection prevention and control committee."
+				}
+			]
+		},
+		{
+			"serial": 38,
+
+			"header": "The hospital adopts safe injection practices that minimize or prevent transmission of infection.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Staff use aseptic technique for injections preparation."
+				},
+				{
+					"header": "Staff use sterile syringes and needles."
+				},
+				{
+					"header": "Staff use single-dose vials as appropriate."
+				},
+				{
+					"header": "Staff use mask during injecting a medicine or placing a catheter into a spinal place."
+				}
+			]
+		},
+		{
+			"serial": 39,
+
+			"header": "The hospital implements evidence-based interventions to prevent ventilator–associated pneumonia.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital adopts and implements care bundle for prevention of ventilator-associated pneumonia (VAP) consistent with recognized professional practices"
+				},
+				{
+					"header": "Data on the care bundle for prevention of ventilator-associated pneumonia are regularly collected, analyzed, and evaluated. Improvement interventions are taken accordingly."
+				}
+			]
+		},
+		{
+			"serial": 40,
+
+			"header": "The hospital implements evidence-based interventions to prevent surgical site infection.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital adopts and implements care bundle for prevention of surgical site infection consistent with recognized professional practices."
+				},
+				{
+					"header": "Data on the care bundle for prevention of surgical site infection are regularly collected, analyzed, and evaluated. Improvement interventions are taken accordingly."
+				}
+			]
+		},
+		{
+			"serial": 41,
+
+			"header": "The hospital implements evidence-based interventions to prevent catheter-associated urinary tract infection.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital adopts and implements care bundle for prevention of catheter-associated urinary tract infection consistent with recognized professional practices."
+				},
+				{
+					"header": "Data on the care bundle for prevention of catheter-associated urinary tract infection are regularly collected, analyzed, and evaluated. Improvement interventions are taken accordingly."
+				}
+			]
+		},
+		{
+			"serial": 42,
+
+			"header": "The hospital implements evidence-based interventions to prevent central intravascular catheter-associated blood stream infection. scular catheter- associated blood stream infection are regularly collected, analyzed, and evaluated. Improvement interventions are taken accordingly.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital adopts and implements care bundle for prevention of central intravascular catheter- associated blood stream infection consistent with recognized professional practices."
+				},
+				{
+					"header": "Data on the care bundle for prevention of central intravascular catheter-associated blood stream infection are regularly collected, analyzed, and evaluated. Improvement interventions are taken accordingly."
+				}
+			]
+		},
+		{
+			"serial": 43,
+
+			"header": "The hospital implements evidence-based interventions to reduce the burden of epidemiologically significant organisms.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "The hospital adopts and implements care bundle for prevention of Multidrug Resistant Organisms (MDROs) consistent with recognized professional practices."
+				},
+				{
+					"header": "Data on the care bundle for prevention of Multidrug Resistant Organisms (MDROs) are regularly collected, analyzed, and evaluated. Improvement interventions are taken accordingly."
+				}
+			]
+		},
+		{
+			"serial": 44,
+
+			"header": "Staff accommodation is healthy.",
+
+			"tags": [],
+
+			"details": [
+				{
+					"header": "Staff accommodation is clean, well ventilated, not overcrowded, well maintained, and free from pets."
+				},
+				{
+					"header": "Staff accommodation provides facilities for staff isolated or restricted from work due to infection issues."
+				}
+			]
+		}
+	]
+}
